@@ -1,9 +1,9 @@
-import { writeFileSync, existsSync, mkdirSync } from "fs";
-import { getNovelChart } from "./lib/main.js";
+const fs = require("fs");
+const getNovelChart = require("./lib/main");
 
 const saveBase64ToFile = (base64Data, filename) => {
     const buffer = Buffer.from(base64Data, "base64");
-    writeFileSync(filename, buffer);
+    fs.writeFileSync(filename, buffer);
 };
 
 const generateReadme = (novelChart) => {
@@ -20,7 +20,7 @@ const generateReadme = (novelChart) => {
     content += `---\n\n`;
     content += `最后生成：${getDate(Date.now())}.\n\n`;
 
-    writeFileSync("README.md", content);
+    fs.writeFileSync("README.md", content);
 };
 
 const getDate = (unix) => {
@@ -28,8 +28,8 @@ const getDate = (unix) => {
 };
 
 // Make sure the novels directory exists
-if (!existsSync("./novels")) {
-    mkdirSync("./novels");
+if (!fs.existsSync("./novels")) {
+    fs.mkdirSync("./novels");
 }
 
 getNovelChart()
