@@ -1,5 +1,5 @@
 import { writeFileSync, existsSync, mkdirSync } from "fs";
-import getNovelChart from "./lib/main";
+import { getNovelChart } from "./lib/main.js";
 
 const saveBase64ToFile = (base64Data, filename) => {
     const buffer = Buffer.from(base64Data, "base64");
