@@ -37,7 +37,7 @@ getNovelChart()
         novels = novelChart.novels;
         lastUpdated = getDate(Date.now());
 
-        writeFileSync("json/data.json", JSON.stringify([novelChart, lastUpdated], null, 4), "utf-8");
+        fs.writeFileSync("json/data.json", JSON.stringify([novelChart, lastUpdated], null, 4), "utf-8");
         // Save the novel chapters
         /* novelChart.novels.forEach((novel, _) => {
             const data = novel.data_base64;
