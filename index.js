@@ -8,9 +8,10 @@ const saveBase64ToFile = (base64Data, filename) => {
 
 const generateReadme = (novelChart) => {
     let content = `# 晋江文学城[排行榜] - 百合\n\n`;
-    content += `<h4 align="center">\n<a href="https://github.com/amaliegay/jjwxc-charts/blob/main/都市情缘.md">都市情缘</a> |\n<b>穿越时空</b> |\n<a href="https://github.com/amaliegay/jjwxc-charts/blob/main/天赐良缘.md">天赐良缘</a>\n</h4>`;
 
-    content += `\n\n`;
+    content += `<h4 align="center">\n\t<a href="https://github.com/amaliegay/jjwxc-charts/blob/main/都市情缘.md">都市情缘</a> |\n\t<b>穿越时空</b> |\n\t<a href="https://github.com/amaliegay/jjwxc-charts/blob/main/天赐良缘.md">天赐良缘</a>\n</h4>\n`;
+
+    content += `\n`;
 
     content += "| 序号 | 作者 | 作品 | 类型 | 进度 | 字数 | 积分 |\n";
     content += "|-----|------|------|-----|------|------|-----|\n";
@@ -18,7 +19,7 @@ const generateReadme = (novelChart) => {
         content += `| ${index} | ${novel.author} | [${novel.title}](${novel.url}) | ${novel.genre} | ${novel.status} | ${novel.wordCount} | ${novel.credits} |\n`;
     });
 
-    content += `\n\n`;
+    content += `\n`;
 
     content += `### Copyright By 晋江文学城 www.jjwxc.net All rights reserved\n\n`;
     content += `---\n\n`;
