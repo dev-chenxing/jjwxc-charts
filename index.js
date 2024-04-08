@@ -10,6 +10,8 @@ const generateReadme = (novelChart) => {
     let content = `# 晋江文学城[排行榜] - 百合\n\n`;
     content += `<h4 align="center">\n<a href="https://github.com/amaliegay/jjwxc-charts/blob/main/都市情缘.md">都市情缘</a> |\n<b>穿越时空</b> |\n<a href="https://github.com/amaliegay/jjwxc-charts/blob/main/天赐良缘.md">天赐良缘</a>\n</h4>`;
 
+    content += `\n\n`;
+
     content += "| 序号 | 作者 | 作品 | 类型 | 进度 | 字数 | 积分 |\n";
     content += "|-----|------|------|-----|------|------|-----|\n";
     novelChart.novels.forEach((novel, index) => {
