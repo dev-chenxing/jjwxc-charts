@@ -4,6 +4,8 @@ const getNovelChart = require("./lib/main");
 const getTagString = (genre, isCurrentGenre) => {
     if (isCurrentGenre) {
         return `\t<b>${genre}</b> |\n`;
+    } else if (genre === "穿越时空") {
+        return '\t<a href="https://github.com/amaliegay/jjwxc-charts/blob/main/README.md">穿越时空</a> |\n';
     } else {
         return `\t<a href="https://github.com/amaliegay/jjwxc-charts/blob/main/${genre}.md">${genre}</a> |\n`;
     }
@@ -12,11 +14,11 @@ const getTagString = (genre, isCurrentGenre) => {
 const genres = { 重生: 10901, 幻想未来: 10905, 架空历史: 10903, 都市情缘: 10906, 穿越时空: 10904, 天赐良缘: 10907, 时尚娱乐: 10908, 奇幻异闻: 10902, 系统快穿: 10911, 宫廷侯爵: 10909, 业界精英: 10910, 情有独钟: 10912 };
 
 const getLanguagesNavBar = (currentGenre) => {
-    let navBar = `<h4 align="center">\n`;
+    let navBar = `<h5 align="center">\n`;
     for (const genre in genres) {
         navBar += getTagString(genre, genre === currentGenre);
     }
-    navBar += `</h4>\n`;
+    navBar += `</h5>\n`;
     return navBar;
 };
 
