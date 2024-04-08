@@ -16,6 +16,8 @@ const generateReadme = (novelChart) => {
         content += `| ${index} | ${novel.author} | [${novel.title}](${novel.url}) | ${novel.genre} | ${novel.status} | ${novel.wordCount} | ${novel.credits} |\n`;
     });
 
+    content += `\n\n`;
+
     content += `### Copyright By 晋江文学城 www.jjwxc.net All rights reserved\n\n`;
     content += `---\n\n`;
     content += `最后生成：${getDate(Date.now())}.\n\n`;
