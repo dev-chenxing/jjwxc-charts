@@ -1,6 +1,6 @@
 # 晋江文学城[排行榜] - 百合
 
-<h4 align="center">
+<h5 align="center">
 	<a href="https://github.com/amaliegay/jjwxc-charts/blob/main/重生.md">重生</a> |
 	<a href="https://github.com/amaliegay/jjwxc-charts/blob/main/幻想未来.md">幻想未来</a> |
 	<a href="https://github.com/amaliegay/jjwxc-charts/blob/main/架空历史.md">架空历史</a> |
@@ -13,7 +13,7 @@
 	<a href="https://github.com/amaliegay/jjwxc-charts/blob/main/宫廷侯爵.md">宫廷侯爵</a> |
 	<a href="https://github.com/amaliegay/jjwxc-charts/blob/main/业界精英.md">业界精英</a> |
 	<a href="https://github.com/amaliegay/jjwxc-charts/blob/main/情有独钟.md">情有独钟</a> |
-</h4>
+</h5>
 
 | 序号 | 作者 | 作品 | 类型 | 进度 | 字数 | 积分 |
 |-----|------|------|-----|------|------|-----|
@@ -107,5 +107,5 @@
 
 ---
 
-最后生成：2024-04-09, 00:08:22 GMT+8.
+最后生成：2024-04-09, 00:17:40 GMT+8.
 
