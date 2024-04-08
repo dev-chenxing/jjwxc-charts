@@ -3,9 +3,15 @@ const getNovelChart = require("./lib/main");
 
 const getTagString = (genre, isCurrentGenre) => {
     if (isCurrentGenre) {
-        return `\t<b>${genre}</b> |\n`;
+        if (genre === "情有独钟") {
+            return "\t<b>情有独钟</b>\n";
+        } else {
+            return `\t<b>${genre}</b> |\n`;
+        }
     } else if (genre === "穿越时空") {
         return '\t<a href="https://github.com/amaliegay/jjwxc-charts/blob/main/README.md">穿越时空</a> |\n';
+    } else if (genre === "情有独钟") {
+        return '\t<a href="https://github.com/amaliegay/jjwxc-charts/blob/main/情有独钟.md">情有独钟</a>\n';
     } else {
         return `\t<a href="https://github.com/amaliegay/jjwxc-charts/blob/main/${genre}.md">${genre}</a> |\n`;
     }
