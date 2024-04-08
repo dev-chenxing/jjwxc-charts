@@ -11,7 +11,8 @@ const generateReadme = (novelChart) => {
     content += "| 序号 | 作者 | 作品 | 类型 | 进度 | 字数 | 积分 |\n";
     content += "|-----|------|------|-----|------|------|-----|\n";
     novelChart.novels.forEach((novel, index) => {
-        content += `| ${index + 1} | ${novel.author} | [${novel.title}](${novel.url}) | ${novel.genre} | ${novel.status} | ${novel.wordCount} | ${novel.credits} |\n`;
+        const url = `https://www.jjwxc.net/${novel.url}`;
+        content += `| ${index + 1} | ${novel.author} | [${novel.title}](${url}) | ${novel.genre} | ${novel.status} | ${novel.wordCount} | ${novel.credits} |\n`;
     });
 
     content += `\n`;
