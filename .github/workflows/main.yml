@@ -37,10 +37,6 @@ jobs:
               run: rm -rf ./novels
             - name: Create ./novels directory
               run: mkdir novels
-            - name: install Chinese language support
-              run: |-
-                  sudo apt-get install language-pack-zh*
-                  sudo apt-get install chinese*
             - run: npm install --if-present
             - run: npm start
             - name: Commit and push if it changed
