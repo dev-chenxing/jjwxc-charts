@@ -1,10 +1,29 @@
 const fs = require("fs");
 const getNovelChart = require("./lib/main");
 
+const getTagString = (genre, isCurrentGenre) => {
+    if (isCurrentGenre) {
+        `\t<b>${genre}</b> |\n`;
+    } else {
+        return `\t<a href="https://github.com/amaliegay/jjwxc-charts/blob/main/${genre}.md">${genre}</a> |\n`;
+    }
+};
+
+const genres = ["重生", "幻想未来", "架空历史", "都市情缘", "穿越时空", "天赐良缘", "时尚娱乐", "奇幻异闻", "系统快穿", "宫廷侯爵", "业界精英", "情有独钟"];
+
+const getLanguagesNavBar = (currentGenre) => {
+    let navBar = `<h4 align="center">\n`;
+    for (const genre of genres) {
+        navBar += getTagString(genre, genre === currentGenre);
+    }
+    navBar += `</h4>\n`;
+    return navBar;
+};
+
 const generateReadme = (novelChart) => {
     let content = `# 晋江文学城[排行榜] - 百合\n\n`;
 
-    content += `<h4 align="center">\n\t<a href="https://github.com/amaliegay/jjwxc-charts/blob/main/都市情缘.md">都市情缘</a> |\n\t<b>穿越时空</b> |\n\t<a href="https://github.com/amaliegay/jjwxc-charts/blob/main/天赐良缘.md">天赐良缘</a>\n</h4>\n`;
+    content += getLanguagesNavBar("穿越时空");
 
     content += `\n`;
 
