@@ -8,8 +8,9 @@ on:
     pull_request:
         branches: [main]
     workflow_dispatch:
-    # schedule:
-    #    - cron: "*/5 * * * *"
+    # Runs at 00:00
+    schedule:
+        - cron: "0 0 * * *"
 
 permissions:
     contents: write
