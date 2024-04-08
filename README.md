@@ -1,9 +1,17 @@
 # 晋江文学城[排行榜] - 百合
 
 <h4 align="center">
+	<a href="https://github.com/amaliegay/jjwxc-charts/blob/main/重生.md">重生</a> |
+	<a href="https://github.com/amaliegay/jjwxc-charts/blob/main/幻想未来.md">幻想未来</a> |
+	<a href="https://github.com/amaliegay/jjwxc-charts/blob/main/架空历史.md">架空历史</a> |
 	<a href="https://github.com/amaliegay/jjwxc-charts/blob/main/都市情缘.md">都市情缘</a> |
-	<b>穿越时空</b> |
-	<a href="https://github.com/amaliegay/jjwxc-charts/blob/main/天赐良缘.md">天赐良缘</a>
+undefined	<a href="https://github.com/amaliegay/jjwxc-charts/blob/main/天赐良缘.md">天赐良缘</a> |
+	<a href="https://github.com/amaliegay/jjwxc-charts/blob/main/时尚娱乐.md">时尚娱乐</a> |
+	<a href="https://github.com/amaliegay/jjwxc-charts/blob/main/奇幻异闻.md">奇幻异闻</a> |
+	<a href="https://github.com/amaliegay/jjwxc-charts/blob/main/系统快穿.md">系统快穿</a> |
+	<a href="https://github.com/amaliegay/jjwxc-charts/blob/main/宫廷侯爵.md">宫廷侯爵</a> |
+	<a href="https://github.com/amaliegay/jjwxc-charts/blob/main/业界精英.md">业界精英</a> |
+	<a href="https://github.com/amaliegay/jjwxc-charts/blob/main/情有独钟.md">情有独钟</a> |
 </h4>
 
 | 序号 | 作者 | 作品 | 类型 | 进度 | 字数 | 积分 |
@@ -101,5 +109,5 @@
 
 ---
 
-最后生成：2024-04-08, 23:33:31 GMT+8.
+最后生成：2024-04-08, 23:51:09 GMT+8.
 
