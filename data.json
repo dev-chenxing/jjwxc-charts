@@ -1,0 +1,735 @@
+[
+    {
+        "novels": [
+            {
+                "author": "闲亭笔落",
+                "title": "穿为女主的契约A",
+                "genre": "原创-百合-近代现代-爱情",
+                "status": "连载",
+                "wordCount": "226614",
+                "credits": "103,947,952"
+            },
+            {
+                "author": "淘醉",
+                "title": "误标记了女主的黑莲花后妈",
+                "genre": "原创-百合-近代现代-爱情",
+                "status": "连载",
+                "wordCount": "250004",
+                "credits": "96,005,640"
+            },
+            {
+                "author": "唐小海",
+                "title": "中蛊后和病弱挚友HE了",
+                "genre": "原创-百合-架空历史-仙侠",
+                "status": "连载",
+                "wordCount": "163031",
+                "credits": "70,036,864"
+            },
+            {
+                "author": "嗜眠",
+                "title": "恶龙小姐与哑巴小厨娘",
+                "genre": "原创-百合-近代现代-爱情",
+                "status": "连载",
+                "wordCount": "56330",
+                "credits": "59,718,684"
+            },
+            {
+                "author": "羡淮",
+                "title": "惊！同居姐姐竟是未婚妻",
+                "genre": "原创-百合-近代现代-爱情",
+                "status": "连载",
+                "wordCount": "259755",
+                "credits": "51,586,504"
+            },
+            {
+                "author": "浅花醉",
+                "title": "死遁后魔尊她苦等三百年",
+                "genre": "原创-百合-架空历史-爱情",
+                "status": "连载",
+                "wordCount": "221836",
+                "credits": "49,438,708"
+            },
+            {
+                "author": "水邬",
+                "title": "我死后，仙尊为我入魔了",
+                "genre": "原创-百合-架空历史-爱情",
+                "status": "连载",
+                "wordCount": "212963",
+                "credits": "48,767,232"
+            },
+            {
+                "author": "娇笺",
+                "title": "和钓系姐姐同居后",
+                "genre": "原创-百合-近代现代-爱情",
+                "status": "连载",
+                "wordCount": "136954",
+                "credits": "43,752,376"
+            },
+            {
+                "author": "山风过桥",
+                "title": "被迫和死对头贴贴续命",
+                "genre": "原创-百合-近代现代-爱情",
+                "status": "连载",
+                "wordCount": "337072",
+                "credits": "42,259,992"
+            },
+            {
+                "author": "晚黛",
+                "title": "赘A和清冷影后上恋综甜爆了",
+                "genre": "原创-百合-近代现代-爱情",
+                "status": "连载",
+                "wordCount": "116040",
+                "credits": "40,571,248"
+            },
+            {
+                "author": "六出轻吕",
+                "title": "镜妖",
+                "genre": "原创-百合-架空历史-爱情",
+                "status": "连载",
+                "wordCount": "58288",
+                "credits": "38,485,160"
+            },
+            {
+                "author": "云朵糖",
+                "title": "锦鲤穿书成炮灰A",
+                "genre": "原创-百合-近代现代-爱情",
+                "status": "连载",
+                "wordCount": "184046",
+                "credits": "33,260,916"
+            },
+            {
+                "author": "双尾喵喵",
+                "title": "除我以外，全员诡秘",
+                "genre": "原创-百合-近代现代-奇幻",
+                "status": "连载",
+                "wordCount": "148347",
+                "credits": "32,451,326"
+            },
+            {
+                "author": "木狸狸狸",
+                "title": "穿书成堕魔大师姐的龙",
+                "genre": "原创-百合-架空历史-仙侠",
+                "status": "连载",
+                "wordCount": "162173",
+                "credits": "23,789,016"
+            },
+            {
+                "author": "sss2999",
+                "title": "爽文女主杀穿修仙世界，但总在莫名欠下情债",
+                "genre": "原创-百合-架空历史-爱情",
+                "status": "连载",
+                "wordCount": "156012",
+                "credits": "21,914,228"
+            },
+            {
+                "author": "乱曲",
+                "title": "攻略失败后女主火葬场了",
+                "genre": "原创-百合-近代现代-爱情",
+                "status": "连载",
+                "wordCount": "66268",
+                "credits": "19,819,692"
+            },
+            {
+                "author": "木云杉",
+                "title": "穿进百合游戏怎么办",
+                "genre": "原创-百合-近代现代-爱情",
+                "status": "连载",
+                "wordCount": "115844",
+                "credits": "19,132,370"
+            },
+            {
+                "author": "幕僚",
+                "title": "穿越大秦当弱A家主",
+                "genre": "原创-百合-架空历史-爱情",
+                "status": "连载",
+                "wordCount": "193740",
+                "credits": "18,842,388"
+            },
+            {
+                "author": "祝安君",
+                "title": "穿书拯救美强惨白月光",
+                "genre": "原创-百合-架空历史-爱情",
+                "status": "连载",
+                "wordCount": "114215",
+                "credits": "16,319,080"
+            },
+            {
+                "author": "桃晏",
+                "title": "黑月光",
+                "genre": "原创-百合-近代现代-爱情",
+                "status": "连载",
+                "wordCount": "30052",
+                "credits": "14,811,760"
+            },
+            {
+                "author": "长绥呀",
+                "title": "穿回古代变成病弱炮灰A",
+                "genre": "原创-百合-架空历史-爱情",
+                "status": "连载",
+                "wordCount": "102776",
+                "credits": "13,558,187"
+            },
+            {
+                "author": "落锱",
+                "title": "我死后她说她爱我",
+                "genre": "原创-百合-架空历史-爱情",
+                "status": "连载",
+                "wordCount": "59241",
+                "credits": "13,308,402"
+            },
+            {
+                "author": "落沉倾城",
+                "title": "女尊：宠爱无边（gl）",
+                "genre": "原创-百合-架空历史-爱情",
+                "status": "连载",
+                "wordCount": "106332",
+                "credits": "11,347,978"
+            },
+            {
+                "author": "瑜觞",
+                "title": "穿书成了废渣A怎么办？",
+                "genre": "原创-百合-架空历史-爱情",
+                "status": "完结",
+                "wordCount": "203736",
+                "credits": "10,302,310"
+            },
+            {
+                "author": "紫流金",
+                "title": "穿书救错偏执反派以后",
+                "genre": "原创-百合-近代现代-爱情",
+                "status": "连载",
+                "wordCount": "132709",
+                "credits": "10,173,389"
+            },
+            {
+                "author": "我手里有支笔",
+                "title": "女主拐跑计划",
+                "genre": "原创-百合-架空历史-爱情",
+                "status": "连载",
+                "wordCount": "90617",
+                "credits": "8,928,113"
+            },
+            {
+                "author": "扶秋蓬莱客",
+                "title": "为师身娇体弱",
+                "genre": "原创-百合-架空历史-仙侠",
+                "status": "连载",
+                "wordCount": "95821",
+                "credits": "8,866,009"
+            },
+            {
+                "author": "人工造糖机",
+                "title": "笨蛋女二总想害我",
+                "genre": "原创-百合-架空历史-爱情",
+                "status": "连载",
+                "wordCount": "55797",
+                "credits": "8,319,947"
+            },
+            {
+                "author": "鹅十六",
+                "title": "虐文女主能听到我的心声",
+                "genre": "原创-百合-近代现代-爱情",
+                "status": "连载",
+                "wordCount": "97609",
+                "credits": "7,384,539"
+            },
+            {
+                "author": "村里的一枝花儿",
+                "title": "女公爵",
+                "genre": "原创-百合-架空历史-剧情",
+                "status": "连载",
+                "wordCount": "103755",
+                "credits": "7,307,832"
+            },
+            {
+                "author": "庭前种草",
+                "title": "魂穿修真界败类GL",
+                "genre": "原创-百合-架空历史-仙侠",
+                "status": "连载",
+                "wordCount": "47441",
+                "credits": "7,109,205"
+            },
+            {
+                "author": "斩潮生",
+                "title": "捡到人鱼老婆后",
+                "genre": "原创-百合-近代现代-爱情",
+                "status": "连载",
+                "wordCount": "32723",
+                "credits": "6,868,081"
+            },
+            {
+                "author": "尘风尧",
+                "title": "清冷师姐攻略计划",
+                "genre": "原创-百合-架空历史-爱情",
+                "status": "连载",
+                "wordCount": "106380",
+                "credits": "6,673,453"
+            },
+            {
+                "author": "北冥之鱼",
+                "title": "终成眷属",
+                "genre": "原创-百合-架空历史-爱情",
+                "status": "连载",
+                "wordCount": "232372",
+                "credits": "5,791,881"
+            },
+            {
+                "author": "原丞阳",
+                "title": "尘关",
+                "genre": "原创-百合-古色古香-爱情",
+                "status": "连载",
+                "wordCount": "121886",
+                "credits": "5,635,699"
+            },
+            {
+                "author": "拾瑛者",
+                "title": "一不小心成了满级大佬",
+                "genre": "原创-百合-架空历史-仙侠",
+                "status": "连载",
+                "wordCount": "137171",
+                "credits": "4,225,791"
+            },
+            {
+                "author": "岁岁明美",
+                "title": "厨娘子家的女相公",
+                "genre": "原创-百合-架空历史-爱情",
+                "status": "连载",
+                "wordCount": "91141",
+                "credits": "4,043,275"
+            },
+            {
+                "author": "野雪风子",
+                "title": "我在虐渣文里当黑莲花",
+                "genre": "原创-百合-近代现代-爱情",
+                "status": "连载",
+                "wordCount": "10082",
+                "credits": "3,971,433"
+            },
+            {
+                "author": "侍清镜",
+                "title": "反派绝不能洗白",
+                "genre": "原创-百合-近代现代-爱情",
+                "status": "连载",
+                "wordCount": "66336",
+                "credits": "2,805,775"
+            },
+            {
+                "author": "冬炸墨丸",
+                "title": "一本平平无奇种田文gl",
+                "genre": "原创-百合-架空历史-爱情",
+                "status": "连载",
+                "wordCount": "41070",
+                "credits": "2,670,218"
+            },
+            {
+                "author": "十四雀",
+                "title": "穿书四次，我决定撕了剧本",
+                "genre": "原创-百合-架空历史-仙侠",
+                "status": "连载",
+                "wordCount": "67065",
+                "credits": "2,625,693"
+            },
+            {
+                "author": "今天找猫",
+                "title": "在恶毒女配身边当舔狗的日子",
+                "genre": "原创-百合-近代现代-爱情",
+                "status": "完结",
+                "wordCount": "144073",
+                "credits": "2,203,158"
+            },
+            {
+                "author": "凉尘cl",
+                "title": "子虚坞",
+                "genre": "原创-百合-近代现代-爱情",
+                "status": "连载",
+                "wordCount": "287941",
+                "credits": "2,088,389"
+            },
+            {
+                "author": "天马半汉",
+                "title": "穿越后我养歪了一个娃",
+                "genre": "原创-百合-近代现代-爱情",
+                "status": "完结",
+                "wordCount": "199117",
+                "credits": "1,986,514"
+            },
+            {
+                "author": "若王",
+                "title": "关于我穿越到原始部落这件事",
+                "genre": "原创-百合-架空历史-爱情",
+                "status": "连载",
+                "wordCount": "118222",
+                "credits": "1,911,487"
+            },
+            {
+                "author": "电母",
+                "title": "穿越并不大吉",
+                "genre": "原创-百合-古色古香-剧情",
+                "status": "连载",
+                "wordCount": "91783",
+                "credits": "1,782,127"
+            },
+            {
+                "author": "破破破",
+                "title": "白云千载",
+                "genre": "原创-百合-架空历史-传奇",
+                "status": "完结",
+                "wordCount": "64079",
+                "credits": "1,406,564"
+            },
+            {
+                "author": "FF小黑屋",
+                "title": "原来我才是女主啊",
+                "genre": "原创-百合-近代现代-爱情",
+                "status": "连载",
+                "wordCount": "81036",
+                "credits": "1,027,695"
+            },
+            {
+                "author": "难厌anan",
+                "title": "白月光她背着我发黑",
+                "genre": "原创-百合-近代现代-爱情",
+                "status": "连载",
+                "wordCount": "89688",
+                "credits": "799,293"
+            },
+            {
+                "author": "鹿湯",
+                "title": "古镜奇案录",
+                "genre": "原创-百合-近代现代-悬疑",
+                "status": "连载",
+                "wordCount": "45809",
+                "credits": "575,023"
+            },
+            {
+                "author": "寻一把利剑",
+                "title": "对家非要跟我组CP",
+                "genre": "原创-百合-近代现代-爱情",
+                "status": "完结",
+                "wordCount": "50414",
+                "credits": "527,101"
+            },
+            {
+                "author": "之子于归w",
+                "title": "穿到古代有对象了",
+                "genre": "原创-百合-架空历史-爱情",
+                "status": "连载",
+                "wordCount": "59968",
+                "credits": "495,888"
+            },
+            {
+                "author": "凡人不梦",
+                "title": "凤临城",
+                "genre": "原创-百合-架空历史-剧情",
+                "status": "连载",
+                "wordCount": "64517",
+                "credits": "460,678"
+            },
+            {
+                "author": "铁头攻头不铁",
+                "title": "风行异世",
+                "genre": "原创-百合-架空历史-奇幻",
+                "status": "连载",
+                "wordCount": "38183",
+                "credits": "451,813"
+            },
+            {
+                "author": "今天真是个好日子",
+                "title": "渣a她在劫难逃",
+                "genre": "原创-百合-架空历史-爱情",
+                "status": "连载",
+                "wordCount": "41070",
+                "credits": "450,838"
+            },
+            {
+                "author": "金令令",
+                "title": "遗憾之外",
+                "genre": "原创-百合-近代现代-爱情",
+                "status": "连载",
+                "wordCount": "49115",
+                "credits": "375,924"
+            },
+            {
+                "author": "躺吃",
+                "title": "在修真文当女主的随身老奶",
+                "genre": "原创-百合-架空历史-仙侠",
+                "status": "连载",
+                "wordCount": "26270",
+                "credits": "356,349"
+            },
+            {
+                "author": "何人无事",
+                "title": "落春山",
+                "genre": "原创-百合-架空历史-爱情",
+                "status": "连载",
+                "wordCount": "48737",
+                "credits": "343,733"
+            },
+            {
+                "author": "性感蟑螂公主",
+                "title": "作为替身的我，一不小心和霸总白月光牵手了？",
+                "genre": "原创-百合-近代现代-爱情",
+                "status": "连载",
+                "wordCount": "22979",
+                "credits": "299,320"
+            },
+            {
+                "author": "牛奶爱抹茶",
+                "title": "祈宁",
+                "genre": "原创-百合-架空历史-爱情",
+                "status": "连载",
+                "wordCount": "38462",
+                "credits": "292,233"
+            },
+            {
+                "author": "淡洱",
+                "title": "牵命引",
+                "genre": "原创-百合-近代现代-爱情",
+                "status": "连载",
+                "wordCount": "55428",
+                "credits": "289,522"
+            },
+            {
+                "author": "栖山不落",
+                "title": "成为部落文里的渣A我插翅难飞",
+                "genre": "原创-百合-架空历史-爱情",
+                "status": "连载",
+                "wordCount": "10518",
+                "credits": "273,957"
+            },
+            {
+                "author": "许人人",
+                "title": "将君行，云边依",
+                "genre": "原创-百合-近代现代-爱情",
+                "status": "连载",
+                "wordCount": "32530",
+                "credits": "252,508"
+            },
+            {
+                "author": "圆嘟波斯",
+                "title": "穿成炮灰渣A，我火出圈了",
+                "genre": "原创-百合-架空历史-爱情",
+                "status": "连载",
+                "wordCount": "13244",
+                "credits": "210,907"
+            },
+            {
+                "author": "菩萨保佑不保左",
+                "title": "女主大人别追了",
+                "genre": "原创-百合-架空历史-爱情",
+                "status": "连载",
+                "wordCount": "24739",
+                "credits": "207,061"
+            },
+            {
+                "author": "胡萝卜坑",
+                "title": "[穿书]女二她想跟妈咪恋爱",
+                "genre": "原创-百合-架空历史-爱情",
+                "status": "连载",
+                "wordCount": "22038",
+                "credits": "190,557"
+            },
+            {
+                "author": "泠色霜",
+                "title": "逆光等雨",
+                "genre": "原创-百合-近代现代-游戏",
+                "status": "完结",
+                "wordCount": "43883",
+                "credits": "188,935"
+            },
+            {
+                "author": "同予",
+                "title": "穿越之误入女儿国",
+                "genre": "原创-百合-架空历史-剧情",
+                "status": "连载",
+                "wordCount": "16503",
+                "credits": "186,729"
+            },
+            {
+                "author": "超正经人",
+                "title": "女主她要欺师灭祖（穿书）",
+                "genre": "原创-百合-架空历史-爱情",
+                "status": "连载",
+                "wordCount": "16312",
+                "credits": "177,309"
+            },
+            {
+                "author": "玉梦之殇",
+                "title": "断寻",
+                "genre": "原创-百合-近代现代-剧情",
+                "status": "连载",
+                "wordCount": "20916",
+                "credits": "170,335"
+            },
+            {
+                "author": "夏觉春",
+                "title": "万人嫌仵作成真千金后",
+                "genre": "原创-百合-架空历史-爱情",
+                "status": "连载",
+                "wordCount": "11130",
+                "credits": "159,301"
+            },
+            {
+                "author": "不吃草莓冰淇淋",
+                "title": "穿成恶女的冒牌夫君",
+                "genre": "原创-百合-架空历史-爱情",
+                "status": "连载",
+                "wordCount": "14475",
+                "credits": "155,447"
+            },
+            {
+                "author": "米雀",
+                "title": "不管身在何处生存都如此艰难",
+                "genre": "原创-百合-架空历史-剧情",
+                "status": "连载",
+                "wordCount": "28925",
+                "credits": "152,072"
+            },
+            {
+                "author": "公孙素霓",
+                "title": "魁首死了，凶手惊是小侍女？",
+                "genre": "原创-百合-架空历史-剧情",
+                "status": "连载",
+                "wordCount": "27424",
+                "credits": "135,315"
+            },
+            {
+                "author": "拿花",
+                "title": "原来我不是天选之女",
+                "genre": "原创-百合-古色古香-剧情",
+                "status": "连载",
+                "wordCount": "10006",
+                "credits": "121,432"
+            },
+            {
+                "author": "来份蛋挞挞挞挞",
+                "title": "继情",
+                "genre": "原创-百合-近代现代-爱情",
+                "status": "连载",
+                "wordCount": "13939",
+                "credits": "121,396"
+            },
+            {
+                "author": "走墨",
+                "title": "渣攻师尊总在被迫从良",
+                "genre": "原创-百合-架空历史-爱情",
+                "status": "连载",
+                "wordCount": "11181",
+                "credits": "117,496"
+            },
+            {
+                "author": "仔以",
+                "title": "穿书后我把狗咬了",
+                "genre": "原创-百合-近代现代-爱情",
+                "status": "连载",
+                "wordCount": "13222",
+                "credits": "105,170"
+            },
+            {
+                "author": "飞鸟易安",
+                "title": "希望之音",
+                "genre": "原创-百合-近代现代-爱情",
+                "status": "连载",
+                "wordCount": "13311",
+                "credits": "99,417"
+            },
+            {
+                "author": "Piyaporn",
+                "title": "普通人做梦指南",
+                "genre": "原创-百合-架空历史-爱情",
+                "status": "连载",
+                "wordCount": "22862",
+                "credits": "86,023"
+            },
+            {
+                "author": "未名小优",
+                "title": "她和她的十三年",
+                "genre": "原创-百合-近代现代-爱情",
+                "status": "连载",
+                "wordCount": "19575",
+                "credits": "84,163"
+            },
+            {
+                "author": "不配留名",
+                "title": "回收旧废品（物穿）",
+                "genre": "原创-百合-近代现代-爱情",
+                "status": "连载",
+                "wordCount": "13827",
+                "credits": "83,830"
+            },
+            {
+                "author": "等了很久的夏天",
+                "title": "互扰关系",
+                "genre": "原创-百合-近代现代-爱情",
+                "status": "连载",
+                "wordCount": "16611",
+                "credits": "82,490"
+            },
+            {
+                "author": "鱼楦",
+                "title": "剑心",
+                "genre": "原创-百合-架空历史-武侠",
+                "status": "连载",
+                "wordCount": "10168",
+                "credits": "81,659"
+            },
+            {
+                "author": "玄枵清言",
+                "title": "我们会在光中重逢",
+                "genre": "原创-百合-架空历史-剧情",
+                "status": "连载",
+                "wordCount": "13791",
+                "credits": "77,365"
+            },
+            {
+                "author": "时隙寻鱼",
+                "title": "时间沦陷后",
+                "genre": "原创-百合-近代现代-爱情",
+                "status": "连载",
+                "wordCount": "13753",
+                "credits": "77,287"
+            },
+            {
+                "author": "沉与默",
+                "title": "东施西施",
+                "genre": "原创-百合-架空历史-爱情",
+                "status": "连载",
+                "wordCount": "10164",
+                "credits": "73,900"
+            },
+            {
+                "author": "三杏就是胡思乱想",
+                "title": "《我是女配的生存指南》",
+                "genre": "原创-百合-架空历史-仙侠",
+                "status": "连载",
+                "wordCount": "10558",
+                "credits": "71,337"
+            },
+            {
+                "author": "长忆相聚时",
+                "title": "诺南录",
+                "genre": "原创-百合-架空历史-剧情",
+                "status": "连载",
+                "wordCount": "13577",
+                "credits": "62,266"
+            },
+            {
+                "author": "我欲向春山",
+                "title": "花中第一流",
+                "genre": "原创-百合-古色古香-剧情",
+                "status": "连载",
+                "wordCount": "10472",
+                "credits": "58,792"
+            },
+            {
+                "author": "借月挂疏桐",
+                "title": "曾诺许",
+                "genre": "原创-百合-架空历史-爱情",
+                "status": "连载",
+                "wordCount": "10046",
+                "credits": "31,937"
+            }
+        ]
+    },
+    "2024-04-08, 22:14:36 GMT+8"
+]

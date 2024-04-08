@@ -1,11 +1,6 @@
 const fs = require("fs");
 const getNovelChart = require("./lib/main");
 
-const saveBase64ToFile = (base64Data, filename) => {
-    const buffer = Buffer.from(base64Data, "base64");
-    fs.writeFileSync(filename, buffer);
-};
-
 const generateReadme = (novelChart) => {
     let content = `# 晋江文学城[排行榜] - 百合\n\n`;
 
@@ -16,7 +11,7 @@ const generateReadme = (novelChart) => {
     content += "| 序号 | 作者 | 作品 | 类型 | 进度 | 字数 | 积分 |\n";
     content += "|-----|------|------|-----|------|------|-----|\n";
     novelChart.novels.forEach((novel, index) => {
-        content += `| ${index} | ${novel.author} | [${novel.title}](${novel.url}) | ${novel.genre} | ${novel.status} | ${novel.wordCount} | ${novel.credits} |\n`;
+        content += `| ${index + 1} | ${novel.author} | [${novel.title}](${novel.url}) | ${novel.genre} | ${novel.status} | ${novel.wordCount} | ${novel.credits} |\n`;
     });
 
     content += `\n`;
@@ -42,12 +37,7 @@ getNovelChart()
         novels = novelChart.novels;
         lastUpdated = getDate(Date.now());
 
-        fs.writeFileSync("json/data.json", JSON.stringify([novelChart, lastUpdated], null, 4), "utf-8");
-        // Save the novel chapters
-        /* novelChart.novels.forEach((novel, _) => {
-            const data = novel.data_base64;
-            saveBase64ToFile(data, `./novels/novel_${novel.id}_${novel.title}.jpg`);
-        });*/
+        fs.writeFileSync("data.json", JSON.stringify([novelChart, lastUpdated], null, 4), "utf-8");
 
         // update the readme
         generateReadme(novelChart);
