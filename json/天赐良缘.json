@@ -2,15 +2,6 @@
     {
         "novels": [
             {
-                "author": "叶无枝",
-                "title": "今天仍不知老婆是首富",
-                "genre": "原创-百合-近代现代-爱情",
-                "status": "连载",
-                "wordCount": "481170",
-                "credits": "234,569,024",
-                "url": "onebook.php?novelid=5045581"
-            },
-            {
                 "author": "守月奴",
                 "title": "丞相大人御妻有道abo",
                 "genre": "原创-百合-架空历史-爱情",
@@ -33,7 +24,7 @@
                 "title": "老婆为了掰弯我煞费苦心",
                 "genre": "原创-百合-近代现代-爱情",
                 "status": "连载",
-                "wordCount": "127040",
+                "wordCount": "127518",
                 "credits": "89,414,472",
                 "url": "onebook.php?novelid=8404011"
             },
@@ -87,7 +78,7 @@
                 "title": "攻略那朵病娇黑莲花",
                 "genre": "原创-百合-架空历史-仙侠",
                 "status": "连载",
-                "wordCount": "162986",
+                "wordCount": "166008",
                 "credits": "29,074,164",
                 "url": "onebook.php?novelid=7902958"
             },
@@ -96,7 +87,7 @@
                 "title": "冰山郡主不好惹",
                 "genre": "原创-百合-架空历史-爱情",
                 "status": "连载",
-                "wordCount": "107372",
+                "wordCount": "114836",
                 "credits": "28,410,312",
                 "url": "onebook.php?novelid=8453466"
             },
@@ -110,20 +101,11 @@
                 "url": "onebook.php?novelid=8730282"
             },
             {
-                "author": "不赊月",
-                "title": "被绣球砸中后将错就错",
-                "genre": "原创-百合-架空历史-爱情",
-                "status": "连载",
-                "wordCount": "237327",
-                "credits": "23,311,112",
-                "url": "onebook.php?novelid=8574555"
-            },
-            {
                 "author": "向朝",
                 "title": "夏野喧哗",
                 "genre": "原创-百合-近代现代-爱情",
                 "status": "连载",
-                "wordCount": "265373",
+                "wordCount": "268544",
                 "credits": "19,631,268",
                 "url": "onebook.php?novelid=8642007"
             },
@@ -132,7 +114,7 @@
                 "title": "老实人室友撩不得",
                 "genre": "原创-百合-近代现代-爱情",
                 "status": "连载",
-                "wordCount": "165048",
+                "wordCount": "170106",
                 "credits": "19,539,840",
                 "url": "onebook.php?novelid=8378745"
             },
@@ -281,6 +263,15 @@
                 "url": "onebook.php?novelid=8761249"
             },
             {
+                "author": "卿周",
+                "title": "转身已是三千年",
+                "genre": "原创-百合-架空历史-仙侠",
+                "status": "连载",
+                "wordCount": "105261",
+                "credits": "906,220",
+                "url": "onebook.php?novelid=8773779"
+            },
+            {
                 "author": "刺冬",
                 "title": "叫我如何不爱她",
                 "genre": "原创-百合-近代现代-爱情",
@@ -312,7 +303,7 @@
                 "title": "恋爱脑O总想扑倒好A",
                 "genre": "原创-百合-近代现代-爱情",
                 "status": "连载",
-                "wordCount": "57395",
+                "wordCount": "60434",
                 "credits": "804,623",
                 "url": "onebook.php?novelid=8551720"
             },
@@ -450,15 +441,6 @@
                 "wordCount": "47589",
                 "credits": "214,084",
                 "url": "onebook.php?novelid=8690855"
-            },
-            {
-                "author": "张口就是葱",
-                "title": "青春里的那朵花",
-                "genre": "原创-百合-近代现代-爱情",
-                "status": "连载",
-                "wordCount": "23706",
-                "credits": "208,196",
-                "url": "onebook.php?novelid=8630551"
             },
             {
                 "author": "文青雨",
@@ -669,5 +651,5 @@
             }
         ]
     },
-    "2024-04-09, 00:27:03 GMT+8"
+    "2024-04-09, 09:05:29 GMT+8"
 ]
