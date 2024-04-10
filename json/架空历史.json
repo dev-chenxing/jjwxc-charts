@@ -110,15 +110,6 @@
                 "url": "onebook.php?novelid=8632249"
             },
             {
-                "author": "申时雨微",
-                "title": "师姐她超喜欢我的千纸鹤",
-                "genre": "原创-百合-架空历史-仙侠",
-                "status": "连载",
-                "wordCount": "40009",
-                "credits": "1,119,836",
-                "url": "onebook.php?novelid=8761590"
-            },
-            {
                 "author": "陈锦瑟cxy",
                 "title": "劫走贵妃姐姐做我的第一夫人",
                 "genre": "原创-百合-架空历史-爱情",
@@ -135,6 +126,15 @@
                 "wordCount": "69218",
                 "credits": "1,059,322",
                 "url": "onebook.php?novelid=8727489"
+            },
+            {
+                "author": "申时雨微",
+                "title": "师姐她超喜欢我的千纸鹤",
+                "genre": "原创-百合-架空历史-仙侠",
+                "status": "连载",
+                "wordCount": "40009",
+                "credits": "1,044,504",
+                "url": "onebook.php?novelid=8761590"
             },
             {
                 "author": "皮皮汤圆儿",
@@ -200,6 +200,15 @@
                 "url": "onebook.php?novelid=8659025"
             },
             {
+                "author": "灌沐沐",
+                "title": "以墨代桃花",
+                "genre": "原创-百合-架空历史-爱情",
+                "status": "连载",
+                "wordCount": "62600",
+                "credits": "495,756",
+                "url": "onebook.php?novelid=8466553"
+            },
+            {
                 "author": "舟承",
                 "title": "迩臣",
                 "genre": "原创-百合-架空历史-剧情",
@@ -222,7 +231,7 @@
                 "title": "回来只为守护你",
                 "genre": "原创-百合-架空历史-仙侠",
                 "status": "连载",
-                "wordCount": "49888",
+                "wordCount": "47776",
                 "credits": "315,872",
                 "url": "onebook.php?novelid=8746848"
             },
@@ -342,15 +351,6 @@
                 "wordCount": "23937",
                 "credits": "193,568",
                 "url": "onebook.php?novelid=8687478"
-            },
-            {
-                "author": "墨染青衣颜C",
-                "title": "墨家九尾狐",
-                "genre": "原创-百合-架空历史-仙侠",
-                "status": "连载",
-                "wordCount": "35783",
-                "credits": "186,414",
-                "url": "onebook.php?novelid=8725322"
             },
             {
                 "author": "六零一居士",
@@ -651,5 +651,5 @@
             }
         ]
     },
-    "2024-04-09, 09:05:30 GMT+8"
+    "2024-04-10, 09:04:34 GMT+8"
 ]

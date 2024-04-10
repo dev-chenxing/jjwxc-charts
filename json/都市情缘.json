@@ -20,15 +20,6 @@
                 "url": "onebook.php?novelid=8575171"
             },
             {
-                "author": "米闹闹",
-                "title": "趁机",
-                "genre": "原创-百合-近代现代-爱情",
-                "status": "连载",
-                "wordCount": "87849",
-                "credits": "179,900,816",
-                "url": "onebook.php?novelid=7524061"
-            },
-            {
                 "author": "易长书",
                 "title": "相亲对象与人设不符",
                 "genre": "原创-百合-近代现代-爱情",
@@ -69,7 +60,7 @@
                 "title": "作精青梅和我在一起了",
                 "genre": "原创-百合-近代现代-爱情",
                 "status": "连载",
-                "wordCount": "180612",
+                "wordCount": "176889",
                 "credits": "10,325,111",
                 "url": "onebook.php?novelid=7456690"
             },
@@ -87,18 +78,9 @@
                 "title": "我妻快快病入膏肓",
                 "genre": "原创-百合-近代现代-爱情",
                 "status": "连载",
-                "wordCount": "60030",
+                "wordCount": "57189",
                 "credits": "7,592,902",
                 "url": "onebook.php?novelid=8014089"
-            },
-            {
-                "author": "巫子是鬼",
-                "title": "失忆前的我到底干了什么",
-                "genre": "原创-百合-近代现代-爱情",
-                "status": "连载",
-                "wordCount": "83565",
-                "credits": "5,413,801",
-                "url": "onebook.php?novelid=5379612"
             },
             {
                 "author": "欣欣此生意",
@@ -159,7 +141,7 @@
                 "title": "缘何生",
                 "genre": "原创-百合-近代现代-爱情",
                 "status": "连载",
-                "wordCount": "277878",
+                "wordCount": "273048",
                 "credits": "1,671,791",
                 "url": "onebook.php?novelid=8760594"
             },
@@ -195,7 +177,7 @@
                 "title": "卑微小安的暗恋日记",
                 "genre": "原创-百合-近代现代-爱情",
                 "status": "连载",
-                "wordCount": "53988",
+                "wordCount": "53990",
                 "credits": "1,304,949",
                 "url": "onebook.php?novelid=8710815"
             },
@@ -348,7 +330,7 @@
                 "title": "圆圈",
                 "genre": "原创-百合-近代现代-爱情",
                 "status": "连载",
-                "wordCount": "78845",
+                "wordCount": "73253",
                 "credits": "733,213",
                 "url": "onebook.php?novelid=8761050"
             },
@@ -369,15 +351,6 @@
                 "wordCount": "23514",
                 "credits": "652,590",
                 "url": "onebook.php?novelid=8653448"
-            },
-            {
-                "author": "言之唔唔",
-                "title": "猎物",
-                "genre": "原创-百合-近代现代-爱情",
-                "status": "连载",
-                "wordCount": "127731",
-                "credits": "622,185",
-                "url": "onebook.php?novelid=8772297"
             },
             {
                 "author": "枫江夜雨",
@@ -1037,6 +1010,15 @@
                 "url": "onebook.php?novelid=8674349"
             },
             {
+                "author": "唐风集",
+                "title": "西南多歧路",
+                "genre": "原创-百合-近代现代-爱情",
+                "status": "连载",
+                "wordCount": "28656",
+                "credits": "162,163",
+                "url": "onebook.php?novelid=7627854"
+            },
+            {
                 "author": "凛冬双",
                 "title": "与她沉沦",
                 "genre": "原创-百合-近代现代-剧情",
@@ -1514,15 +1496,6 @@
                 "url": "onebook.php?novelid=8680643"
             },
             {
-                "author": "一口脆柿",
-                "title": "海王说她收心了，让我和她组CP",
-                "genre": "原创-百合-近代现代-爱情",
-                "status": "连载",
-                "wordCount": "13754",
-                "credits": "104,324",
-                "url": "onebook.php?novelid=8772844"
-            },
-            {
                 "author": "北雪菜菜",
                 "title": "我的百变女友不是人",
                 "genre": "原创-百合-近代现代-爱情",
@@ -1800,8 +1773,35 @@
                 "wordCount": "10024",
                 "credits": "81,385",
                 "url": "onebook.php?novelid=8734110"
+            },
+            {
+                "author": "欲蝕",
+                "title": "普通朋友",
+                "genre": "原创-百合-近代现代-爱情",
+                "status": "连载",
+                "wordCount": "11673",
+                "credits": "80,862",
+                "url": "onebook.php?novelid=8639670"
+            },
+            {
+                "author": "宇宙超级无敌可爱的笔名",
+                "title": "超级正经的爱情故事",
+                "genre": "原创-百合-近代现代-爱情",
+                "status": "连载",
+                "wordCount": "11402",
+                "credits": "79,386",
+                "url": "onebook.php?novelid=8655067"
+            },
+            {
+                "author": "方格行李箱",
+                "title": "熬",
+                "genre": "原创-百合-近代现代-爱情",
+                "status": "连载",
+                "wordCount": "11541",
+                "credits": "79,328",
+                "url": "onebook.php?novelid=8718299"
             }
         ]
     },
-    "2024-04-09, 09:05:30 GMT+8"
+    "2024-04-10, 09:04:34 GMT+8"
 ]

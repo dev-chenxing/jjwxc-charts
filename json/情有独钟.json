@@ -6,7 +6,7 @@
                 "title": "沉溺",
                 "genre": "原创-百合-近代现代-爱情",
                 "status": "连载",
-                "wordCount": "104027",
+                "wordCount": "103948",
                 "credits": "586,368,768",
                 "url": "onebook.php?novelid=5672088"
             },
@@ -18,6 +18,15 @@
                 "wordCount": "310704",
                 "credits": "218,600,288",
                 "url": "onebook.php?novelid=7936363"
+            },
+            {
+                "author": "温酒煎茶",
+                "title": "月色过撩",
+                "genre": "原创-百合-近代现代-爱情",
+                "status": "连载",
+                "wordCount": "245649",
+                "credits": "156,837,232",
+                "url": "onebook.php?novelid=5126432"
             },
             {
                 "author": "半边春",
@@ -42,7 +51,7 @@
                 "title": "捡到流浪猫后被拿捏住了",
                 "genre": "原创-百合-近代现代-爱情",
                 "status": "连载",
-                "wordCount": "253059",
+                "wordCount": "247747",
                 "credits": "41,873,180",
                 "url": "onebook.php?novelid=7854904"
             },
@@ -51,7 +60,7 @@
                 "title": "难以逾越",
                 "genre": "原创-百合-近代现代-爱情",
                 "status": "连载",
-                "wordCount": "262090",
+                "wordCount": "253164",
                 "credits": "30,458,840",
                 "url": "onebook.php?novelid=8591757"
             },
@@ -69,16 +78,25 @@
                 "title": "留学后能拥有韩国女友吗？",
                 "genre": "原创-百合-近代现代-爱情",
                 "status": "连载",
-                "wordCount": "98193",
+                "wordCount": "94588",
                 "credits": "10,099,834",
                 "url": "onebook.php?novelid=7418247"
+            },
+            {
+                "author": "迩柳",
+                "title": "天气勿报",
+                "genre": "原创-百合-近代现代-爱情",
+                "status": "连载",
+                "wordCount": "17408",
+                "credits": "8,478,008",
+                "url": "onebook.php?novelid=8609107"
             },
             {
                 "author": "给我金子",
                 "title": "月亮下山",
                 "genre": "原创-百合-近代现代-爱情",
                 "status": "连载",
-                "wordCount": "119252",
+                "wordCount": "116193",
                 "credits": "5,742,543",
                 "url": "onebook.php?novelid=8709724"
             },
@@ -150,7 +168,7 @@
                 "title": "不期而遇",
                 "genre": "原创-百合-近代现代-爱情",
                 "status": "连载",
-                "wordCount": "187992",
+                "wordCount": "185157",
                 "credits": "1,756,086",
                 "url": "onebook.php?novelid=8690317"
             },
@@ -659,20 +677,11 @@
                 "url": "onebook.php?novelid=8731668"
             },
             {
-                "author": "金三个",
-                "title": "在春风狂啸的夜",
-                "genre": "原创-百合-近代现代-爱情",
-                "status": "连载",
-                "wordCount": "12041",
-                "credits": "63,128",
-                "url": "onebook.php?novelid=8772409"
-            },
-            {
                 "author": "我爱喝丸子汤",
                 "title": "不轨",
                 "genre": "原创-百合-近代现代-爱情",
                 "status": "连载",
-                "wordCount": "13923",
+                "wordCount": "12323",
                 "credits": "61,029",
                 "url": "onebook.php?novelid=8741468"
             },
@@ -696,5 +705,5 @@
             }
         ]
     },
-    "2024-04-09, 09:05:30 GMT+8"
+    "2024-04-10, 09:04:35 GMT+8"
 ]

@@ -2,48 +2,57 @@
     {
         "novels": [
             {
-                "author": "徒生",
-                "title": "恕罪",
-                "genre": "原创-百合-古色古香-剧情",
+                "author": "橘子霜",
+                "title": "傲娇郡主被我掰弯后",
+                "genre": "原创-百合-架空历史-爱情",
                 "status": "连载",
-                "wordCount": "60060",
-                "credits": "53,162,552",
-                "url": "onebook.php?novelid=4892355"
+                "wordCount": "117937",
+                "credits": "35,402,696",
+                "url": "onebook.php?novelid=7397685"
             },
             {
                 "author": "羁南",
                 "title": "一个痴心妄想的暗卫",
                 "genre": "原创-百合-架空历史-爱情",
                 "status": "连载",
-                "wordCount": "159348",
-                "credits": "52,884,764",
+                "wordCount": "72573",
+                "credits": "22,921,290",
                 "url": "onebook.php?novelid=8385571"
-            },
-            {
-                "author": "醉风林",
-                "title": "女帝的裙下臣（GL）",
-                "genre": "原创-百合-架空历史-爱情",
-                "status": "连载",
-                "wordCount": "84784",
-                "credits": "50,235,828",
-                "url": "onebook.php?novelid=8312686"
             },
             {
                 "author": "常文钟",
                 "title": "眉上烟火",
                 "genre": "原创-百合-架空历史-爱情",
-                "status": "完结",
-                "wordCount": "453782",
-                "credits": "21,952,726",
+                "status": "连载",
+                "wordCount": "325856",
+                "credits": "15,916,947",
                 "url": "onebook.php?novelid=3567742"
+            },
+            {
+                "author": "无虞之",
+                "title": "祭司她盯上我了",
+                "genre": "原创-百合-架空历史-爱情",
+                "status": "连载",
+                "wordCount": "145270",
+                "credits": "11,117,121",
+                "url": "onebook.php?novelid=8629116"
+            },
+            {
+                "author": "盐漆",
+                "title": "当妃子后把公主拿下了",
+                "genre": "原创-百合-架空历史-爱情",
+                "status": "完结",
+                "wordCount": "166755",
+                "credits": "7,921,415",
+                "url": "onebook.php?novelid=8481094"
             },
             {
                 "author": "澹台扶风",
                 "title": "公主找了个女驸马",
                 "genre": "原创-百合-架空历史-爱情",
                 "status": "连载",
-                "wordCount": "147077",
-                "credits": "13,137,078",
+                "wordCount": "82023",
+                "credits": "7,751,190",
                 "url": "onebook.php?novelid=4166846"
             },
             {
@@ -51,17 +60,35 @@
                 "title": "少将军的墙角",
                 "genre": "原创-百合-架空历史-爱情",
                 "status": "连载",
-                "wordCount": "203881",
-                "credits": "7,391,856",
+                "wordCount": "177333",
+                "credits": "6,653,978",
                 "url": "onebook.php?novelid=8645654"
+            },
+            {
+                "author": "莽白",
+                "title": "亲爱的公主殿下",
+                "genre": "原创-百合-架空历史-爱情",
+                "status": "连载",
+                "wordCount": "67033",
+                "credits": "5,154,341",
+                "url": "onebook.php?novelid=8583074"
+            },
+            {
+                "author": "太古季叶人",
+                "title": "师姐请看着我",
+                "genre": "原创-百合-架空历史-仙侠",
+                "status": "连载",
+                "wordCount": "126051",
+                "credits": "4,710,956",
+                "url": "onebook.php?novelid=8309792"
             },
             {
                 "author": "祁周",
                 "title": "与鹤年",
                 "genre": "原创-百合-架空历史-悬疑",
                 "status": "连载",
-                "wordCount": "118950",
-                "credits": "3,873,611",
+                "wordCount": "110828",
+                "credits": "3,505,633",
                 "url": "onebook.php?novelid=8640599"
             },
             {
@@ -69,8 +96,8 @@
                 "title": "牝鸡司晨",
                 "genre": "原创-百合-架空历史-爱情",
                 "status": "连载",
-                "wordCount": "182123",
-                "credits": "1,502,353",
+                "wordCount": "173519",
+                "credits": "1,354,110",
                 "url": "onebook.php?novelid=8674220"
             },
             {
@@ -78,35 +105,35 @@
                 "title": "羌笛何须怨杨柳",
                 "genre": "原创-百合-架空历史-爱情",
                 "status": "连载",
-                "wordCount": "114984",
-                "credits": "1,427,712",
+                "wordCount": "109405",
+                "credits": "1,306,495",
                 "url": "onebook.php?novelid=8685178"
             },
             {
-                "author": "土豆姜丝",
+                "author": "崔倍",
+                "title": "殿下，臣会自裁！",
+                "genre": "原创-百合-古色古香-爱情",
+                "status": "连载",
+                "wordCount": "72948",
+                "credits": "1,003,054",
+                "url": "onebook.php?novelid=8604062"
+            },
+            {
+                "author": "新日历",
                 "title": "在下略懂医术望公主莫要嫌弃",
                 "genre": "原创-百合-架空历史-剧情",
                 "status": "连载",
-                "wordCount": "150098",
-                "credits": "1,324,175",
+                "wordCount": "107294",
+                "credits": "948,040",
                 "url": "onebook.php?novelid=8685462"
-            },
-            {
-                "author": "浧落",
-                "title": "霜落无言",
-                "genre": "原创-百合-架空历史-爱情",
-                "status": "连载",
-                "wordCount": "92736",
-                "credits": "1,073,524",
-                "url": "onebook.php?novelid=8116942"
             },
             {
                 "author": "叶有眠",
                 "title": "流年渡",
                 "genre": "原创-百合-架空历史-剧情",
                 "status": "连载",
-                "wordCount": "96137",
-                "credits": "982,306",
+                "wordCount": "74729",
+                "credits": "771,056",
                 "url": "onebook.php?novelid=8707453"
             },
             {
@@ -115,8 +142,17 @@
                 "genre": "原创-百合-架空历史-爱情",
                 "status": "完结",
                 "wordCount": "100628",
-                "credits": "755,863",
+                "credits": "731,263",
                 "url": "onebook.php?novelid=8674988"
+            },
+            {
+                "author": "浧落",
+                "title": "霜落无言",
+                "genre": "原创-百合-架空历史-爱情",
+                "status": "连载",
+                "wordCount": "68485",
+                "credits": "620,250",
+                "url": "onebook.php?novelid=8116942"
             },
             {
                 "author": "海棠山茶",
@@ -124,8 +160,17 @@
                 "genre": "原创-百合-架空历史-剧情",
                 "status": "连载",
                 "wordCount": "65727",
-                "credits": "543,501",
+                "credits": "524,811",
                 "url": "onebook.php?novelid=8683123"
+            },
+            {
+                "author": "爱吃火锅的罐",
+                "title": "离离",
+                "genre": "原创-百合-架空历史-爱情",
+                "status": "连载",
+                "wordCount": "28216",
+                "credits": "365,303",
+                "url": "onebook.php?novelid=8624972"
             },
             {
                 "author": "问春在",
@@ -133,17 +178,35 @@
                 "genre": "原创-百合-架空历史-剧情",
                 "status": "连载",
                 "wordCount": "29817",
-                "credits": "373,444",
+                "credits": "329,486",
                 "url": "onebook.php?novelid=8697096"
             },
             {
-                "author": "妖曦瑾",
-                "title": "江山君臣(中）",
+                "author": "三十三夜人不眠",
+                "title": "践尘",
+                "genre": "原创-百合-架空历史-仙侠",
+                "status": "连载",
+                "wordCount": "47356",
+                "credits": "317,673",
+                "url": "onebook.php?novelid=8622017"
+            },
+            {
+                "author": "于晖",
+                "title": "女驸马",
                 "genre": "原创-百合-架空历史-剧情",
                 "status": "连载",
-                "wordCount": "32612",
-                "credits": "274,521",
-                "url": "onebook.php?novelid=8504820"
+                "wordCount": "29619",
+                "credits": "294,774",
+                "url": "onebook.php?novelid=8610473"
+            },
+            {
+                "author": "非阡子",
+                "title": "寒霜净",
+                "genre": "原创-百合-架空历史-剧情",
+                "status": "连载",
+                "wordCount": "14256",
+                "credits": "191,419",
+                "url": "onebook.php?novelid=8609906"
             },
             {
                 "author": "帕尔西法z",
@@ -151,17 +214,8 @@
                 "genre": "原创-百合-架空历史-爱情",
                 "status": "连载",
                 "wordCount": "24179",
-                "credits": "189,154",
+                "credits": "165,860",
                 "url": "onebook.php?novelid=8729027"
-            },
-            {
-                "author": "落夜清归",
-                "title": "郡马只想当神医",
-                "genre": "原创-百合-架空历史-爱情",
-                "status": "连载",
-                "wordCount": "12149",
-                "credits": "126,521",
-                "url": "onebook.php?novelid=8760449"
             },
             {
                 "author": "云如华",
@@ -169,17 +223,8 @@
                 "genre": "原创-百合-架空历史-爱情",
                 "status": "连载",
                 "wordCount": "16698",
-                "credits": "126,234",
+                "credits": "118,431",
                 "url": "onebook.php?novelid=8689697"
-            },
-            {
-                "author": "京城喵喵",
-                "title": "督主女，娶女剑客为妻",
-                "genre": "原创-百合-架空历史-爱情",
-                "status": "连载",
-                "wordCount": "16013",
-                "credits": "122,779",
-                "url": "onebook.php?novelid=8727912"
             },
             {
                 "author": "银河尽头的篝火",
@@ -187,17 +232,17 @@
                 "genre": "原创-百合-古色古香-剧情",
                 "status": "连载",
                 "wordCount": "12720",
-                "credits": "114,146",
+                "credits": "108,197",
                 "url": "onebook.php?novelid=8656007"
             },
             {
-                "author": "逆位的星星",
-                "title": "皇后请自重",
-                "genre": "原创-百合-架空历史-剧情",
+                "author": "京城喵喵",
+                "title": "督主女，娶女剑客为妻",
+                "genre": "原创-百合-架空历史-爱情",
                 "status": "连载",
-                "wordCount": "25488",
-                "credits": "97,537",
-                "url": "onebook.php?novelid=8765551"
+                "wordCount": "12337",
+                "credits": "96,934",
+                "url": "onebook.php?novelid=8727912"
             },
             {
                 "author": "雾散残余",
@@ -205,7 +250,7 @@
                 "genre": "原创-百合-架空历史-传奇",
                 "status": "连载",
                 "wordCount": "10062",
-                "credits": "94,490",
+                "credits": "91,364",
                 "url": "onebook.php?novelid=8666891"
             },
             {
@@ -214,19 +259,10 @@
                 "genre": "原创-百合-架空历史-仙侠",
                 "status": "连载",
                 "wordCount": "12028",
-                "credits": "84,903",
+                "credits": "73,748",
                 "url": "onebook.php?novelid=8697739"
-            },
-            {
-                "author": "金水儿",
-                "title": "芸缨相惜",
-                "genre": "原创-百合-架空历史-爱情",
-                "status": "连载",
-                "wordCount": "13392",
-                "credits": "56,813",
-                "url": "onebook.php?novelid=8757074"
             }
         ]
     },
-    "2024-04-09, 09:05:29 GMT+8"
+    "2024-04-10, 09:04:35 GMT+8"
 ]
