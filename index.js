@@ -1,5 +1,6 @@
 const fs = require("fs");
-const getNovelChart = require("./lib/main");
+const getNovelUrls = require("./lib/main");
+const getNovelChart = require("./lib/chart");
 
 const getTagString = (genre, isCurrentGenre) => {
     if (isCurrentGenre) {
@@ -46,8 +47,7 @@ const generateReadme = (novelChart, genre) => {
     content += "| 序号 | 作者 | 作品 | 类型 | 进度 | 字数 | 积分 |\n";
     content += "|-----|------|------|-----|------|------|-----|\n";
     novelChart.novels.forEach((novel, index) => {
-        const url = `https://www.jjwxc.net/${novel.url}`;
-        content += `| ${index + 1} | ${novel.author} | [${novel.title}](${url}) | ${novel.genre} | ${novel.status} | ${novel.wordCount} | ${novel.credits} |\n`;
+        content += `| ${index + 1} | ${novel.author} | [${novel.title}](${novel.url}) | ${novel.genre} | ${novel.status} | ${novel.wordCount} | ${novel.credits} |\n`;
     });
 
     content += `\n`;
@@ -68,15 +68,17 @@ const novelChartUrlBase = "https://www.jjwxc.net/channeltoplist.php?rchannelid=1
 
 for (const genre in genres) {
     const novelChartUrl = `${novelChartUrlBase}${genres[genre]}`;
-    getNovelChart(novelChartUrl)
-        .then((novelChart) => {
-            novels = novelChart.novels;
-            lastUpdated = getDate(Date.now());
+    getNovelUrls(novelChartUrl)
+        .then((novelUrls) => {
+            getNovelChart(novelUrls)
+                .then((novelChart) => {
+                    const lastUpdated = getDate(Date.now());
 
-            fs.writeFileSync(`json/${genre}.json`, JSON.stringify([novelChart, lastUpdated], null, 4), "utf-8");
+                    fs.writeFileSync(`json/${genre}.json`, JSON.stringify([novelChart, lastUpdated], null, 4), "utf-8");
 
-            // update the readme
-            generateReadme(novelChart, genre);
+                    // update the readme
+                    generateReadme(novelChart, genre);
+                })
         })
         .catch((err) => {
             console.log(err);
