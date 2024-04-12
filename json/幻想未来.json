@@ -33,7 +33,7 @@
             "url": "https://www.jjwxc.net/onebook.php?novelid=6245295",
             "genre": "原创-百合-幻想未来-爱情",
             "status": "连载",
-            "wordCount": "160203字",
+            "wordCount": "163434字",
             "credits": "58,231,104"
         },
         {
@@ -366,7 +366,7 @@
             "url": "https://www.jjwxc.net/onebook.php?novelid=8670043",
             "genre": "原创-百合-幻想未来-惊悚",
             "status": "连载",
-            "wordCount": "33022字",
+            "wordCount": "36261字",
             "credits": "295,328"
         },
         {
@@ -739,15 +739,6 @@
             "credits": "80,605"
         },
         {
-            "author": "吾山司南",
-            "title": "封山",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8748754",
-            "genre": "原创-百合-幻想未来-仙侠",
-            "status": "连载",
-            "wordCount": "10985字",
-            "credits": "80,014"
-        },
-        {
             "author": "不听不许",
             "title": "她在一场长久的春睡",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8693107",
@@ -755,6 +746,15 @@
             "status": "连载",
             "wordCount": "12917字",
             "credits": "79,786"
+        },
+        {
+            "author": "吾山司南",
+            "title": "封山",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8748754",
+            "genre": "原创-百合-架空历史-剧情",
+            "status": "连载",
+            "wordCount": "10985字",
+            "credits": "78,389"
         },
         {
             "author": "一颗单糖",
@@ -856,5 +856,5 @@
             "credits": "16,400"
         }
     ],
-    "2024-04-12, 23:19:44 GMT+8"
+    "2024-04-13, 00:22:29 GMT+8"
 ]
