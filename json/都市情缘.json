@@ -34,7 +34,7 @@
             "genre": "原创-百合-近代现代-爱情",
             "status": "完结",
             "wordCount": "221117字",
-            "credits": "31,698,084"
+            "credits": "32,345,124"
         },
         {
             "author": "银山堆",
@@ -159,8 +159,8 @@
             "url": "https://www.jjwxc.net/onebook.php?novelid=8760594",
             "genre": "原创-百合-近代现代-爱情",
             "status": "连载",
-            "wordCount": "300058字",
-            "credits": "1,892,037"
+            "wordCount": "307263字",
+            "credits": "1,952,246"
         },
         {
             "author": "蒲三",
@@ -217,6 +217,15 @@
             "credits": "1,329,222"
         },
         {
+            "author": "祈荒",
+            "title": "病态关系",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=7853071",
+            "genre": "原创-百合-近代现代-爱情",
+            "status": "连载",
+            "wordCount": "30003字",
+            "credits": "1,195,012"
+        },
+        {
             "author": "渚倪",
             "title": "蓝色日出",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8673927",
@@ -224,15 +233,6 @@
             "status": "完结",
             "wordCount": "109135字",
             "credits": "1,171,360"
-        },
-        {
-            "author": "祈荒",
-            "title": "病态关系",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=7853071",
-            "genre": "原创-百合-近代现代-爱情",
-            "status": "连载",
-            "wordCount": "30003字",
-            "credits": "1,157,263"
         },
         {
             "author": "晨东",
@@ -352,6 +352,15 @@
             "credits": "813,241"
         },
         {
+            "author": "言之唔唔",
+            "title": "猎物",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8772297",
+            "genre": "原创-百合-近代现代-爱情",
+            "status": "连载",
+            "wordCount": "164696字",
+            "credits": "793,437"
+        },
+        {
             "author": "一颗红薯",
             "title": "圆圈",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8761050",
@@ -359,24 +368,6 @@
             "status": "连载",
             "wordCount": "85043字",
             "credits": "787,494"
-        },
-        {
-            "author": "岛屿爱吃糖",
-            "title": "救赎",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8747209",
-            "genre": "原创-百合-近代现代-爱情",
-            "status": "连载",
-            "wordCount": "119197字",
-            "credits": "782,931"
-        },
-        {
-            "author": "言之唔唔",
-            "title": "猎物",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8772297",
-            "genre": "原创-百合-近代现代-爱情",
-            "status": "连载",
-            "wordCount": "150949字",
-            "credits": "771,580"
         },
         {
             "author": "三千猫华",
@@ -452,11 +443,11 @@
         },
         {
             "author": "灯上疯花",
-            "title": "陷落星辰",
+            "title": "风破",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8571102",
             "genre": "原创-百合-近代现代-爱情",
             "status": "连载",
-            "wordCount": "70744字",
+            "wordCount": "70745字",
             "credits": "526,499"
         },
         {
@@ -1774,15 +1765,6 @@
             "credits": "79,943"
         },
         {
-            "author": "sun蛋蛋",
-            "title": "梦",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8752048",
-            "genre": "原创-百合-近代现代-爱情",
-            "status": "连载",
-            "wordCount": "14098字",
-            "credits": "79,524"
-        },
-        {
             "author": "双月明",
             "title": "很喜欢你",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8654251",
@@ -1792,14 +1774,32 @@
             "credits": "79,512"
         },
         {
-            "author": "休想知道我是谁",
-            "title": "惊动",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8730132",
+            "author": "夜闲灯落",
+            "title": "凭竹里听风",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8716479",
             "genre": "原创-百合-近代现代-爱情",
             "status": "连载",
-            "wordCount": "23523字",
-            "credits": "79,235"
+            "wordCount": "12366字",
+            "credits": "78,215"
+        },
+        {
+            "author": "圆脸小包",
+            "title": "晴时雨芷",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8729278",
+            "genre": "原创-百合-近代现代-爱情",
+            "status": "连载",
+            "wordCount": "14122字",
+            "credits": "77,850"
+        },
+        {
+            "author": "人间bebe机",
+            "title": "野渡灰河",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8688533",
+            "genre": "原创-百合-近代现代-剧情",
+            "status": "连载",
+            "wordCount": "12836字",
+            "credits": "75,404"
         }
     ],
-    "2024-04-12, 20:20:27 GMT+8"
+    "2024-04-12, 21:20:24 GMT+8"
 ]
