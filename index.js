@@ -50,7 +50,6 @@ const generateReadme = (novelChart, genre) => {
     content += "| 序号 | 作者 | 作品 | 类型 | 进度 | 字数 | 积分 |\n";
     content += "|-----|------|------|-----|------|------|-----|\n";
     novelChart.forEach((novel, index) => {
-        console.log(novel);
         content += `| ${index + 1} | ${novel.author} | [${novel.title}](${novel.url}) | ${novel.genre} | ${novel.status} | ${novel.wordCount} | ${novel.credits} |\n`;
     });
 
