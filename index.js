@@ -69,6 +69,7 @@ const getDate = (unix) => {
 const novelChartUrlBase = "https://www.jjwxc.net/channeltoplist.php?rchannelid=109&rankgroup=3&subchannelid=";
 
 for (const genre in genres) {
+    console.log(`processing genre ${genre}`);
     const novelChartUrl = `${novelChartUrlBase}${genres[genre]}`;
     getNovelUrls(novelChartUrl)
         .then((novelUrls) => {
