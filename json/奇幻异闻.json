@@ -1,889 +1,109 @@
 [
-    {
-        "novels": [
-            {
-                "author": "柒殇祭",
-                "title": "她的触手",
-                "genre": "原创-百合-近代现代-爱情",
-                "status": "连载",
-                "wordCount": "383205",
-                "credits": "599,475,264",
-                "url": "onebook.php?novelid=8269618"
-            },
-            {
-                "author": "问西来意",
-                "title": "始乱终弃了神女后",
-                "genre": "原创-百合-架空历史-仙侠",
-                "status": "连载",
-                "wordCount": "231397",
-                "credits": "66,876,696",
-                "url": "onebook.php?novelid=7949243"
-            },
-            {
-                "author": "宋池青",
-                "title": "情书写给九年后",
-                "genre": "原创-百合-近代现代-爱情",
-                "status": "连载",
-                "wordCount": "153837",
-                "credits": "53,611,288",
-                "url": "onebook.php?novelid=8643569"
-            },
-            {
-                "author": "镂玉裁冰",
-                "title": "她心怀不轨[无限]",
-                "genre": "原创-百合-近代现代-爱情",
-                "status": "连载",
-                "wordCount": "263304",
-                "credits": "48,206,664",
-                "url": "onebook.php?novelid=7330762"
-            },
-            {
-                "author": "山吹黄金",
-                "title": "一篇触手百合文",
-                "genre": "原创-百合-近代现代-奇幻",
-                "status": "连载",
-                "wordCount": "129964",
-                "credits": "20,420,736",
-                "url": "onebook.php?novelid=8567678"
-            },
-            {
-                "author": "养羊人",
-                "title": "那个小雌a为何那样",
-                "genre": "原创-百合-近代现代-爱情",
-                "status": "连载",
-                "wordCount": "136039",
-                "credits": "19,393,632",
-                "url": "onebook.php?novelid=8642153"
-            },
-            {
-                "author": "糖弦",
-                "title": "绿茶心声泄漏后被女神宠了[穿书]",
-                "genre": "原创-百合-近代现代-爱情",
-                "status": "连载",
-                "wordCount": "69638",
-                "credits": "18,492,636",
-                "url": "onebook.php?novelid=8595164"
-            },
-            {
-                "author": "持羽",
-                "title": "请劝我摆烂gl",
-                "genre": "原创-百合-近代现代-奇幻",
-                "status": "连载",
-                "wordCount": "230793",
-                "credits": "17,915,342",
-                "url": "onebook.php?novelid=8380862"
-            },
-            {
-                "author": "稚饶小饼干",
-                "title": "雌蟒室友总想吃掉我",
-                "genre": "原创-百合-近代现代-爱情",
-                "status": "连载",
-                "wordCount": "82736",
-                "credits": "16,257,750",
-                "url": "onebook.php?novelid=8694936"
-            },
-            {
-                "author": "半十",
-                "title": "不合理忘却 gl",
-                "genre": "原创-百合-近代现代-剧情",
-                "status": "连载",
-                "wordCount": "92031",
-                "credits": "10,844,353",
-                "url": "onebook.php?novelid=8460555"
-            },
-            {
-                "author": "高宴天下",
-                "title": "天师，但怕鬼",
-                "genre": "原创-百合-近代现代-爱情",
-                "status": "连载",
-                "wordCount": "65764",
-                "credits": "7,387,751",
-                "url": "onebook.php?novelid=6661941"
-            },
-            {
-                "author": "莉莉安Liliance",
-                "title": "物理强度120%的魔女大人！",
-                "genre": "原创-百合-架空历史-奇幻",
-                "status": "连载",
-                "wordCount": "117324",
-                "credits": "5,800,305",
-                "url": "onebook.php?novelid=8690864"
-            },
-            {
-                "author": "一帆小舟",
-                "title": "捡到的美人鱼想娶我",
-                "genre": "原创-百合-近代现代-爱情",
-                "status": "连载",
-                "wordCount": "88321",
-                "credits": "4,545,332",
-                "url": "onebook.php?novelid=8579634"
-            },
-            {
-                "author": "悔也",
-                "title": "侵占我心",
-                "genre": "原创-百合-近代现代-剧情",
-                "status": "连载",
-                "wordCount": "84100",
-                "credits": "3,926,592",
-                "url": "onebook.php?novelid=8639186"
-            },
-            {
-                "author": "画师fox",
-                "title": "当社畜撞上阿飘姐姐",
-                "genre": "原创-百合-近代现代-剧情",
-                "status": "完结",
-                "wordCount": "87863",
-                "credits": "3,740,130",
-                "url": "onebook.php?novelid=8717795"
-            },
-            {
-                "author": "对对胡",
-                "title": "钓到心软的上神",
-                "genre": "原创-百合-架空历史-爱情",
-                "status": "连载",
-                "wordCount": "50460",
-                "credits": "3,050,953",
-                "url": "onebook.php?novelid=8368543"
-            },
-            {
-                "author": "有核儿",
-                "title": "她强吻宿敌并疯狂造谣",
-                "genre": "原创-百合-近代现代-奇幻",
-                "status": "连载",
-                "wordCount": "68165",
-                "credits": "2,674,436",
-                "url": "onebook.php?novelid=8743700"
-            },
-            {
-                "author": "南云辰也",
-                "title": "无无无",
-                "genre": "原创-百合-架空历史-奇幻",
-                "status": "连载",
-                "wordCount": "100026",
-                "credits": "2,222,146",
-                "url": "onebook.php?novelid=8645667"
-            },
-            {
-                "author": "丁有志",
-                "title": "鬼都繁华录",
-                "genre": "原创-百合-架空历史-剧情",
-                "status": "连载",
-                "wordCount": "64102",
-                "credits": "2,187,015",
-                "url": "onebook.php?novelid=8725678"
-            },
-            {
-                "author": "惊鸿舞",
-                "title": "我姐姐怎么会是二次元",
-                "genre": "原创-百合-近代现代-爱情",
-                "status": "连载",
-                "wordCount": "68884",
-                "credits": "1,863,612",
-                "url": "onebook.php?novelid=8640772"
-            },
-            {
-                "author": "猫吃了鸟",
-                "title": "安能辨我是乾坤（双 a）",
-                "genre": "原创-百合-架空历史-奇幻",
-                "status": "连载",
-                "wordCount": "108987",
-                "credits": "1,200,206",
-                "url": "onebook.php?novelid=8678745"
-            },
-            {
-                "author": "海罂梨",
-                "title": "驸马是个女将军",
-                "genre": "原创-百合-架空历史-爱情",
-                "status": "连载",
-                "wordCount": "99920",
-                "credits": "769,641",
-                "url": "onebook.php?novelid=8731918"
-            },
-            {
-                "author": "鹤同尘",
-                "title": "襟上铭",
-                "genre": "原创-百合-架空历史-爱情",
-                "status": "连载",
-                "wordCount": "80512",
-                "credits": "612,522",
-                "url": "onebook.php?novelid=5380846"
-            },
-            {
-                "author": "解离线",
-                "title": "走尸证命",
-                "genre": "原创-百合-近代现代-悬疑",
-                "status": "连载",
-                "wordCount": "73823",
-                "credits": "598,315",
-                "url": "onebook.php?novelid=8765292"
-            },
-            {
-                "author": "柠檬卷月",
-                "title": "逃跑的落日",
-                "genre": "原创-百合-近代现代-爱情",
-                "status": "完结",
-                "wordCount": "56436",
-                "credits": "494,340",
-                "url": "onebook.php?novelid=7251258"
-            },
-            {
-                "author": "漫浪星",
-                "title": "分手后，美人鱼上岸了",
-                "genre": "原创-百合-近代现代-奇幻",
-                "status": "连载",
-                "wordCount": "13266",
-                "credits": "473,442",
-                "url": "onebook.php?novelid=8691758"
-            },
-            {
-                "author": "是海",
-                "title": "夜半变身吸血鬼",
-                "genre": "原创-百合-近代现代-剧情",
-                "status": "连载",
-                "wordCount": "48519",
-                "credits": "430,288",
-                "url": "onebook.php?novelid=8637367"
-            },
-            {
-                "author": "toughen",
-                "title": "魔王",
-                "genre": "原创-百合-架空历史-剧情",
-                "status": "连载",
-                "wordCount": "68329",
-                "credits": "423,425",
-                "url": "onebook.php?novelid=8731310"
-            },
-            {
-                "author": "躺零的幻想",
-                "title": "穿成血族恶劣千金储备粮",
-                "genre": "原创-百合-架空历史-奇幻",
-                "status": "连载",
-                "wordCount": "47703",
-                "credits": "420,298",
-                "url": "onebook.php?novelid=8756728"
-            },
-            {
-                "author": "了算",
-                "title": "再打我试试呢",
-                "genre": "原创-百合-近代现代-惊悚",
-                "status": "连载",
-                "wordCount": "41413",
-                "credits": "379,220",
-                "url": "onebook.php?novelid=8769640"
-            },
-            {
-                "author": "听涯提",
-                "title": "阿珍爱上了阿蔷",
-                "genre": "原创-百合-近代现代-惊悚",
-                "status": "连载",
-                "wordCount": "35861",
-                "credits": "356,149",
-                "url": "onebook.php?novelid=8640085"
-            },
-            {
-                "author": "猫心上人",
-                "title": "神契之约",
-                "genre": "原创-百合-近代现代-悬疑",
-                "status": "连载",
-                "wordCount": "47970",
-                "credits": "350,796",
-                "url": "onebook.php?novelid=8720416"
-            },
-            {
-                "author": "退墨",
-                "title": "穿书后安心做配角",
-                "genre": "原创-百合-架空历史-仙侠",
-                "status": "连载",
-                "wordCount": "48764",
-                "credits": "346,573",
-                "url": "onebook.php?novelid=8692581"
-            },
-            {
-                "author": "南方古狼",
-                "title": "~穿越游戏之开局抱上金大腿~故乡百合花盛放Re",
-                "genre": "原创-百合-近代现代-奇幻",
-                "status": "连载",
-                "wordCount": "36565",
-                "credits": "316,345",
-                "url": "onebook.php?novelid=8697305"
-            },
-            {
-                "author": "鹤寻归",
-                "title": "收集录【无限】",
-                "genre": "原创-百合-近代现代-惊悚",
-                "status": "连载",
-                "wordCount": "39508",
-                "credits": "302,359",
-                "url": "onebook.php?novelid=8677320"
-            },
-            {
-                "author": "五不柳",
-                "title": "她被判无期徒刑",
-                "genre": "原创-百合-近代现代-惊悚",
-                "status": "连载",
-                "wordCount": "32940",
-                "credits": "276,009",
-                "url": "onebook.php?novelid=8690275"
-            },
-            {
-                "author": "玉岭北",
-                "title": "玫瑰水雾",
-                "genre": "原创-百合-近代现代-奇幻",
-                "status": "完结",
-                "wordCount": "36729",
-                "credits": "258,441",
-                "url": "onebook.php?novelid=8729630"
-            },
-            {
-                "author": "我见君来",
-                "title": "通天",
-                "genre": "原创-百合-架空历史-仙侠",
-                "status": "连载",
-                "wordCount": "32072",
-                "credits": "253,045",
-                "url": "onebook.php?novelid=6482438"
-            },
-            {
-                "author": "凌晨的盛夏",
-                "title": "被迫卷入无限游戏之后",
-                "genre": "原创-百合-近代现代-爱情",
-                "status": "连载",
-                "wordCount": "28916",
-                "credits": "239,378",
-                "url": "onebook.php?novelid=8698701"
-            },
-            {
-                "author": "莫托",
-                "title": "我只想活着",
-                "genre": "原创-百合-架空历史-仙侠",
-                "status": "连载",
-                "wordCount": "26321",
-                "credits": "213,420",
-                "url": "onebook.php?novelid=8695339"
-            },
-            {
-                "author": "会这样子建议",
-                "title": "和鬼王结阴婚后",
-                "genre": "原创-百合-近代现代-爱情",
-                "status": "连载",
-                "wordCount": "21533",
-                "credits": "200,383",
-                "url": "onebook.php?novelid=8710148"
-            },
-            {
-                "author": "石伥鬼",
-                "title": "江槐映月",
-                "genre": "原创-百合-近代现代-奇幻",
-                "status": "连载",
-                "wordCount": "25317",
-                "credits": "197,486",
-                "url": "onebook.php?novelid=8667072"
-            },
-            {
-                "author": "茅檐",
-                "title": "无尘",
-                "genre": "原创-百合-古色古香-仙侠",
-                "status": "连载",
-                "wordCount": "26922",
-                "credits": "191,583",
-                "url": "onebook.php?novelid=8659975"
-            },
-            {
-                "author": "酒酿冰淇淋",
-                "title": "彼岸奈何",
-                "genre": "原创-百合-架空历史-爱情",
-                "status": "连载",
-                "wordCount": "25058",
-                "credits": "188,100",
-                "url": "onebook.php?novelid=8737854"
-            },
-            {
-                "author": "创作的鱼",
-                "title": "被埋藏的宝藏",
-                "genre": "原创-百合-近代现代-奇幻",
-                "status": "连载",
-                "wordCount": "26631",
-                "credits": "185,605",
-                "url": "onebook.php?novelid=8670344"
-            },
-            {
-                "author": "吾乃贺岁妖君嗷",
-                "title": "她第一次养猫",
-                "genre": "原创-百合-近代现代-奇幻",
-                "status": "连载",
-                "wordCount": "31214",
-                "credits": "177,707",
-                "url": "onebook.php?novelid=8658188"
-            },
-            {
-                "author": "苯丙氨酸zyrf",
-                "title": "歌与血舞（无限流）",
-                "genre": "原创-百合-近代现代-剧情",
-                "status": "连载",
-                "wordCount": "27995",
-                "credits": "175,747",
-                "url": "onebook.php?novelid=8736419"
-            },
-            {
-                "author": "姜土豆",
-                "title": "西大陆旅居日记",
-                "genre": "原创-百合-架空历史-奇幻",
-                "status": "连载",
-                "wordCount": "47324",
-                "credits": "172,236",
-                "url": "onebook.php?novelid=8758198"
-            },
-            {
-                "author": "tanoa塔诺娅",
-                "title": "求生游戏",
-                "genre": "原创-百合-近代现代-奇幻",
-                "status": "连载",
-                "wordCount": "22131",
-                "credits": "171,746",
-                "url": "onebook.php?novelid=8634666"
-            },
-            {
-                "author": "米拉妮",
-                "title": "牙医谋杀案",
-                "genre": "原创-百合-架空历史-悬疑",
-                "status": "连载",
-                "wordCount": "45953",
-                "credits": "168,707",
-                "url": "onebook.php?novelid=8771116"
-            },
-            {
-                "author": "那就佚名",
-                "title": "假扮神明[gl]",
-                "genre": "原创-百合-架空历史-剧情",
-                "status": "连载",
-                "wordCount": "21294",
-                "credits": "161,291",
-                "url": "onebook.php?novelid=8644796"
-            },
-            {
-                "author": "桐始华",
-                "title": "腐蝶",
-                "genre": "原创-百合-近代现代-惊悚",
-                "status": "连载",
-                "wordCount": "16632",
-                "credits": "161,260",
-                "url": "onebook.php?novelid=8696603"
-            },
-            {
-                "author": "不枯苏",
-                "title": "守玫瑰",
-                "genre": "原创-百合-近代现代-奇幻",
-                "status": "连载",
-                "wordCount": "17993",
-                "credits": "151,744",
-                "url": "onebook.php?novelid=7850047"
-            },
-            {
-                "author": "Prounprem",
-                "title": "扮演游戏：四个疯批的恋爱日常",
-                "genre": "原创-百合-近代现代-奇幻",
-                "status": "连载",
-                "wordCount": "16820",
-                "credits": "146,693",
-                "url": "onebook.php?novelid=8660873"
-            },
-            {
-                "author": "弥玖有只小羊",
-                "title": "宠物店有奇珍异兽有问题吗？",
-                "genre": "原创-百合-架空历史-惊悚",
-                "status": "连载",
-                "wordCount": "32064",
-                "credits": "146,634",
-                "url": "onebook.php?novelid=8685907"
-            },
-            {
-                "author": "鳄人",
-                "title": "异世界游戏",
-                "genre": "原创-百合-架空历史-惊悚",
-                "status": "连载",
-                "wordCount": "15585",
-                "credits": "146,076",
-                "url": "onebook.php?novelid=8595412"
-            },
-            {
-                "author": "左肩蝶舞",
-                "title": "她过分漂亮",
-                "genre": "原创-百合-架空历史-爱情",
-                "status": "连载",
-                "wordCount": "14475",
-                "credits": "145,894",
-                "url": "onebook.php?novelid=8698621"
-            },
-            {
-                "author": "寒燃",
-                "title": "合租公寓",
-                "genre": "原创-百合-近代现代-剧情",
-                "status": "连载",
-                "wordCount": "18575",
-                "credits": "142,578",
-                "url": "onebook.php?novelid=8727229"
-            },
-            {
-                "author": "休息三分钟",
-                "title": "深潭",
-                "genre": "原创-百合-近代现代-爱情",
-                "status": "连载",
-                "wordCount": "18687",
-                "credits": "140,643",
-                "url": "onebook.php?novelid=8672295"
-            },
-            {
-                "author": "李少不是离少",
-                "title": "无双之徒",
-                "genre": "原创-百合-近代现代-悬疑",
-                "status": "连载",
-                "wordCount": "20057",
-                "credits": "139,925",
-                "url": "onebook.php?novelid=8640697"
-            },
-            {
-                "author": "可乐带鱼",
-                "title": "酹江月",
-                "genre": "原创-百合-架空历史-仙侠",
-                "status": "连载",
-                "wordCount": "17987",
-                "credits": "137,358",
-                "url": "onebook.php?novelid=8696103"
-            },
-            {
-                "author": "跑跑tomy",
-                "title": "代替她爱我",
-                "genre": "原创-百合-近代现代-爱情",
-                "status": "连载",
-                "wordCount": "22533",
-                "credits": "136,510",
-                "url": "onebook.php?novelid=8641230"
-            },
-            {
-                "author": "52_BLUE",
-                "title": "天岛荆棘",
-                "genre": "原创-百合-架空历史-奇幻",
-                "status": "连载",
-                "wordCount": "15071",
-                "credits": "132,564",
-                "url": "onebook.php?novelid=8684135"
-            },
-            {
-                "author": "上原惠子",
-                "title": "山中魔谕",
-                "genre": "原创-百合-近代现代-传奇",
-                "status": "连载",
-                "wordCount": "10077",
-                "credits": "129,447",
-                "url": "onebook.php?novelid=8745151"
-            },
-            {
-                "author": "玉堂青",
-                "title": "重生成糊咖女星后为地府打黑工",
-                "genre": "原创-百合-近代现代-惊悚",
-                "status": "连载",
-                "wordCount": "14534",
-                "credits": "127,548",
-                "url": "onebook.php?novelid=8736636"
-            },
-            {
-                "author": "鄢羽",
-                "title": "又被讨厌的人帅到了",
-                "genre": "原创-百合-架空历史-奇幻",
-                "status": "连载",
-                "wordCount": "15261",
-                "credits": "126,193",
-                "url": "onebook.php?novelid=8666174"
-            },
-            {
-                "author": "千雲嫭伊",
-                "title": "请配合驰灵师的工作",
-                "genre": "原创-百合-架空历史-奇幻",
-                "status": "连载",
-                "wordCount": "18259",
-                "credits": "117,916",
-                "url": "onebook.php?novelid=8751598"
-            },
-            {
-                "author": "神之黑狼",
-                "title": "喜欢恶作剧的小雪豹",
-                "genre": "原创-百合-架空历史-爱情",
-                "status": "连载",
-                "wordCount": "11322",
-                "credits": "116,578",
-                "url": "onebook.php?novelid=8709528"
-            },
-            {
-                "author": "Levitate",
-                "title": "逆夏春花",
-                "genre": "原创-百合-架空历史-奇幻",
-                "status": "连载",
-                "wordCount": "11146",
-                "credits": "109,231",
-                "url": "onebook.php?novelid=8690805"
-            },
-            {
-                "author": "狸可森",
-                "title": "食饼椒(gl)",
-                "genre": "原创-百合-架空历史-仙侠",
-                "status": "连载",
-                "wordCount": "16522",
-                "credits": "107,960",
-                "url": "onebook.php?novelid=8672059"
-            },
-            {
-                "author": "我醉卿且去",
-                "title": "皎珑传",
-                "genre": "原创-百合-近代现代-爱情",
-                "status": "连载",
-                "wordCount": "12643",
-                "credits": "101,982",
-                "url": "onebook.php?novelid=8771000"
-            },
-            {
-                "author": "叼着苦瓜",
-                "title": "浮梦",
-                "genre": "原创-百合-近代现代-爱情",
-                "status": "连载",
-                "wordCount": "12936",
-                "credits": "97,003",
-                "url": "onebook.php?novelid=8694771"
-            },
-            {
-                "author": "梦想成真啊",
-                "title": "寻觅",
-                "genre": "原创-百合-近代现代-奇幻",
-                "status": "连载",
-                "wordCount": "10451",
-                "credits": "96,548",
-                "url": "onebook.php?novelid=8725640"
-            },
-            {
-                "author": "里奇妙妙蛙",
-                "title": "此世界线为何如此奇怪",
-                "genre": "原创-百合-架空历史-惊悚",
-                "status": "连载",
-                "wordCount": "14096",
-                "credits": "93,913",
-                "url": "onebook.php?novelid=8703016"
-            },
-            {
-                "author": "肆空望",
-                "title": "在梦中诉情",
-                "genre": "原创-百合-架空历史-爱情",
-                "status": "连载",
-                "wordCount": "10656",
-                "credits": "93,551",
-                "url": "onebook.php?novelid=8666559"
-            },
-            {
-                "author": "少越人",
-                "title": "玄鉴神族",
-                "genre": "原创-百合-古色古香-仙侠",
-                "status": "连载",
-                "wordCount": "35617",
-                "credits": "91,310",
-                "url": "onebook.php?novelid=8746835"
-            },
-            {
-                "author": "玫瑰主义浪漫至上",
-                "title": "欢迎来到暮色游戏",
-                "genre": "原创-百合-近代现代-剧情",
-                "status": "连载",
-                "wordCount": "27890",
-                "credits": "91,005",
-                "url": "onebook.php?novelid=8762409"
-            },
-            {
-                "author": "轻舟别山",
-                "title": "赦罪",
-                "genre": "原创-百合-架空历史-爱情",
-                "status": "连载",
-                "wordCount": "12139",
-                "credits": "90,482",
-                "url": "onebook.php?novelid=8314829"
-            },
-            {
-                "author": "西伯利亚拖拉机犬",
-                "title": "救命我困在阴间出不去了",
-                "genre": "原创-百合-近代现代-奇幻",
-                "status": "连载",
-                "wordCount": "15945",
-                "credits": "88,168",
-                "url": "onebook.php?novelid=8727732"
-            },
-            {
-                "author": "笼风",
-                "title": "与灵之道：红门前传",
-                "genre": "原创-百合-近代现代-惊悚",
-                "status": "连载",
-                "wordCount": "10730",
-                "credits": "87,453",
-                "url": "onebook.php?novelid=8721507"
-            },
-            {
-                "author": "巧克力长颈鹿",
-                "title": "吉安办事处（GL）",
-                "genre": "原创-百合-近代现代-爱情",
-                "status": "连载",
-                "wordCount": "10003",
-                "credits": "84,631",
-                "url": "onebook.php?novelid=8715634"
-            },
-            {
-                "author": "落墨秋怀",
-                "title": "咬痕",
-                "genre": "原创-百合-架空历史-仙侠",
-                "status": "连载",
-                "wordCount": "13940",
-                "credits": "81,962",
-                "url": "onebook.php?novelid=8720897"
-            },
-            {
-                "author": "起子11",
-                "title": "我在无限流里升级",
-                "genre": "原创-百合-近代现代-惊悚",
-                "status": "连载",
-                "wordCount": "10459",
-                "credits": "81,734",
-                "url": "onebook.php?novelid=8673046"
-            },
-            {
-                "author": "袭江",
-                "title": "洛希极限",
-                "genre": "原创-百合-近代现代-奇幻",
-                "status": "连载",
-                "wordCount": "10727",
-                "credits": "81,344",
-                "url": "onebook.php?novelid=7559463"
-            },
-            {
-                "author": "纸玫",
-                "title": "她与风月共朝夕",
-                "genre": "原创-百合-近代现代-剧情",
-                "status": "连载",
-                "wordCount": "11166",
-                "credits": "79,860",
-                "url": "onebook.php?novelid=8742785"
-            },
-            {
-                "author": "怜高",
-                "title": "我在无限考场里殺死邪神",
-                "genre": "原创-百合-近代现代-惊悚",
-                "status": "连载",
-                "wordCount": "12779",
-                "credits": "76,570",
-                "url": "onebook.php?novelid=8752322"
-            },
-            {
-                "author": "月下亦",
-                "title": "发现她的秘密之后",
-                "genre": "原创-百合-架空历史-仙侠",
-                "status": "连载",
-                "wordCount": "10269",
-                "credits": "74,817",
-                "url": "onebook.php?novelid=8761803"
-            },
-            {
-                "author": "码农吃石头",
-                "title": "月亮与孤岛",
-                "genre": "原创-百合-近代现代-游戏",
-                "status": "连载",
-                "wordCount": "10606",
-                "credits": "72,333",
-                "url": "onebook.php?novelid=8663315"
-            },
-            {
-                "author": "阿木辞",
-                "title": "谁是我的宿命",
-                "genre": "原创-百合-近代现代-剧情",
-                "status": "连载",
-                "wordCount": "15771",
-                "credits": "70,061",
-                "url": "onebook.php?novelid=8755429"
-            },
-            {
-                "author": "RozViolet",
-                "title": "缄默歌剧",
-                "genre": "原创-百合-架空历史-爱情",
-                "status": "连载",
-                "wordCount": "10034",
-                "credits": "69,877",
-                "url": "onebook.php?novelid=8714507"
-            },
-            {
-                "author": "长惜木",
-                "title": "时空维修【无限】",
-                "genre": "原创-百合-架空历史-剧情",
-                "status": "连载",
-                "wordCount": "12455",
-                "credits": "62,822",
-                "url": "onebook.php?novelid=8711587"
-            },
-            {
-                "author": "雪年",
-                "title": "椿朝暖阳",
-                "genre": "原创-百合-近代现代-惊悚",
-                "status": "连载",
-                "wordCount": "10491",
-                "credits": "62,492",
-                "url": "onebook.php?novelid=8678889"
-            },
-            {
-                "author": "问讯春朝",
-                "title": "云泥之我和我的室友",
-                "genre": "原创-百合-近代现代-奇幻",
-                "status": "连载",
-                "wordCount": "10671",
-                "credits": "56,447",
-                "url": "onebook.php?novelid=8728978"
-            },
-            {
-                "author": "池恩夕昂",
-                "title": "无极世界",
-                "genre": "原创-百合-近代现代-奇幻",
-                "status": "连载",
-                "wordCount": "11529",
-                "credits": "46,291",
-                "url": "onebook.php?novelid=8765300"
-            },
-            {
-                "author": "佳人配才女",
-                "title": "终负相遇",
-                "genre": "原创-百合-近代现代-剧情",
-                "status": "连载",
-                "wordCount": "13341",
-                "credits": "41,971",
-                "url": "onebook.php?novelid=8670997"
-            },
-            {
-                "author": "最美黑店老板娘",
-                "title": "消失的地平线",
-                "genre": "原创-百合-近代现代-奇幻",
-                "status": "连载",
-                "wordCount": "11000",
-                "credits": "28,623",
-                "url": "onebook.php?novelid=8762884"
-            },
-            {
-                "author": "温柔小米",
-                "title": "光·阴",
-                "genre": "原创-百合-近代现代-剧情",
-                "status": "连载",
-                "wordCount": "46298",
-                "credits": "20,090",
-                "url": "onebook.php?novelid=8649208"
-            },
-            {
-                "author": "禤涅星",
-                "title": "进入无限游戏",
-                "genre": "原创-百合-架空历史-惊悚",
-                "status": "连载",
-                "wordCount": "14671",
-                "credits": "16,400",
-                "url": "onebook.php?novelid=8670040"
-            }
-        ]
-    },
-    "2024-04-12, 09:05:49 GMT+8"
+    [
+        "https://www.jjwxc.net/onebook.php?novelid=8269618",
+        "https://www.jjwxc.net/onebook.php?novelid=7949243",
+        "https://www.jjwxc.net/onebook.php?novelid=8643569",
+        "https://www.jjwxc.net/onebook.php?novelid=7330762",
+        "https://www.jjwxc.net/onebook.php?novelid=8595164",
+        "https://www.jjwxc.net/onebook.php?novelid=8567678",
+        "https://www.jjwxc.net/onebook.php?novelid=8642153",
+        "https://www.jjwxc.net/onebook.php?novelid=8380862",
+        "https://www.jjwxc.net/onebook.php?novelid=8694936",
+        "https://www.jjwxc.net/onebook.php?novelid=8460555",
+        "https://www.jjwxc.net/onebook.php?novelid=7494521",
+        "https://www.jjwxc.net/onebook.php?novelid=6661941",
+        "https://www.jjwxc.net/onebook.php?novelid=8690864",
+        "https://www.jjwxc.net/onebook.php?novelid=8579634",
+        "https://www.jjwxc.net/onebook.php?novelid=8639186",
+        "https://www.jjwxc.net/onebook.php?novelid=8568856",
+        "https://www.jjwxc.net/onebook.php?novelid=8717795",
+        "https://www.jjwxc.net/onebook.php?novelid=8743700",
+        "https://www.jjwxc.net/onebook.php?novelid=8368543",
+        "https://www.jjwxc.net/onebook.php?novelid=8528014",
+        "https://www.jjwxc.net/onebook.php?novelid=7580923",
+        "https://www.jjwxc.net/onebook.php?novelid=8640772",
+        "https://www.jjwxc.net/onebook.php?novelid=8645667",
+        "https://www.jjwxc.net/onebook.php?novelid=8725678",
+        "https://www.jjwxc.net/onebook.php?novelid=8678745",
+        "https://www.jjwxc.net/onebook.php?novelid=8731918",
+        "https://www.jjwxc.net/onebook.php?novelid=5380846",
+        "https://www.jjwxc.net/onebook.php?novelid=8765292",
+        "https://www.jjwxc.net/onebook.php?novelid=8775000",
+        "https://www.jjwxc.net/onebook.php?novelid=7251258",
+        "https://www.jjwxc.net/onebook.php?novelid=8691758",
+        "https://www.jjwxc.net/onebook.php?novelid=8756728",
+        "https://www.jjwxc.net/onebook.php?novelid=8637367",
+        "https://www.jjwxc.net/onebook.php?novelid=8731310",
+        "https://www.jjwxc.net/onebook.php?novelid=8769640",
+        "https://www.jjwxc.net/onebook.php?novelid=8640085",
+        "https://www.jjwxc.net/onebook.php?novelid=8720416",
+        "https://www.jjwxc.net/onebook.php?novelid=8692581",
+        "https://www.jjwxc.net/onebook.php?novelid=8697305",
+        "https://www.jjwxc.net/onebook.php?novelid=8677320",
+        "https://www.jjwxc.net/onebook.php?novelid=8774123",
+        "https://www.jjwxc.net/onebook.php?novelid=8690275",
+        "https://www.jjwxc.net/onebook.php?novelid=8729630",
+        "https://www.jjwxc.net/onebook.php?novelid=6482438",
+        "https://www.jjwxc.net/onebook.php?novelid=8698701",
+        "https://www.jjwxc.net/onebook.php?novelid=8695339",
+        "https://www.jjwxc.net/onebook.php?novelid=8710148",
+        "https://www.jjwxc.net/onebook.php?novelid=8667072",
+        "https://www.jjwxc.net/onebook.php?novelid=8758198",
+        "https://www.jjwxc.net/onebook.php?novelid=8771116",
+        "https://www.jjwxc.net/onebook.php?novelid=8659975",
+        "https://www.jjwxc.net/onebook.php?novelid=8737854",
+        "https://www.jjwxc.net/onebook.php?novelid=8670344",
+        "https://www.jjwxc.net/onebook.php?novelid=8736419",
+        "https://www.jjwxc.net/onebook.php?novelid=8658188",
+        "https://www.jjwxc.net/onebook.php?novelid=8634666",
+        "https://www.jjwxc.net/onebook.php?novelid=8644796",
+        "https://www.jjwxc.net/onebook.php?novelid=8696603",
+        "https://www.jjwxc.net/onebook.php?novelid=7850047",
+        "https://www.jjwxc.net/onebook.php?novelid=8660873",
+        "https://www.jjwxc.net/onebook.php?novelid=8685907",
+        "https://www.jjwxc.net/onebook.php?novelid=8595412",
+        "https://www.jjwxc.net/onebook.php?novelid=8698621",
+        "https://www.jjwxc.net/onebook.php?novelid=8727229",
+        "https://www.jjwxc.net/onebook.php?novelid=8640697",
+        "https://www.jjwxc.net/onebook.php?novelid=8696103",
+        "https://www.jjwxc.net/onebook.php?novelid=8641230",
+        "https://www.jjwxc.net/onebook.php?novelid=8684135",
+        "https://www.jjwxc.net/onebook.php?novelid=8745151",
+        "https://www.jjwxc.net/onebook.php?novelid=8736636",
+        "https://www.jjwxc.net/onebook.php?novelid=8666174",
+        "https://www.jjwxc.net/onebook.php?novelid=8751598",
+        "https://www.jjwxc.net/onebook.php?novelid=8709528",
+        "https://www.jjwxc.net/onebook.php?novelid=8727732",
+        "https://www.jjwxc.net/onebook.php?novelid=8690805",
+        "https://www.jjwxc.net/onebook.php?novelid=8672059",
+        "https://www.jjwxc.net/onebook.php?novelid=8771000",
+        "https://www.jjwxc.net/onebook.php?novelid=8694771",
+        "https://www.jjwxc.net/onebook.php?novelid=8725640",
+        "https://www.jjwxc.net/onebook.php?novelid=8774050",
+        "https://www.jjwxc.net/onebook.php?novelid=8703016",
+        "https://www.jjwxc.net/onebook.php?novelid=8666559",
+        "https://www.jjwxc.net/onebook.php?novelid=8762409",
+        "https://www.jjwxc.net/onebook.php?novelid=8314829",
+        "https://www.jjwxc.net/onebook.php?novelid=8746835",
+        "https://www.jjwxc.net/onebook.php?novelid=8721507",
+        "https://www.jjwxc.net/onebook.php?novelid=8715634",
+        "https://www.jjwxc.net/onebook.php?novelid=7559463",
+        "https://www.jjwxc.net/onebook.php?novelid=8720897",
+        "https://www.jjwxc.net/onebook.php?novelid=8673046",
+        "https://www.jjwxc.net/onebook.php?novelid=8742785",
+        "https://www.jjwxc.net/onebook.php?novelid=8752322",
+        "https://www.jjwxc.net/onebook.php?novelid=8663315",
+        "https://www.jjwxc.net/onebook.php?novelid=8755429",
+        "https://www.jjwxc.net/onebook.php?novelid=8714507",
+        "https://www.jjwxc.net/onebook.php?novelid=8711587",
+        "https://www.jjwxc.net/onebook.php?novelid=8678889",
+        "https://www.jjwxc.net/onebook.php?novelid=8752699",
+        "https://www.jjwxc.net/onebook.php?novelid=8728978",
+        "https://www.jjwxc.net/onebook.php?novelid=8765300",
+        "https://www.jjwxc.net/onebook.php?novelid=8670997",
+        "https://www.jjwxc.net/onebook.php?novelid=8762884",
+        "https://www.jjwxc.net/onebook.php?novelid=8649208",
+        "https://www.jjwxc.net/onebook.php?novelid=8670040"
+    ],
+    "2024-04-12, 14:22:31 GMT+8"
 ]

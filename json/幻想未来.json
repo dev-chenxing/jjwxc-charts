@@ -1,862 +1,99 @@
 [
-    {
-        "novels": [
-            {
-                "author": "洛小湃",
-                "title": "我靠抽卡在废土世界囤货带崽",
-                "genre": "原创-百合-幻想未来-爱情",
-                "status": "连载",
-                "wordCount": "361008",
-                "credits": "237,024,432",
-                "url": "onebook.php?novelid=7917194"
-            },
-            {
-                "author": "Box绿檀木",
-                "title": "炮灰渣A，在线养家",
-                "genre": "原创-百合-幻想未来-科幻",
-                "status": "连载",
-                "wordCount": "228349",
-                "credits": "126,000,416",
-                "url": "onebook.php?novelid=8652027"
-            },
-            {
-                "author": "肆季无忧",
-                "title": "对照组的反派A觉醒了",
-                "genre": "原创-百合-近代现代-爱情",
-                "status": "连载",
-                "wordCount": "182566",
-                "credits": "93,546,056",
-                "url": "onebook.php?novelid=7141672"
-            },
-            {
-                "author": "兔子蛋糕",
-                "title": "重生后娶了偏执冰山",
-                "genre": "原创-百合-幻想未来-爱情",
-                "status": "连载",
-                "wordCount": "140757",
-                "credits": "51,792,428",
-                "url": "onebook.php?novelid=6245295"
-            },
-            {
-                "author": "大王饶命啊",
-                "title": "化龙失败后和残疾影后HE了",
-                "genre": "原创-百合-幻想未来-爱情",
-                "status": "连载",
-                "wordCount": "102587",
-                "credits": "42,136,684",
-                "url": "onebook.php?novelid=8478581"
-            },
-            {
-                "author": "书自清",
-                "title": "自降世之日",
-                "genre": "原创-百合-幻想未来-惊悚",
-                "status": "连载",
-                "wordCount": "115866",
-                "credits": "39,677,992",
-                "url": "onebook.php?novelid=8489697"
-            },
-            {
-                "author": "她姜",
-                "title": "人外的妻子们",
-                "genre": "原创-百合-幻想未来-爱情",
-                "status": "连载",
-                "wordCount": "63984",
-                "credits": "38,864,056",
-                "url": "onebook.php?novelid=8078762"
-            },
-            {
-                "author": "饼鸽鸽",
-                "title": "穿在赘A毁容时",
-                "genre": "原创-百合-幻想未来-爱情",
-                "status": "连载",
-                "wordCount": "55807",
-                "credits": "31,359,332",
-                "url": "onebook.php?novelid=6915339"
-            },
-            {
-                "author": "云深见鹿",
-                "title": "老婆再奶我一口",
-                "genre": "原创-百合-幻想未来-游戏",
-                "status": "连载",
-                "wordCount": "253262",
-                "credits": "29,027,216",
-                "url": "onebook.php?novelid=6200153"
-            },
-            {
-                "author": "初又又",
-                "title": "人在ABO，被迫软饭",
-                "genre": "原创-百合-幻想未来-剧情",
-                "status": "连载",
-                "wordCount": "193899",
-                "credits": "25,976,578",
-                "url": "onebook.php?novelid=5549999"
-            },
-            {
-                "author": "此刻限定",
-                "title": "转职职业是氪金玩家",
-                "genre": "原创-百合-幻想未来-奇幻",
-                "status": "连载",
-                "wordCount": "140055",
-                "credits": "20,476,748",
-                "url": "onebook.php?novelid=7870689"
-            },
-            {
-                "author": "不是闲俞",
-                "title": "捡到一只星际 A",
-                "genre": "原创-百合-幻想未来-爱情",
-                "status": "连载",
-                "wordCount": "209359",
-                "credits": "12,995,486",
-                "url": "onebook.php?novelid=8337997"
-            },
-            {
-                "author": "田园白菜",
-                "title": "规则怪谈：小傻子是金手指",
-                "genre": "原创-百合-幻想未来-爱情",
-                "status": "连载",
-                "wordCount": "66542",
-                "credits": "6,362,834",
-                "url": "onebook.php?novelid=8720165"
-            },
-            {
-                "author": "谋星",
-                "title": "在冥界种菜撸狗",
-                "genre": "原创-百合-幻想未来-爱情",
-                "status": "连载",
-                "wordCount": "73269",
-                "credits": "5,773,075",
-                "url": "onebook.php?novelid=5712759"
-            },
-            {
-                "author": "聆江雪",
-                "title": "路人撩了反派女配",
-                "genre": "原创-百合-幻想未来-爱情",
-                "status": "连载",
-                "wordCount": "38604",
-                "credits": "5,276,277",
-                "url": "onebook.php?novelid=8735868"
-            },
-            {
-                "author": "咕咕梨",
-                "title": "假千金O只爱真千金",
-                "genre": "原创-百合-幻想未来-爱情",
-                "status": "连载",
-                "wordCount": "52124",
-                "credits": "2,720,710",
-                "url": "onebook.php?novelid=6303805"
-            },
-            {
-                "author": "风橘枝",
-                "title": "抽卡抽出前女友",
-                "genre": "原创-百合-幻想未来-爱情",
-                "status": "连载",
-                "wordCount": "85666",
-                "credits": "1,783,390",
-                "url": "onebook.php?novelid=8687261"
-            },
-            {
-                "author": "卅四",
-                "title": "勇者队伍被我挖垮了",
-                "genre": "原创-百合-幻想未来-奇幻",
-                "status": "连载",
-                "wordCount": "130574",
-                "credits": "1,765,158",
-                "url": "onebook.php?novelid=8734853"
-            },
-            {
-                "author": "究诘",
-                "title": "改掉【无限】",
-                "genre": "原创-百合-幻想未来-奇幻",
-                "status": "连载",
-                "wordCount": "155851",
-                "credits": "1,573,191",
-                "url": "onebook.php?novelid=8659714"
-            },
-            {
-                "author": "别学天坑",
-                "title": "就此沉沦[无限流]",
-                "genre": "原创-百合-幻想未来-爱情",
-                "status": "连载",
-                "wordCount": "124257",
-                "credits": "1,460,261",
-                "url": "onebook.php?novelid=8711763"
-            },
-            {
-                "author": "燕国地图",
-                "title": "直恋直的婚后还贷指南",
-                "genre": "原创-百合-幻想未来-科幻",
-                "status": "连载",
-                "wordCount": "153663",
-                "credits": "1,206,445",
-                "url": "onebook.php?novelid=8650181"
-            },
-            {
-                "author": "沈冗",
-                "title": "异能大佬不需要晶核",
-                "genre": "原创-百合-幻想未来-奇幻",
-                "status": "连载",
-                "wordCount": "104782",
-                "credits": "1,142,321",
-                "url": "onebook.php?novelid=8755638"
-            },
-            {
-                "author": "南巢旧巷",
-                "title": "默默无闻",
-                "genre": "原创-百合-幻想未来-爱情",
-                "status": "连载",
-                "wordCount": "55850",
-                "credits": "1,037,033",
-                "url": "onebook.php?novelid=8507770"
-            },
-            {
-                "author": "槐司",
-                "title": "蝴枫生蝶",
-                "genre": "原创-百合-幻想未来-剧情",
-                "status": "连载",
-                "wordCount": "87528",
-                "credits": "869,751",
-                "url": "onebook.php?novelid=8651486"
-            },
-            {
-                "author": "一口春日",
-                "title": "穿到未来继承万贯家产",
-                "genre": "原创-百合-架空历史-爱情",
-                "status": "连载",
-                "wordCount": "65754",
-                "credits": "785,668",
-                "url": "onebook.php?novelid=8710417"
-            },
-            {
-                "author": "甜不萌",
-                "title": "跟死对头在末世求生",
-                "genre": "原创-百合-近代现代-剧情",
-                "status": "连载",
-                "wordCount": "64902",
-                "credits": "782,798",
-                "url": "onebook.php?novelid=8682382"
-            },
-            {
-                "author": "江珉生",
-                "title": "梦中天城",
-                "genre": "原创-百合-架空历史-科幻",
-                "status": "连载",
-                "wordCount": "46549",
-                "credits": "678,179",
-                "url": "onebook.php?novelid=7978636"
-            },
-            {
-                "author": "壶粥",
-                "title": "执迷有悔[ABO]",
-                "genre": "原创-百合-幻想未来-爱情",
-                "status": "连载",
-                "wordCount": "11082",
-                "credits": "558,875",
-                "url": "onebook.php?novelid=7472848"
-            },
-            {
-                "author": "荆棘百合小婕拉",
-                "title": "好想抱住小醋包",
-                "genre": "原创-百合-幻想未来-爱情",
-                "status": "连载",
-                "wordCount": "67823",
-                "credits": "542,660",
-                "url": "onebook.php?novelid=8696519"
-            },
-            {
-                "author": "顶雨挖坑",
-                "title": "星盗重生后和反抗军领袖he了",
-                "genre": "原创-百合-幻想未来-剧情",
-                "status": "连载",
-                "wordCount": "54627",
-                "credits": "505,232",
-                "url": "onebook.php?novelid=8736547"
-            },
-            {
-                "author": "七月萑苇",
-                "title": "论穿成女配如何忽悠重生女主",
-                "genre": "原创-百合-幻想未来-爱情",
-                "status": "连载",
-                "wordCount": "47040",
-                "credits": "427,527",
-                "url": "onebook.php?novelid=8636422"
-            },
-            {
-                "author": "Krigirl",
-                "title": "穿进未来世界和影后对上眼了",
-                "genre": "原创-百合-幻想未来-爱情",
-                "status": "连载",
-                "wordCount": "61616",
-                "credits": "421,910",
-                "url": "onebook.php?novelid=8683296"
-            },
-            {
-                "author": "星一元",
-                "title": "白鹤同行",
-                "genre": "原创-百合-幻想未来-奇幻",
-                "status": "连载",
-                "wordCount": "64016",
-                "credits": "405,492",
-                "url": "onebook.php?novelid=8715577"
-            },
-            {
-                "author": "小蓝本",
-                "title": "绗舟见闻录",
-                "genre": "原创-百合-古色古香-奇幻",
-                "status": "连载",
-                "wordCount": "44212",
-                "credits": "378,504",
-                "url": "onebook.php?novelid=8707953"
-            },
-            {
-                "author": "星祀",
-                "title": "你这末世，它不对劲吧？",
-                "genre": "原创-百合-近代现代-剧情",
-                "status": "连载",
-                "wordCount": "10244",
-                "credits": "371,295",
-                "url": "onebook.php?novelid=8403419"
-            },
-            {
-                "author": "不知常妄作凶",
-                "title": "今天又是新死的一天［水仙］",
-                "genre": "原创-百合-幻想未来-奇幻",
-                "status": "连载",
-                "wordCount": "58485",
-                "credits": "369,738",
-                "url": "onebook.php?novelid=8064525"
-            },
-            {
-                "author": "昔日闻尔",
-                "title": "【西幻】规则怪谈崩坏中",
-                "genre": "原创-百合-幻想未来-奇幻",
-                "status": "连载",
-                "wordCount": "54494",
-                "credits": "367,462",
-                "url": "onebook.php?novelid=8753049"
-            },
-            {
-                "author": "叛逃枸杞",
-                "title": "坠日",
-                "genre": "原创-百合-幻想未来-剧情",
-                "status": "连载",
-                "wordCount": "45979",
-                "credits": "344,841",
-                "url": "onebook.php?novelid=8644950"
-            },
-            {
-                "author": "夏至和",
-                "title": "INTJ的恶魔",
-                "genre": "原创-百合-幻想未来-奇幻",
-                "status": "连载",
-                "wordCount": "54779",
-                "credits": "331,014",
-                "url": "onebook.php?novelid=8717764"
-            },
-            {
-                "author": "南宫不灼玖",
-                "title": "故事脱离主角",
-                "genre": "原创-百合-幻想未来-剧情",
-                "status": "连载",
-                "wordCount": "42471",
-                "credits": "315,903",
-                "url": "onebook.php?novelid=8643384"
-            },
-            {
-                "author": "沈楠秋",
-                "title": "时月拾忆[无限]",
-                "genre": "原创-百合-幻想未来-惊悚",
-                "status": "连载",
-                "wordCount": "33022",
-                "credits": "282,364",
-                "url": "onebook.php?novelid=8670043"
-            },
-            {
-                "author": "懒散的鸽子",
-                "title": "世界余烬[末世gl]",
-                "genre": "原创-百合-近代现代-奇幻",
-                "status": "连载",
-                "wordCount": "28297",
-                "credits": "275,735",
-                "url": "onebook.php?novelid=8695753"
-            },
-            {
-                "author": "土豆两勺",
-                "title": "青白眼",
-                "genre": "原创-百合-幻想未来-仙侠",
-                "status": "连载",
-                "wordCount": "36845",
-                "credits": "270,815",
-                "url": "onebook.php?novelid=8728550"
-            },
-            {
-                "author": "不眨眼的星星",
-                "title": "星际飞船，玫瑰与氧气",
-                "genre": "原创-百合-幻想未来-科幻",
-                "status": "连载",
-                "wordCount": "35075",
-                "credits": "256,035",
-                "url": "onebook.php?novelid=8711622"
-            },
-            {
-                "author": "所遇皆欢喜",
-                "title": "女配抢了女主你敢信",
-                "genre": "原创-百合-幻想未来-爱情",
-                "status": "连载",
-                "wordCount": "57555",
-                "credits": "248,101",
-                "url": "onebook.php?novelid=8758445"
-            },
-            {
-                "author": "恩巨人1",
-                "title": "五百年之后",
-                "genre": "原创-百合-幻想未来-科幻",
-                "status": "连载",
-                "wordCount": "32854",
-                "credits": "245,236",
-                "url": "onebook.php?novelid=8731344"
-            },
-            {
-                "author": "一袋猫耳朵",
-                "title": "重生后为了救老婆我跳槽了",
-                "genre": "原创-百合-近代现代-爱情",
-                "status": "连载",
-                "wordCount": "21703",
-                "credits": "237,185",
-                "url": "onebook.php?novelid=8709616"
-            },
-            {
-                "author": "川言生声可恒",
-                "title": "穿书拯救栀子花",
-                "genre": "原创-百合-近代现代-爱情",
-                "status": "连载",
-                "wordCount": "34124",
-                "credits": "236,801",
-                "url": "onebook.php?novelid=8656841"
-            },
-            {
-                "author": "菌菇不菌",
-                "title": "渊狱",
-                "genre": "原创-百合-幻想未来-爱情",
-                "status": "连载",
-                "wordCount": "46440",
-                "credits": "217,546",
-                "url": "onebook.php?novelid=8748395"
-            },
-            {
-                "author": "jun君慕",
-                "title": "你好小脑斧",
-                "genre": "原创-百合-幻想未来-爱情",
-                "status": "连载",
-                "wordCount": "45804",
-                "credits": "213,280",
-                "url": "onebook.php?novelid=8658524"
-            },
-            {
-                "author": "白兔无言栀子花语",
-                "title": "重生：末世之下，与汝共生",
-                "genre": "原创-百合-幻想未来-爱情",
-                "status": "连载",
-                "wordCount": "27760",
-                "credits": "204,298",
-                "url": "onebook.php?novelid=8628395"
-            },
-            {
-                "author": "狐美丽",
-                "title": "倒影［水仙］",
-                "genre": "原创-百合-近代现代-科幻",
-                "status": "连载",
-                "wordCount": "24263",
-                "credits": "201,267",
-                "url": "onebook.php?novelid=8728789"
-            },
-            {
-                "author": "天清晏回",
-                "title": "异想天开",
-                "genre": "原创-百合-幻想未来-科幻",
-                "status": "连载",
-                "wordCount": "39452",
-                "credits": "187,414",
-                "url": "onebook.php?novelid=8741776"
-            },
-            {
-                "author": "洛颜律",
-                "title": "伊甸2033",
-                "genre": "原创-百合-幻想未来-游戏",
-                "status": "连载",
-                "wordCount": "22878",
-                "credits": "178,809",
-                "url": "onebook.php?novelid=8737886"
-            },
-            {
-                "author": "要不要看看你在写些什么呢",
-                "title": "于是就这样世界末日了",
-                "genre": "原创-百合-幻想未来-剧情",
-                "status": "连载",
-                "wordCount": "22984",
-                "credits": "175,700",
-                "url": "onebook.php?novelid=8627784"
-            },
-            {
-                "author": "核舟纪",
-                "title": "绿洲守恒定律",
-                "genre": "原创-百合-幻想未来-科幻",
-                "status": "连载",
-                "wordCount": "22755",
-                "credits": "169,783",
-                "url": "onebook.php?novelid=8659891"
-            },
-            {
-                "author": "孟幼",
-                "title": "刀锋[gl]",
-                "genre": "原创-百合-幻想未来-爱情",
-                "status": "连载",
-                "wordCount": "20467",
-                "credits": "161,269",
-                "url": "onebook.php?novelid=8599957"
-            },
-            {
-                "author": "迦里的奥宝",
-                "title": "刷自己的好感度怎么了",
-                "genre": "原创-百合-幻想未来-剧情",
-                "status": "连载",
-                "wordCount": "24309",
-                "credits": "155,495",
-                "url": "onebook.php?novelid=8646154"
-            },
-            {
-                "author": "扬亭",
-                "title": "末世准则",
-                "genre": "原创-百合-幻想未来-剧情",
-                "status": "连载",
-                "wordCount": "17103",
-                "credits": "146,527",
-                "url": "onebook.php?novelid=8629225"
-            },
-            {
-                "author": "黎玒",
-                "title": "末世游戏，玩家请选择",
-                "genre": "原创-百合-幻想未来-惊悚",
-                "status": "连载",
-                "wordCount": "31199",
-                "credits": "143,313",
-                "url": "onebook.php?novelid=8731794"
-            },
-            {
-                "author": "春来枝",
-                "title": "无限流程",
-                "genre": "原创-百合-幻想未来-惊悚",
-                "status": "连载",
-                "wordCount": "21127",
-                "credits": "142,767",
-                "url": "onebook.php?novelid=8649232"
-            },
-            {
-                "author": "雪风彣",
-                "title": "唤灵",
-                "genre": "原创-百合-幻想未来-奇幻",
-                "status": "连载",
-                "wordCount": "17892",
-                "credits": "141,517",
-                "url": "onebook.php?novelid=8667451"
-            },
-            {
-                "author": "岑温",
-                "title": "病变",
-                "genre": "原创-百合-幻想未来-爱情",
-                "status": "连载",
-                "wordCount": "21809",
-                "credits": "140,279",
-                "url": "onebook.php?novelid=8762069"
-            },
-            {
-                "author": "Aysity",
-                "title": "这合理吗？",
-                "genre": "原创-百合-幻想未来-奇幻",
-                "status": "连载",
-                "wordCount": "13178",
-                "credits": "137,093",
-                "url": "onebook.php?novelid=6511057"
-            },
-            {
-                "author": "辣手崔花",
-                "title": "吻痕",
-                "genre": "原创-百合-幻想未来-爱情",
-                "status": "连载",
-                "wordCount": "17326",
-                "credits": "124,176",
-                "url": "onebook.php?novelid=8629377"
-            },
-            {
-                "author": "好有道理",
-                "title": "无限游戏试炼中",
-                "genre": "原创-百合-幻想未来-爱情",
-                "status": "连载",
-                "wordCount": "16700",
-                "credits": "116,817",
-                "url": "onebook.php?novelid=8751053"
-            },
-            {
-                "author": "奇迹本迹",
-                "title": "BOSS的替身情人竟是我自己",
-                "genre": "原创-百合-幻想未来-剧情",
-                "status": "连载",
-                "wordCount": "21015",
-                "credits": "110,356",
-                "url": "onebook.php?novelid=8645156"
-            },
-            {
-                "author": "宇宇的鲤鱼",
-                "title": "二手人生",
-                "genre": "原创-百合-幻想未来-剧情",
-                "status": "连载",
-                "wordCount": "12571",
-                "credits": "110,333",
-                "url": "onebook.php?novelid=8640829"
-            },
-            {
-                "author": "辣糖猫猫",
-                "title": "重覆归间",
-                "genre": "原创-百合-近代现代-科幻",
-                "status": "连载",
-                "wordCount": "14323",
-                "credits": "106,152",
-                "url": "onebook.php?novelid=8693304"
-            },
-            {
-                "author": "艹Rb",
-                "title": "被迫刷满声望值后（无限流）",
-                "genre": "原创-百合-幻想未来-惊悚",
-                "status": "连载",
-                "wordCount": "13146",
-                "credits": "105,649",
-                "url": "onebook.php?novelid=8685853"
-            },
-            {
-                "author": "我的爱妻",
-                "title": "我在无限游戏里作死",
-                "genre": "原创-百合-幻想未来-惊悚",
-                "status": "连载",
-                "wordCount": "13429",
-                "credits": "105,368",
-                "url": "onebook.php?novelid=8711157"
-            },
-            {
-                "author": "蘭蘭蘭蘭",
-                "title": "跟着杀手回家后发现催眠失败",
-                "genre": "原创-百合-幻想未来-爱情",
-                "status": "连载",
-                "wordCount": "17837",
-                "credits": "102,987",
-                "url": "onebook.php?novelid=8741018"
-            },
-            {
-                "author": "冬瓜鱼",
-                "title": "Gl实验体",
-                "genre": "原创-百合-架空历史-爱情",
-                "status": "连载",
-                "wordCount": "13047",
-                "credits": "102,155",
-                "url": "onebook.php?novelid=8645452"
-            },
-            {
-                "author": "一颗单糖",
-                "title": "轩元",
-                "genre": "原创-百合-幻想未来-奇幻",
-                "status": "连载",
-                "wordCount": "17457",
-                "credits": "100,042",
-                "url": "onebook.php?novelid=8673635"
-            },
-            {
-                "author": "泽泽泽泽泽也",
-                "title": "伏月",
-                "genre": "原创-百合-幻想未来-惊悚",
-                "status": "连载",
-                "wordCount": "11954",
-                "credits": "98,926",
-                "url": "onebook.php?novelid=8667193"
-            },
-            {
-                "author": "一口小甜甜",
-                "title": "沦陷（末世gl）",
-                "genre": "原创-百合-幻想未来-爱情",
-                "status": "连载",
-                "wordCount": "11073",
-                "credits": "94,769",
-                "url": "onebook.php?novelid=8757354"
-            },
-            {
-                "author": "追风闹月",
-                "title": "数学如此有趣",
-                "genre": "原创-百合-幻想未来-科幻",
-                "status": "连载",
-                "wordCount": "11832",
-                "credits": "93,501",
-                "url": "onebook.php?novelid=8736984"
-            },
-            {
-                "author": "山听茶楼香",
-                "title": "坠渊",
-                "genre": "原创-百合-幻想未来-科幻",
-                "status": "连载",
-                "wordCount": "20293",
-                "credits": "92,767",
-                "url": "onebook.php?novelid=8747012"
-            },
-            {
-                "author": "花切魔牌手",
-                "title": "殉道者",
-                "genre": "原创-百合-幻想未来-剧情",
-                "status": "连载",
-                "wordCount": "18804",
-                "credits": "91,779",
-                "url": "onebook.php?novelid=8708838"
-            },
-            {
-                "author": "不听不许",
-                "title": "她在一场长久的春睡",
-                "genre": "原创-百合-幻想未来-爱情",
-                "status": "连载",
-                "wordCount": "12917",
-                "credits": "91,230",
-                "url": "onebook.php?novelid=8693107"
-            },
-            {
-                "author": "铛铛xs",
-                "title": "事件更新中……",
-                "genre": "原创-百合-幻想未来-惊悚",
-                "status": "连载",
-                "wordCount": "13907",
-                "credits": "89,052",
-                "url": "onebook.php?novelid=8639493"
-            },
-            {
-                "author": "潘拉旗纸",
-                "title": "花洒金樽",
-                "genre": "原创-百合-幻想未来-仙侠",
-                "status": "连载",
-                "wordCount": "10745",
-                "credits": "87,948",
-                "url": "onebook.php?novelid=8665877"
-            },
-            {
-                "author": "诉于野",
-                "title": "攻略到游戏隐藏npc了",
-                "genre": "原创-百合-幻想未来-剧情",
-                "status": "连载",
-                "wordCount": "10136",
-                "credits": "86,776",
-                "url": "onebook.php?novelid=8748249"
-            },
-            {
-                "author": "无关取舍",
-                "title": "她真没当海王【无限】",
-                "genre": "原创-百合-幻想未来-剧情",
-                "status": "连载",
-                "wordCount": "10336",
-                "credits": "82,139",
-                "url": "onebook.php?novelid=8678557"
-            },
-            {
-                "author": "顾淮阳",
-                "title": "热恋",
-                "genre": "原创-百合-幻想未来-爱情",
-                "status": "连载",
-                "wordCount": "12311",
-                "credits": "79,632",
-                "url": "onebook.php?novelid=8696767"
-            },
-            {
-                "author": "蘭蘭蘭蘭",
-                "title": "相杀",
-                "genre": "原创-百合-幻想未来-爱情",
-                "status": "连载",
-                "wordCount": "13426",
-                "credits": "78,496",
-                "url": "onebook.php?novelid=8738362"
-            },
-            {
-                "author": "风雪杀我多少年",
-                "title": "天外来物",
-                "genre": "原创-百合-幻想未来-爱情",
-                "status": "连载",
-                "wordCount": "10536",
-                "credits": "76,585",
-                "url": "onebook.php?novelid=8723339"
-            },
-            {
-                "author": "Burrrr",
-                "title": "星·海",
-                "genre": "原创-百合-近代现代-科幻",
-                "status": "连载",
-                "wordCount": "15728",
-                "credits": "75,838",
-                "url": "onebook.php?novelid=8640253"
-            },
-            {
-                "author": "一只银狼",
-                "title": "鹤观",
-                "genre": "原创-百合-幻想未来-惊悚",
-                "status": "连载",
-                "wordCount": "10146",
-                "credits": "72,568",
-                "url": "onebook.php?novelid=8755103"
-            },
-            {
-                "author": "水尾栖",
-                "title": "谁懂？穿进噩梦疯狂追妻！",
-                "genre": "原创-百合-幻想未来-悬疑",
-                "status": "连载",
-                "wordCount": "13106",
-                "credits": "66,376",
-                "url": "onebook.php?novelid=8748455"
-            },
-            {
-                "author": "桃子桃木",
-                "title": "花袭",
-                "genre": "原创-百合-幻想未来-剧情",
-                "status": "连载",
-                "wordCount": "11173",
-                "credits": "65,272",
-                "url": "onebook.php?novelid=8626050"
-            },
-            {
-                "author": "瑾溪谷",
-                "title": "逆向爱",
-                "genre": "原创-百合-幻想未来-爱情",
-                "status": "连载",
-                "wordCount": "18923",
-                "credits": "62,558",
-                "url": "onebook.php?novelid=8673931"
-            },
-            {
-                "author": "苏子季",
-                "title": "荆棘玫瑰gl",
-                "genre": "原创-百合-幻想未来-爱情",
-                "status": "连载",
-                "wordCount": "10643",
-                "credits": "61,780",
-                "url": "onebook.php?novelid=8724327"
-            },
-            {
-                "author": "吾山司南",
-                "title": "封山",
-                "genre": "原创-百合-幻想未来-仙侠",
-                "status": "连载",
-                "wordCount": "10985",
-                "credits": "52,203",
-                "url": "onebook.php?novelid=8748754"
-            },
-            {
-                "author": "江之柏",
-                "title": "无光之海",
-                "genre": "原创-百合-幻想未来-爱情",
-                "status": "连载",
-                "wordCount": "22130",
-                "credits": "16,400",
-                "url": "onebook.php?novelid=8693803"
-            }
-        ]
-    },
-    "2024-04-12, 09:05:48 GMT+8"
+    [
+        "https://www.jjwxc.net/onebook.php?novelid=7917194",
+        "https://www.jjwxc.net/onebook.php?novelid=8652027",
+        "https://www.jjwxc.net/onebook.php?novelid=6245295",
+        "https://www.jjwxc.net/onebook.php?novelid=8478581",
+        "https://www.jjwxc.net/onebook.php?novelid=8078762",
+        "https://www.jjwxc.net/onebook.php?novelid=8489697",
+        "https://www.jjwxc.net/onebook.php?novelid=6915339",
+        "https://www.jjwxc.net/onebook.php?novelid=5549999",
+        "https://www.jjwxc.net/onebook.php?novelid=7870689",
+        "https://www.jjwxc.net/onebook.php?novelid=8720165",
+        "https://www.jjwxc.net/onebook.php?novelid=8735868",
+        "https://www.jjwxc.net/onebook.php?novelid=5712759",
+        "https://www.jjwxc.net/onebook.php?novelid=6303805",
+        "https://www.jjwxc.net/onebook.php?novelid=8687261",
+        "https://www.jjwxc.net/onebook.php?novelid=8734853",
+        "https://www.jjwxc.net/onebook.php?novelid=8659714",
+        "https://www.jjwxc.net/onebook.php?novelid=8711763",
+        "https://www.jjwxc.net/onebook.php?novelid=8682382",
+        "https://www.jjwxc.net/onebook.php?novelid=8650181",
+        "https://www.jjwxc.net/onebook.php?novelid=8755638",
+        "https://www.jjwxc.net/onebook.php?novelid=8507770",
+        "https://www.jjwxc.net/onebook.php?novelid=8772853",
+        "https://www.jjwxc.net/onebook.php?novelid=8651486",
+        "https://www.jjwxc.net/onebook.php?novelid=8710417",
+        "https://www.jjwxc.net/onebook.php?novelid=7978636",
+        "https://www.jjwxc.net/onebook.php?novelid=7472848",
+        "https://www.jjwxc.net/onebook.php?novelid=8696519",
+        "https://www.jjwxc.net/onebook.php?novelid=8736547",
+        "https://www.jjwxc.net/onebook.php?novelid=8683296",
+        "https://www.jjwxc.net/onebook.php?novelid=8636422",
+        "https://www.jjwxc.net/onebook.php?novelid=8715577",
+        "https://www.jjwxc.net/onebook.php?novelid=8064525",
+        "https://www.jjwxc.net/onebook.php?novelid=8753049",
+        "https://www.jjwxc.net/onebook.php?novelid=8707953",
+        "https://www.jjwxc.net/onebook.php?novelid=8403419",
+        "https://www.jjwxc.net/onebook.php?novelid=8776734",
+        "https://www.jjwxc.net/onebook.php?novelid=8644950",
+        "https://www.jjwxc.net/onebook.php?novelid=8717764",
+        "https://www.jjwxc.net/onebook.php?novelid=8643384",
+        "https://www.jjwxc.net/onebook.php?novelid=8670043",
+        "https://www.jjwxc.net/onebook.php?novelid=8695753",
+        "https://www.jjwxc.net/onebook.php?novelid=8728550",
+        "https://www.jjwxc.net/onebook.php?novelid=8711622",
+        "https://www.jjwxc.net/onebook.php?novelid=8731344",
+        "https://www.jjwxc.net/onebook.php?novelid=8758445",
+        "https://www.jjwxc.net/onebook.php?novelid=8656841",
+        "https://www.jjwxc.net/onebook.php?novelid=8709616",
+        "https://www.jjwxc.net/onebook.php?novelid=8774215",
+        "https://www.jjwxc.net/onebook.php?novelid=8658524",
+        "https://www.jjwxc.net/onebook.php?novelid=8748395",
+        "https://www.jjwxc.net/onebook.php?novelid=8741776",
+        "https://www.jjwxc.net/onebook.php?novelid=8628395",
+        "https://www.jjwxc.net/onebook.php?novelid=8728789",
+        "https://www.jjwxc.net/onebook.php?novelid=8737886",
+        "https://www.jjwxc.net/onebook.php?novelid=8599957",
+        "https://www.jjwxc.net/onebook.php?novelid=8649232",
+        "https://www.jjwxc.net/onebook.php?novelid=8659891",
+        "https://www.jjwxc.net/onebook.php?novelid=8762069",
+        "https://www.jjwxc.net/onebook.php?novelid=8646154",
+        "https://www.jjwxc.net/onebook.php?novelid=8731794",
+        "https://www.jjwxc.net/onebook.php?novelid=8667451",
+        "https://www.jjwxc.net/onebook.php?novelid=6511057",
+        "https://www.jjwxc.net/onebook.php?novelid=8772901",
+        "https://www.jjwxc.net/onebook.php?novelid=8751053",
+        "https://www.jjwxc.net/onebook.php?novelid=8640829",
+        "https://www.jjwxc.net/onebook.php?novelid=8645156",
+        "https://www.jjwxc.net/onebook.php?novelid=8741018",
+        "https://www.jjwxc.net/onebook.php?novelid=8693304",
+        "https://www.jjwxc.net/onebook.php?novelid=8685853",
+        "https://www.jjwxc.net/onebook.php?novelid=8711157",
+        "https://www.jjwxc.net/onebook.php?novelid=8645452",
+        "https://www.jjwxc.net/onebook.php?novelid=8667193",
+        "https://www.jjwxc.net/onebook.php?novelid=8747012",
+        "https://www.jjwxc.net/onebook.php?novelid=8673635",
+        "https://www.jjwxc.net/onebook.php?novelid=8736984",
+        "https://www.jjwxc.net/onebook.php?novelid=8757354",
+        "https://www.jjwxc.net/onebook.php?novelid=8723339",
+        "https://www.jjwxc.net/onebook.php?novelid=8708838",
+        "https://www.jjwxc.net/onebook.php?novelid=8639493",
+        "https://www.jjwxc.net/onebook.php?novelid=8693107",
+        "https://www.jjwxc.net/onebook.php?novelid=8665877",
+        "https://www.jjwxc.net/onebook.php?novelid=8748249",
+        "https://www.jjwxc.net/onebook.php?novelid=8678557",
+        "https://www.jjwxc.net/onebook.php?novelid=8640253",
+        "https://www.jjwxc.net/onebook.php?novelid=8696767",
+        "https://www.jjwxc.net/onebook.php?novelid=8738362",
+        "https://www.jjwxc.net/onebook.php?novelid=8748754",
+        "https://www.jjwxc.net/onebook.php?novelid=8755103",
+        "https://www.jjwxc.net/onebook.php?novelid=8748455",
+        "https://www.jjwxc.net/onebook.php?novelid=8724327",
+        "https://www.jjwxc.net/onebook.php?novelid=8673931",
+        "https://www.jjwxc.net/onebook.php?novelid=8748142",
+        "https://www.jjwxc.net/onebook.php?novelid=8776574",
+        "https://www.jjwxc.net/onebook.php?novelid=8693803"
+    ],
+    "2024-04-12, 14:22:30 GMT+8"
 ]
