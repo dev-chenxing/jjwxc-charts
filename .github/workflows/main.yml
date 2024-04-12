@@ -8,9 +8,9 @@ on:
     pull_request:
         branches: [main]
     workflow_dispatch:
-    # Runs at 00:00
+    # Runs every hour
     schedule:
-        - cron: "0 0 * * *"
+        - cron: "0 */1 * * *"
 
 permissions:
     contents: write
@@ -35,7 +35,8 @@ jobs:
               with:
                   node-version: ${{ matrix.node-version }}
             - run: npm install --if-present
-            - run: npm start
+            - name: Run index.js
+              run: npm start
             - name: Commit and push if it changed
               run: |-
                   git config user.name "chen.xing"
