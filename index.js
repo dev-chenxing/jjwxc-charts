@@ -38,6 +38,9 @@ const getFileName = (genre) => {
 };
 
 const generateReadme = (novelChart, genre) => {
+    const fileName = getFileName(genre);
+    console.log(`generating ${fileName}`);
+
     let content = `# 晋江文学城[排行榜] - 百合\n\n`;
 
     content += getLanguagesNavBar(genre);
@@ -56,7 +59,6 @@ const generateReadme = (novelChart, genre) => {
     content += `---\n\n`;
     content += `最后生成：${getDate(Date.now())}.\n\n`;
 
-    const fileName = getFileName(genre);
     fs.writeFileSync(fileName, content);
 };
 
@@ -79,6 +81,9 @@ for (const genre in genres) {
                     // update the readme
                     generateReadme(novelChart, genre);
                 })
+                .catch((err) => {
+                    console.log(err);
+                });
         })
         .catch((err) => {
             console.log(err);
