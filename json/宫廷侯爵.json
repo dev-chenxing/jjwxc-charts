@@ -1,15 +1,6 @@
 [
     [
         {
-            "author": "徒生",
-            "title": "恕罪",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=4892355",
-            "genre": "原创-百合-古色古香-剧情",
-            "status": "连载",
-            "wordCount": "85170字",
-            "credits": "56,878,144"
-        },
-        {
             "author": "羁南",
             "title": "一个痴心妄想的暗卫",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8385571",
@@ -17,6 +8,15 @@
             "status": "连载",
             "wordCount": "171433字",
             "credits": "55,854,560"
+        },
+        {
+            "author": "徒生",
+            "title": "恕罪",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=4892355",
+            "genre": "原创-百合-古色古香-剧情",
+            "status": "连载",
+            "wordCount": "85170字",
+            "credits": "56,878,144"
         },
         {
             "author": "醉风林",
@@ -35,15 +35,6 @@
             "status": "完结",
             "wordCount": "453782字",
             "credits": "22,174,986"
-        },
-        {
-            "author": "澹台扶风",
-            "title": "公主找了个女驸马",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=4166846",
-            "genre": "原创-百合-架空历史-爱情",
-            "status": "连载",
-            "wordCount": "156462字",
-            "credits": "13,659,370"
         },
         {
             "author": "5悦",
@@ -118,6 +109,15 @@
             "credits": "766,223"
         },
         {
+            "author": "此澳",
+            "title": "磨镜",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8774911",
+            "genre": "原创-百合-架空历史-剧情",
+            "status": "连载",
+            "wordCount": "75249字",
+            "credits": "449,744"
+        },
+        {
             "author": "海棠山茶",
             "title": "玉秋似梦",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8683123",
@@ -154,42 +154,6 @@
             "credits": "197,441"
         },
         {
-            "author": "落夜清归",
-            "title": "郡马只想当神医",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8760449",
-            "genre": "原创-百合-架空历史-爱情",
-            "status": "连载",
-            "wordCount": "14285字",
-            "credits": "152,166"
-        },
-        {
-            "author": "云如华",
-            "title": "孤云已上",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8689697",
-            "genre": "原创-百合-架空历史-爱情",
-            "status": "连载",
-            "wordCount": "16698字",
-            "credits": "129,322"
-        },
-        {
-            "author": "京城喵喵",
-            "title": "督主女，娶女剑客为妻",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8727912",
-            "genre": "原创-百合-架空历史-爱情",
-            "status": "连载",
-            "wordCount": "16013字",
-            "credits": "126,419"
-        },
-        {
-            "author": "银河尽头的篝火",
-            "title": "我见犹怜",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8656007",
-            "genre": "原创-百合-古色古香-剧情",
-            "status": "连载",
-            "wordCount": "14831字",
-            "credits": "123,313"
-        },
-        {
             "author": "逆位的星星",
             "title": "皇后请自重",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8765551",
@@ -197,34 +161,7 @@
             "status": "连载",
             "wordCount": "25488字",
             "credits": "103,907"
-        },
-        {
-            "author": "雾散残余",
-            "title": "予你凝知",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8666891",
-            "genre": "原创-百合-架空历史-传奇",
-            "status": "连载",
-            "wordCount": "10062字",
-            "credits": "100,220"
-        },
-        {
-            "author": "千青槐",
-            "title": "浮生寂",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8697739",
-            "genre": "原创-百合-架空历史-仙侠",
-            "status": "连载",
-            "wordCount": "12028字",
-            "credits": "87,192"
-        },
-        {
-            "author": "金水儿",
-            "title": "芸缨相惜",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8757074",
-            "genre": "原创-百合-架空历史-爱情",
-            "status": "连载",
-            "wordCount": "13392字",
-            "credits": "58,054"
         }
     ],
-    "2024-04-12, 17:14:18 GMT+8"
+    "2024-04-12, 18:31:23 GMT+8"
 ]

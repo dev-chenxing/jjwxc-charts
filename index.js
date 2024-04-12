@@ -1,6 +1,7 @@
 const fs = require("fs");
 const getNovelUrls = require("./lib/main");
 const getNovelChart = require("./lib/chart");
+const utils = require("./lib/utils");
 
 const getTagString = (genre, isCurrentGenre) => {
     if (isCurrentGenre) {
@@ -39,7 +40,7 @@ const getFileName = (genre) => {
 
 const generateReadme = (novelChart, genre) => {
     const fileName = getFileName(genre);
-    console.log(`generating ${fileName}`);
+    // console.log(`generating ${fileName}`);
 
     let content = `# 晋江文学城[排行榜] - 百合\n\n`;
 
@@ -57,13 +58,9 @@ const generateReadme = (novelChart, genre) => {
 
     content += `### Copyright By 晋江文学城 www.jjwxc.net All rights reserved\n\n`;
     content += `---\n\n`;
-    content += `最后生成：${getDate(Date.now())}.\n\n`;
+    content += `最后生成：${utils.getDate(Date.now())}.\n\n`;
 
     fs.writeFileSync(fileName, content);
-};
-
-const getDate = (unix) => {
-    return `${new Date(unix).toLocaleString("en-CA", { dateStyle: "short", timeStyle: "long", timeZone: "Asia/Shanghai", hourCycle: "h23" })}`;
 };
 
 const novelChartUrlBase = "https://www.jjwxc.net/channeltoplist.php?rchannelid=109&rankgroup=3&subchannelid=";
@@ -74,10 +71,6 @@ for (const genre in genres) {
         .then((novelUrls) => {
             getNovelChart(novelUrls, genre)
                 .then((novelChart) => {
-                    const lastUpdated = getDate(Date.now());
-
-                    fs.writeFileSync(`json/${genre}.json`, JSON.stringify([novelChart, lastUpdated], null, 4), "utf-8");
-
                     // update the readme
                     generateReadme(novelChart, genre);
                 })

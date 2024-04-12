@@ -33,7 +33,7 @@
             "url": "https://www.jjwxc.net/onebook.php?novelid=6481661",
             "genre": "原创-百合-近代现代-爱情",
             "status": "连载",
-            "wordCount": "168395字",
+            "wordCount": "168400字",
             "credits": "50,149,744"
         },
         {
@@ -105,8 +105,8 @@
             "url": "https://www.jjwxc.net/onebook.php?novelid=7799526",
             "genre": "原创-百合-近代现代-爱情",
             "status": "连载",
-            "wordCount": "206995字",
-            "credits": "9,517,028"
+            "wordCount": "210570字",
+            "credits": "9,771,835"
         },
         {
             "author": "拿铁奶夕",
@@ -186,7 +186,7 @@
             "url": "https://www.jjwxc.net/onebook.php?novelid=8702637",
             "genre": "原创-百合-近代现代-爱情",
             "status": "连载",
-            "wordCount": "140687字",
+            "wordCount": "144096字",
             "credits": "4,770,193"
         },
         {
@@ -370,15 +370,6 @@
             "credits": "222,450"
         },
         {
-            "author": "泅鸫",
-            "title": "真假千金同上恋综后",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8727879",
-            "genre": "原创-百合-近代现代-爱情",
-            "status": "连载",
-            "wordCount": "16482字",
-            "credits": "207,927"
-        },
-        {
             "author": "一地梦梦子",
             "title": "论我是怎么和对家组cp了",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8767644",
@@ -386,6 +377,15 @@
             "status": "连载",
             "wordCount": "36714字",
             "credits": "205,280"
+        },
+        {
+            "author": "泅鸫",
+            "title": "真假千金同上恋综后",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8727879",
+            "genre": "原创-百合-近代现代-爱情",
+            "status": "连载",
+            "wordCount": "16482字",
+            "credits": "207,927"
         },
         {
             "author": "未知何",
@@ -415,15 +415,6 @@
             "credits": "141,215"
         },
         {
-            "author": "雨藏",
-            "title": "我们一起拼月亮",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8685393",
-            "genre": "原创-百合-近代现代-剧情",
-            "status": "连载",
-            "wordCount": "16801字",
-            "credits": "133,544"
-        },
-        {
             "author": "凡心入俗",
             "title": "先爱后婚",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8698182",
@@ -431,6 +422,15 @@
             "status": "连载",
             "wordCount": "12612字",
             "credits": "133,183"
+        },
+        {
+            "author": "雨藏",
+            "title": "我们一起拼月亮",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8685393",
+            "genre": "原创-百合-近代现代-剧情",
+            "status": "连载",
+            "wordCount": "16801字",
+            "credits": "133,544"
         },
         {
             "author": "水晶马蹄",
@@ -442,15 +442,6 @@
             "credits": "125,772"
         },
         {
-            "author": "梧桐匣子",
-            "title": "姐姐别钓了",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8641011",
-            "genre": "原创-百合-近代现代-爱情",
-            "status": "连载",
-            "wordCount": "10119字",
-            "credits": "123,005"
-        },
-        {
             "author": "拟魚",
             "title": "那些不知茗的椿天",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8649796",
@@ -458,6 +449,15 @@
             "status": "连载",
             "wordCount": "18934字",
             "credits": "120,732"
+        },
+        {
+            "author": "梧桐匣子",
+            "title": "姐姐别钓了",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8641011",
+            "genre": "原创-百合-近代现代-爱情",
+            "status": "连载",
+            "wordCount": "10119字",
+            "credits": "123,005"
         },
         {
             "author": "諵希",
@@ -487,15 +487,6 @@
             "credits": "99,379"
         },
         {
-            "author": "拾念知",
-            "title": "念声",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8765273",
-            "genre": "原创-百合-近代现代-爱情",
-            "status": "连载",
-            "wordCount": "16320字",
-            "credits": "96,319"
-        },
-        {
             "author": "巧克力封封",
             "title": "你是我坠落凡间的天使",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8737919",
@@ -503,6 +494,15 @@
             "status": "连载",
             "wordCount": "18304字",
             "credits": "97,086"
+        },
+        {
+            "author": "拾念知",
+            "title": "念声",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8765273",
+            "genre": "原创-百合-近代现代-爱情",
+            "status": "连载",
+            "wordCount": "16320字",
+            "credits": "96,319"
         },
         {
             "author": "宋时年",
@@ -541,5 +541,5 @@
             "credits": "78,305"
         }
     ],
-    "2024-04-12, 17:14:27 GMT+8"
+    "2024-04-12, 18:43:23 GMT+8"
 ]
