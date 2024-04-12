@@ -1,47 +1,383 @@
 [
     [
-        "https://www.jjwxc.net/onebook.php?novelid=6292124",
-        "https://www.jjwxc.net/onebook.php?novelid=8673729",
-        "https://www.jjwxc.net/onebook.php?novelid=7741161",
-        "https://www.jjwxc.net/onebook.php?novelid=8526322",
-        "https://www.jjwxc.net/onebook.php?novelid=7170669",
-        "https://www.jjwxc.net/onebook.php?novelid=5619106",
-        "https://www.jjwxc.net/onebook.php?novelid=8314817",
-        "https://www.jjwxc.net/onebook.php?novelid=8769703",
-        "https://www.jjwxc.net/onebook.php?novelid=8593485",
-        "https://www.jjwxc.net/onebook.php?novelid=7257013",
-        "https://www.jjwxc.net/onebook.php?novelid=8654526",
-        "https://www.jjwxc.net/onebook.php?novelid=8581238",
-        "https://www.jjwxc.net/onebook.php?novelid=8648411",
-        "https://www.jjwxc.net/onebook.php?novelid=8705893",
-        "https://www.jjwxc.net/onebook.php?novelid=8697172",
-        "https://www.jjwxc.net/onebook.php?novelid=8724672",
-        "https://www.jjwxc.net/onebook.php?novelid=8694202",
-        "https://www.jjwxc.net/onebook.php?novelid=8755233",
-        "https://www.jjwxc.net/onebook.php?novelid=7495619",
-        "https://www.jjwxc.net/onebook.php?novelid=8685857",
-        "https://www.jjwxc.net/onebook.php?novelid=8770322",
-        "https://www.jjwxc.net/onebook.php?novelid=8729151",
-        "https://www.jjwxc.net/onebook.php?novelid=8730023",
-        "https://www.jjwxc.net/onebook.php?novelid=8374818",
-        "https://www.jjwxc.net/onebook.php?novelid=8426247",
-        "https://www.jjwxc.net/onebook.php?novelid=8603111",
-        "https://www.jjwxc.net/onebook.php?novelid=8732541",
-        "https://www.jjwxc.net/onebook.php?novelid=8683350",
-        "https://www.jjwxc.net/onebook.php?novelid=8756031",
-        "https://www.jjwxc.net/onebook.php?novelid=8733238",
-        "https://www.jjwxc.net/onebook.php?novelid=8734855",
-        "https://www.jjwxc.net/onebook.php?novelid=8674563",
-        "https://www.jjwxc.net/onebook.php?novelid=8652048",
-        "https://www.jjwxc.net/onebook.php?novelid=8730162",
-        "https://www.jjwxc.net/onebook.php?novelid=8691433",
-        "https://www.jjwxc.net/onebook.php?novelid=8677391",
-        "https://www.jjwxc.net/onebook.php?novelid=8670371",
-        "https://www.jjwxc.net/onebook.php?novelid=8735302",
-        "https://www.jjwxc.net/onebook.php?novelid=8737554",
-        "https://www.jjwxc.net/onebook.php?novelid=8737344",
-        "https://www.jjwxc.net/onebook.php?novelid=8767161",
-        "https://www.jjwxc.net/onebook.php?novelid=8756438"
+        {
+            "author": "弄酒",
+            "title": "姐姐别忍了",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=6292124",
+            "genre": "原创-百合-近代现代-爱情",
+            "status": "连载",
+            "wordCount": "110338字",
+            "credits": "88,193,776"
+        },
+        {
+            "author": "李惊蛰",
+            "title": "和疯美总裁同居后",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8673729",
+            "genre": "原创-百合-近代现代-爱情",
+            "status": "连载",
+            "wordCount": "184171字",
+            "credits": "56,663,408"
+        },
+        {
+            "author": "十里长堤",
+            "title": "小甜o带球跑后",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=7741161",
+            "genre": "原创-百合-近代现代-爱情",
+            "status": "连载",
+            "wordCount": "219323字",
+            "credits": "51,864,656"
+        },
+        {
+            "author": "淘醉",
+            "title": "每天变成御姐法医的随身物品",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8526322",
+            "genre": "原创-百合-近代现代-爱情",
+            "status": "连载",
+            "wordCount": "45416字",
+            "credits": "32,905,518"
+        },
+        {
+            "author": "杨浏九",
+            "title": "新上司为何还没哭",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8314817",
+            "genre": "原创-百合-近代现代-爱情",
+            "status": "连载",
+            "wordCount": "239961字",
+            "credits": "11,948,169"
+        },
+        {
+            "author": "齐娜eris",
+            "title": "二进制",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=5619106",
+            "genre": "原创-百合-近代现代-爱情",
+            "status": "连载",
+            "wordCount": "95419字",
+            "credits": "12,040,141"
+        },
+        {
+            "author": "杨之达",
+            "title": "救与救赎",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8593485",
+            "genre": "原创-百合-近代现代-爱情",
+            "status": "完结",
+            "wordCount": "96470字",
+            "credits": "6,596,461"
+        },
+        {
+            "author": "摸黑的文子",
+            "title": "你别撩我了",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=7257013",
+            "genre": "原创-百合-近代现代-爱情",
+            "status": "连载",
+            "wordCount": "91079字",
+            "credits": "5,170,548"
+        },
+        {
+            "author": "温璨",
+            "title": "犹豫期",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8654526",
+            "genre": "原创-百合-近代现代-爱情",
+            "status": "连载",
+            "wordCount": "73963字",
+            "credits": "5,095,926"
+        },
+        {
+            "author": "领让望",
+            "title": "夏日午后",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8648411",
+            "genre": "原创-百合-近代现代-爱情",
+            "status": "完结",
+            "wordCount": "112475字",
+            "credits": "4,007,390"
+        },
+        {
+            "author": "解尽乔缘",
+            "title": "香烟与警枪[刑侦]",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8581238",
+            "genre": "原创-百合-近代现代-悬疑",
+            "status": "连载",
+            "wordCount": "328259字",
+            "credits": "4,317,720"
+        },
+        {
+            "author": "雁无书",
+            "title": "你的偏爱是救赎",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8615152",
+            "genre": "原创-百合-近代现代-悬疑",
+            "status": "连载",
+            "wordCount": "376320字",
+            "credits": "3,228,299"
+        },
+        {
+            "author": "盐系排骨",
+            "title": "心机绿茶攻略全校白月光",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8705893",
+            "genre": "原创-百合-近代现代-爱情",
+            "status": "连载",
+            "wordCount": "63323字",
+            "credits": "1,616,664"
+        },
+        {
+            "author": "兔兔喜",
+            "title": "非她不娶",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8634779",
+            "genre": "原创-百合-近代现代-爱情",
+            "status": "连载",
+            "wordCount": "101034字",
+            "credits": "1,052,627"
+        },
+        {
+            "author": "忆庭",
+            "title": "自梦",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8724672",
+            "genre": "原创-百合-近代现代-悬疑",
+            "status": "连载",
+            "wordCount": "65001字",
+            "credits": "443,195"
+        },
+        {
+            "author": "夜微凉k",
+            "title": "希望我的未来都是你",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8697172",
+            "genre": "原创-百合-近代现代-悬疑",
+            "status": "连载",
+            "wordCount": "59833字",
+            "credits": "464,071"
+        },
+        {
+            "author": "卿周",
+            "title": "飞鸿踏雪",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8755233",
+            "genre": "原创-百合-近代现代-爱情",
+            "status": "连载",
+            "wordCount": "42311字",
+            "credits": "373,636"
+        },
+        {
+            "author": "高漠内的猫",
+            "title": "换命",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8694202",
+            "genre": "原创-百合-近代现代-悬疑",
+            "status": "连载",
+            "wordCount": "23055字",
+            "credits": "199,245"
+        },
+        {
+            "author": "任砚卿",
+            "title": "没有人说谎",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=7495619",
+            "genre": "原创-百合-近代现代-悬疑",
+            "status": "完结",
+            "wordCount": "45640字",
+            "credits": "267,655"
+        },
+        {
+            "author": "铜钱七颗糖",
+            "title": "四十八星卫",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8685857",
+            "genre": "原创-百合-近代现代-悬疑",
+            "status": "连载",
+            "wordCount": "38123字",
+            "credits": "277,365"
+        },
+        {
+            "author": "灰皮橘子",
+            "title": "丛林法则",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8730023",
+            "genre": "原创-百合-近代现代-爱情",
+            "status": "连载",
+            "wordCount": "34826字",
+            "credits": "194,337"
+        },
+        {
+            "author": "左之之之之",
+            "title": "再见怦然",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8729151",
+            "genre": "原创-百合-近代现代-爱情",
+            "status": "连载",
+            "wordCount": "17470字",
+            "credits": "210,405"
+        },
+        {
+            "author": "无名橘橘",
+            "title": "造梦之城",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8426247",
+            "genre": "原创-百合-近代现代-剧情",
+            "status": "连载",
+            "wordCount": "45572字",
+            "credits": "232,588"
+        },
+        {
+            "author": "椰萝",
+            "title": "小镇谜案",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8374818",
+            "genre": "原创-百合-近代现代-悬疑",
+            "status": "连载",
+            "wordCount": "40096字",
+            "credits": "237,301"
+        },
+        {
+            "author": "不想背谱子",
+            "title": "葬岸",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8603111",
+            "genre": "原创-百合-近代现代-悬疑",
+            "status": "连载",
+            "wordCount": "20725字",
+            "credits": "191,224"
+        },
+        {
+            "author": "妖精绘梦",
+            "title": "至少我们相爱过",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8732541",
+            "genre": "原创-百合-近代现代-爱情",
+            "status": "连载",
+            "wordCount": "22685字",
+            "credits": "181,861"
+        },
+        {
+            "author": "芍药吖",
+            "title": "转学遇见病娇女高中生",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8683350",
+            "genre": "原创-百合-近代现代-爱情",
+            "status": "连载",
+            "wordCount": "19201字",
+            "credits": "171,555"
+        },
+        {
+            "author": "W秘密有了名字",
+            "title": "倘若我偏要你呢",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8622007",
+            "genre": "原创-百合-近代现代-剧情",
+            "status": "连载",
+            "wordCount": "26539字",
+            "credits": "163,652"
+        },
+        {
+            "author": "玉梦之殇",
+            "title": "如果我说我爱你",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8733238",
+            "genre": "原创-百合-近代现代-剧情",
+            "status": "连载",
+            "wordCount": "19057字",
+            "credits": "149,143"
+        },
+        {
+            "author": "一叶鹤知秋",
+            "title": "神啊，救救她吧",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8756031",
+            "genre": "原创-百合-近代现代-悬疑",
+            "status": "连载",
+            "wordCount": "26832字",
+            "credits": "153,048"
+        },
+        {
+            "author": "方也川",
+            "title": "慕她一珂",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8734855",
+            "genre": "原创-百合-近代现代-悬疑",
+            "status": "连载",
+            "wordCount": "14083字",
+            "credits": "148,597"
+        },
+        {
+            "author": "雁落嘤声",
+            "title": "蓝夜青空",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8674563",
+            "genre": "原创-百合-近代现代-剧情",
+            "status": "连载",
+            "wordCount": "17022字",
+            "credits": "131,210"
+        },
+        {
+            "author": "云清枫",
+            "title": "思念",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8652048",
+            "genre": "原创-百合-近代现代-爱情",
+            "status": "连载",
+            "wordCount": "11673字",
+            "credits": "116,251"
+        },
+        {
+            "author": "树荒",
+            "title": "高墙之下",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8691433",
+            "genre": "原创-百合-近代现代-爱情",
+            "status": "连载",
+            "wordCount": "11154字",
+            "credits": "109,135"
+        },
+        {
+            "author": "chan777",
+            "title": "合集",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8730162",
+            "genre": "原创-百合-近代现代-爱情",
+            "status": "连载",
+            "wordCount": "15964字",
+            "credits": "110,279"
+        },
+        {
+            "author": "八云丶",
+            "title": "你要和我去旧校区么？",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8677391",
+            "genre": "原创-百合-近代现代-悬疑",
+            "status": "连载",
+            "wordCount": "14149字",
+            "credits": "100,488"
+        },
+        {
+            "author": "椿涞",
+            "title": "于暗夜中永生",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8670371",
+            "genre": "原创-百合-近代现代-悬疑",
+            "status": "连载",
+            "wordCount": "12995字",
+            "credits": "94,369"
+        },
+        {
+            "author": "苗秒淼",
+            "title": "再见 我的壹佰零壹",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8623800",
+            "genre": "原创-百合-近代现代-爱情",
+            "status": "连载",
+            "wordCount": "10171字",
+            "credits": "84,646"
+        },
+        {
+            "author": "异玄",
+            "title": "不会再逃",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8737554",
+            "genre": "原创-百合-近代现代-爱情",
+            "status": "连载",
+            "wordCount": "19857字",
+            "credits": "77,615"
+        },
+        {
+            "author": "云初礼",
+            "title": "惹了病娇别想跑",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8735302",
+            "genre": "原创-百合-近代现代-爱情",
+            "status": "连载",
+            "wordCount": "10124字",
+            "credits": "66,040"
+        },
+        {
+            "author": "似屿",
+            "title": "妄归",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8756438",
+            "genre": "原创-百合-近代现代-爱情",
+            "status": "连载",
+            "wordCount": "11941字",
+            "credits": "66,528"
+        },
+        {
+            "author": "憨憨挠头",
+            "title": "绝密档案",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8737344",
+            "genre": "原创-百合-近代现代-悬疑",
+            "status": "连载",
+            "wordCount": "14606字",
+            "credits": "59,689"
+        }
     ],
-    "2024-04-12, 16:02:29 GMT+8"
+    "2024-04-12, 16:24:12 GMT+8"
 ]
