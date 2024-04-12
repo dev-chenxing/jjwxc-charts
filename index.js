@@ -70,7 +70,7 @@ const novelChartUrlBase = "https://www.jjwxc.net/channeltoplist.php?rchannelid=1
 
 for (const genre in genres) {
     const novelChartUrl = `${novelChartUrlBase}${genres[genre]}`;
-    getNovelUrls(novelChartUrl)
+    getNovelUrls(novelChartUrl, genre)
         .then((novelUrls) => {
             getNovelChart(novelUrls)
                 .then((novelChart) => {
