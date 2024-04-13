@@ -48,10 +48,10 @@ const generateReadme = (novelChart, genre) => {
 
     content += `\n`;
 
-    content += "| 序号 | 作者 | 作品 | 类型 | 进度 | 字数 | 积分 |\n";
-    content += "|-----|------|------|-----|------|------|-----|\n";
+    content += "| 序号 | 作者 | 作品 | 类型 | 字数 | 积分 | 最新更新 | \n";
+    content += "|-----|------|------|-----|------|------|---------|\n";
     novelChart.forEach((novel, index) => {
-        content += `| ${index + 1} | ${novel.author} | [${novel.title}](${novel.url}) | ${novel.genre} | ${novel.status} | ${novel.wordCount} | ${novel.credits} |\n`;
+        content += `| ${index + 1} | ${novel.author} | [${novel.title}](${novel.url}) | ${novel.genre} | ${novel.wordCount} | ${novel.credits} |${novel.lastestUpdates} | \n`;
     });
 
     content += `\n`;
@@ -59,6 +59,7 @@ const generateReadme = (novelChart, genre) => {
     content += `### Copyright By 晋江文学城 www.jjwxc.net All rights reserved\n\n`;
     content += `---\n\n`;
     content += `最后生成：${utils.getDate(Date.now())}.\n\n`;
+    content += "**[⬆ 回到顶部](#晋江文学城排行榜---百合)**\n\n";
 
     fs.writeFileSync(fileName, content);
 };
