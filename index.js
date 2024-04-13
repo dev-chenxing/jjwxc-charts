@@ -51,7 +51,7 @@ const generateReadme = (novelChart, genre) => {
     content += "| 序号 | 作者 | 作品 | 类型 | 字数 | 积分 | 最新更新 | \n";
     content += "|-----|------|------|-----|------|------|---------|\n";
     novelChart.forEach((novel, index) => {
-        content += `| ${index + 1} | ${novel.author} | [${novel.title}](${novel.url}) | ${novel.genre} | ${novel.wordCount} | ${novel.credits} |${novel.lastestUpdates} | \n`;
+        content += `| ${index + 1} | ${novel.author} | [${novel.title}](${novel.url}) | ${novel.genre} | ${novel.wordCount} | ${novel.credits} | ${novel.latestUpdates} | \n`;
     });
 
     content += `\n`;
