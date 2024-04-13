@@ -71,16 +71,6 @@
             "latestUpdates": "2024-04-11 22:38:24"
         },
         {
-            "author": "寒蟾泣天",
-            "title": "牝鸡司晨",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8674220",
-            "genre": "架空历史-爱情",
-            "status": "连载",
-            "wordCount": "182123字",
-            "credits": "1,515,050",
-            "latestUpdates": "2024-03-30 14:57:06"
-        },
-        {
             "author": "远山烟雨",
             "title": "羌笛何须怨杨柳",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8685178",
@@ -89,6 +79,16 @@
             "wordCount": "116344字",
             "credits": "1,454,777",
             "latestUpdates": "2024-04-12 13:47:48"
+        },
+        {
+            "author": "寒蟾泣天",
+            "title": "牝鸡司晨",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8674220",
+            "genre": "架空历史-爱情",
+            "status": "连载",
+            "wordCount": "182123字",
+            "credits": "1,448,082",
+            "latestUpdates": "2024-03-30 14:57:06"
         },
         {
             "author": "土豆姜丝",
@@ -127,7 +127,7 @@
             "genre": "架空历史-爱情",
             "status": "完结",
             "wordCount": "100628字",
-            "credits": "766,223",
+            "credits": "749,938",
             "latestUpdates": "2024-02-11 12:49:46"
         },
         {
@@ -137,8 +137,18 @@
             "genre": "架空历史-剧情",
             "status": "连载",
             "wordCount": "65727字",
-            "credits": "546,699",
+            "credits": "545,953",
             "latestUpdates": "2024-03-13 21:20:48"
+        },
+        {
+            "author": "此澳",
+            "title": "磨镜",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8774911",
+            "genre": "架空历史-剧情",
+            "status": "连载",
+            "wordCount": "75249字",
+            "credits": "449,744",
+            "latestUpdates": "2024-04-12 10:53:10"
         },
         {
             "author": "问春在",
@@ -147,7 +157,7 @@
             "genre": "架空历史-剧情",
             "status": "连载",
             "wordCount": "29817字",
-            "credits": "388,106",
+            "credits": "354,232",
             "latestUpdates": "2024-03-03 23:40:51"
         },
         {
@@ -177,18 +187,8 @@
             "genre": "架空历史-爱情",
             "status": "连载",
             "wordCount": "14285字",
-            "credits": "152,166",
+            "credits": "137,960",
             "latestUpdates": "2024-04-11 11:51:47"
-        },
-        {
-            "author": "云如华",
-            "title": "孤云已上",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8689697",
-            "genre": "架空历史-爱情",
-            "status": "连载",
-            "wordCount": "16698字",
-            "credits": "129,322",
-            "latestUpdates": "2024-02-23 18:00:00"
         },
         {
             "author": "京城喵喵",
@@ -211,6 +211,16 @@
             "latestUpdates": "2024-04-10 09:30:00"
         },
         {
+            "author": "云如华",
+            "title": "孤云已上",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8689697",
+            "genre": "架空历史-爱情",
+            "status": "连载",
+            "wordCount": "16698字",
+            "credits": "122,593",
+            "latestUpdates": "2024-02-23 18:00:00"
+        },
+        {
             "author": "逆位的星星",
             "title": "皇后请自重",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8765551",
@@ -227,7 +237,7 @@
             "genre": "架空历史-传奇",
             "status": "连载",
             "wordCount": "10062字",
-            "credits": "100,220",
+            "credits": "94,490",
             "latestUpdates": "2024-02-22 23:20:00"
         },
         {
@@ -247,9 +257,9 @@
             "genre": "架空历史-爱情",
             "status": "连载",
             "wordCount": "13392字",
-            "credits": "58,054",
+            "credits": "57,539",
             "latestUpdates": "2024-03-14 02:37:32"
         }
     ],
-    "2024-04-13, 19:12:31 GMT+8"
+    "2024-04-13, 20:29:13 GMT+8"
 ]
