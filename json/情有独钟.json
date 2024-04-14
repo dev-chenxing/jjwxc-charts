@@ -46,9 +46,9 @@
             "url": "https://www.jjwxc.net/onebook.php?novelid=7854904",
             "genre": "近代现代-爱情",
             "status": "连载",
-            "wordCount": "289975字",
+            "wordCount": "294710字",
             "credits": "45,408,176",
-            "latestUpdates": "2024-04-14 13:41:54"
+            "latestUpdates": "2024-04-15 00:00:15"
         },
         {
             "author": "问西来意",
@@ -66,9 +66,9 @@
             "url": "https://www.jjwxc.net/onebook.php?novelid=8591757",
             "genre": "近代现代-爱情",
             "status": "连载",
-            "wordCount": "288569字",
+            "wordCount": "293017字",
             "credits": "32,639,190",
-            "latestUpdates": "2024-04-14 01:50:00"
+            "latestUpdates": "2024-04-15 00:01:00"
         },
         {
             "author": "能至",
@@ -86,9 +86,9 @@
             "url": "https://www.jjwxc.net/onebook.php?novelid=7418247",
             "genre": "近代现代-爱情",
             "status": "连载",
-            "wordCount": "116199字",
+            "wordCount": "119736字",
             "credits": "11,639,994",
-            "latestUpdates": "2024-04-14 00:00:01"
+            "latestUpdates": "2024-04-15 00:00:01"
         },
         {
             "author": "迩柳",
@@ -161,6 +161,16 @@
             "latestUpdates": "2024-04-12 18:06:29"
         },
         {
+            "author": "未雨_",
+            "title": "不期而遇",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8690317",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "213202字",
+            "credits": "1,965,476",
+            "latestUpdates": "2024-04-15 06:00:00"
+        },
+        {
             "author": "禾绪",
             "title": "人潮拥挤",
             "url": "https://www.jjwxc.net/onebook.php?novelid=7384301",
@@ -169,16 +179,6 @@
             "wordCount": "48265字",
             "credits": "1,952,629",
             "latestUpdates": "2024-04-01 14:29:36"
-        },
-        {
-            "author": "未雨_",
-            "title": "不期而遇",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8690317",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "208314字",
-            "credits": "1,921,519",
-            "latestUpdates": "2024-04-14 06:00:00"
         },
         {
             "author": "禾九声",
@@ -396,9 +396,9 @@
             "url": "https://www.jjwxc.net/onebook.php?novelid=8695234",
             "genre": "近代现代-爱情",
             "status": "连载",
-            "wordCount": "38071字",
+            "wordCount": "39949字",
             "credits": "258,767",
-            "latestUpdates": "2024-04-05 10:59:37"
+            "latestUpdates": "2024-04-15 01:23:28"
         },
         {
             "author": "白晓冰",
@@ -421,6 +421,16 @@
             "latestUpdates": "2024-04-08 20:53:14"
         },
         {
+            "author": "我说书中人",
+            "title": "两栖动物",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8654363",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "45835字",
+            "credits": "238,087",
+            "latestUpdates": "2024-04-14 04:27:14"
+        },
+        {
             "author": "烟疏雨零",
             "title": "不告",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8733762",
@@ -429,16 +439,6 @@
             "wordCount": "34152字",
             "credits": "237,037",
             "latestUpdates": "2024-04-07 07:32:32"
-        },
-        {
-            "author": "我说书中人",
-            "title": "两栖动物",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8654363",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "45835字",
-            "credits": "234,563",
-            "latestUpdates": "2024-04-14 04:27:14"
         },
         {
             "author": "噢不乖",
@@ -761,5 +761,5 @@
             "latestUpdates": "2024-03-01 00:04:04"
         }
     ],
-    "2024-04-14, 22:48:56 GMT+8"
+    "2024-04-15, 06:11:08 GMT+8"
 ]
