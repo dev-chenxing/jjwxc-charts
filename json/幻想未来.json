@@ -117,7 +117,7 @@
             "genre": "幻想未来-爱情",
             "status": "连载",
             "wordCount": "52124字",
-            "credits": "2,941,711",
+            "credits": "2,884,975",
             "latestUpdates": "2024-03-27 23:52:24"
         },
         {
@@ -177,7 +177,7 @@
             "genre": "幻想未来-爱情",
             "status": "连载",
             "wordCount": "66025字",
-            "credits": "1,289,919",
+            "credits": "1,268,674",
             "latestUpdates": "2024-04-10 18:00:00"
         },
         {
@@ -331,16 +331,6 @@
             "latestUpdates": "2024-03-30 04:06:25"
         },
         {
-            "author": "星祀",
-            "title": "你这末世，它不对劲吧？",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8403419",
-            "genre": "近代现代-剧情",
-            "status": "连载",
-            "wordCount": "10244字",
-            "credits": "397,160",
-            "latestUpdates": "2024-03-29 09:00:00"
-        },
-        {
             "author": "小蓝本",
             "title": "绗舟见闻录",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8707953",
@@ -349,6 +339,16 @@
             "wordCount": "44212字",
             "credits": "384,833",
             "latestUpdates": "2024-02-20 11:48:04"
+        },
+        {
+            "author": "星祀",
+            "title": "你这末世，它不对劲吧？",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8403419",
+            "genre": "近代现代-剧情",
+            "status": "连载",
+            "wordCount": "10244字",
+            "credits": "383,429",
+            "latestUpdates": "2024-03-29 09:00:00"
         },
         {
             "author": "夏至和",
@@ -637,7 +637,7 @@
             "genre": "幻想未来-剧情",
             "status": "连载",
             "wordCount": "21015字",
-            "credits": "113,495",
+            "credits": "115,930",
             "latestUpdates": "2024-02-06 08:30:36"
         },
         {
@@ -671,16 +671,6 @@
             "latestUpdates": "2024-03-25 00:12:38"
         },
         {
-            "author": "我的爱妻",
-            "title": "我在无限游戏里作死",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8711157",
-            "genre": "幻想未来-惊悚",
-            "status": "连载",
-            "wordCount": "13429字",
-            "credits": "107,269",
-            "latestUpdates": "2024-02-25 21:43:53"
-        },
-        {
             "author": "辣糖猫猫",
             "title": "重覆归间",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8693304",
@@ -689,6 +679,16 @@
             "wordCount": "14323字",
             "credits": "107,141",
             "latestUpdates": "2024-04-04 17:48:46"
+        },
+        {
+            "author": "我的爱妻",
+            "title": "我在无限游戏里作死",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8711157",
+            "genre": "幻想未来-惊悚",
+            "status": "连载",
+            "wordCount": "13429字",
+            "credits": "105,910",
+            "latestUpdates": "2024-02-25 21:43:53"
         },
         {
             "author": "泽泽泽泽泽也",
@@ -721,16 +721,6 @@
             "latestUpdates": "2024-03-17 22:10:36"
         },
         {
-            "author": "一口小甜甜",
-            "title": "沦陷（末世gl）",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8757354",
-            "genre": "幻想未来-爱情",
-            "status": "连载",
-            "wordCount": "11073字",
-            "credits": "102,858",
-            "latestUpdates": "2024-04-04 03:25:26"
-        },
-        {
             "author": "山听茶楼香",
             "title": "坠渊",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8747012",
@@ -749,6 +739,16 @@
             "wordCount": "17457字",
             "credits": "101,412",
             "latestUpdates": "2024-02-09 22:25:26"
+        },
+        {
+            "author": "一口小甜甜",
+            "title": "沦陷（末世gl）",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8757354",
+            "genre": "幻想未来-爱情",
+            "status": "连载",
+            "wordCount": "11073字",
+            "credits": "98,367",
+            "latestUpdates": "2024-04-04 03:25:26"
         },
         {
             "author": "花切魔牌手",
@@ -827,7 +827,7 @@
             "genre": "近代现代-科幻",
             "status": "连载",
             "wordCount": "15728字",
-            "credits": "88,017",
+            "credits": "82,098",
             "latestUpdates": "2024-04-01 18:09:44"
         },
         {
@@ -907,7 +907,7 @@
             "genre": "幻想未来-爱情",
             "status": "连载",
             "wordCount": "18923字",
-            "credits": "63,055",
+            "credits": "62,966",
             "latestUpdates": "2024-02-09 19:02:26"
         },
         {
@@ -931,5 +931,5 @@
             "latestUpdates": "2024-03-03 23:13:03"
         }
     ],
-    "2024-04-16, 03:16:19 GMT+8"
+    "2024-04-16, 04:19:08 GMT+8"
 ]
