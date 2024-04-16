@@ -187,7 +187,7 @@
             "genre": "架空历史-爱情",
             "status": "连载",
             "wordCount": "81730字",
-            "credits": "9,454,325",
+            "credits": "9,794,180",
             "latestUpdates": "2024-04-15 22:56:48"
         },
         {
@@ -377,7 +377,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "53526字",
-            "credits": "478,555",
+            "credits": "482,965",
             "latestUpdates": "2024-04-04 15:42:48"
         },
         {
@@ -397,7 +397,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "44660字",
-            "credits": "385,908",
+            "credits": "386,028",
             "latestUpdates": "2024-02-19 18:00:00"
         },
         {
@@ -457,7 +457,7 @@
             "genre": "架空历史-爱情",
             "status": "连载",
             "wordCount": "21053字",
-            "credits": "278,464",
+            "credits": "281,452",
             "latestUpdates": "2024-03-02 23:01:08"
         },
         {
@@ -507,7 +507,7 @@
             "genre": "架空历史-剧情",
             "status": "连载",
             "wordCount": "47589字",
-            "credits": "221,380",
+            "credits": "215,589",
             "latestUpdates": "2024-03-01 22:12:15"
         },
         {
@@ -681,16 +681,6 @@
             "latestUpdates": "2024-01-23 12:28:04"
         },
         {
-            "author": "红榴灯柳",
-            "title": "雏下槟菊",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8708318",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "11548字",
-            "credits": "82,489",
-            "latestUpdates": "2024-02-22 18:02:26"
-        },
-        {
             "author": "未殊途",
             "title": "盛秋",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8639875",
@@ -699,6 +689,16 @@
             "wordCount": "11220字",
             "credits": "80,731",
             "latestUpdates": "2024-02-27 12:00:51"
+        },
+        {
+            "author": "红榴灯柳",
+            "title": "雏下槟菊",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8708318",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "11548字",
+            "credits": "74,577",
+            "latestUpdates": "2024-02-22 18:02:26"
         },
         {
             "author": "星月灿烂",
@@ -721,5 +721,5 @@
             "latestUpdates": "2024-03-21 14:36:54"
         }
     ],
-    "2024-04-17, 05:18:15 GMT+8"
+    "2024-04-17, 06:19:16 GMT+8"
 ]
