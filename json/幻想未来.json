@@ -146,9 +146,9 @@
             "url": "https://www.jjwxc.net/onebook.php?novelid=8682382",
             "genre": "近代现代-剧情",
             "status": "连载",
-            "wordCount": "97951字",
+            "wordCount": "100027字",
             "credits": "1,647,388",
-            "latestUpdates": "2024-04-18 12:00:00"
+            "latestUpdates": "2024-04-19 12:00:00"
         },
         {
             "author": "究诘",
@@ -641,6 +641,16 @@
             "latestUpdates": "2024-04-01 23:47:56"
         },
         {
+            "author": "山听茶楼香",
+            "title": "坠渊",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8747012",
+            "genre": "幻想未来-科幻",
+            "status": "连载",
+            "wordCount": "20293字",
+            "credits": "111,149",
+            "latestUpdates": "2024-04-19 12:13:07"
+        },
+        {
             "author": "追风闹月",
             "title": "数学如此有趣",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8736984",
@@ -709,16 +719,6 @@
             "wordCount": "13047字",
             "credits": "103,470",
             "latestUpdates": "2024-03-17 22:10:36"
-        },
-        {
-            "author": "山听茶楼香",
-            "title": "坠渊",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8747012",
-            "genre": "幻想未来-科幻",
-            "status": "连载",
-            "wordCount": "20344字",
-            "credits": "102,482",
-            "latestUpdates": "2024-04-11 21:40:03"
         },
         {
             "author": "一颗单糖",
@@ -921,5 +921,5 @@
             "latestUpdates": "2024-03-03 23:13:03"
         }
     ],
-    "2024-04-19, 11:21:07 GMT+8"
+    "2024-04-19, 12:21:26 GMT+8"
 ]
