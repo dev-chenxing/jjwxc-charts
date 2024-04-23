@@ -197,7 +197,7 @@
             "genre": "架空历史-仙侠",
             "status": "连载",
             "wordCount": "59752字",
-            "credits": "850,730",
+            "credits": "829,984",
             "latestUpdates": "2024-04-10 22:13:10"
         },
         {
@@ -241,16 +241,6 @@
             "latestUpdates": "2024-04-22 15:57:28"
         },
         {
-            "author": "空处天",
-            "title": "清冷师尊是钓系美人",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8766963",
-            "genre": "架空历史-仙侠",
-            "status": "连载",
-            "wordCount": "24410字",
-            "credits": "370,107",
-            "latestUpdates": "2024-03-30 21:00:21"
-        },
-        {
             "author": "楠茵子",
             "title": "女方士和鬼新娘",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8704109",
@@ -261,13 +251,23 @@
             "latestUpdates": "2024-04-13 15:05:03"
         },
         {
+            "author": "空处天",
+            "title": "清冷师尊是钓系美人",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8766963",
+            "genre": "架空历史-仙侠",
+            "status": "连载",
+            "wordCount": "24410字",
+            "credits": "320,413",
+            "latestUpdates": "2024-03-30 21:00:21"
+        },
+        {
             "author": "言春冬",
             "title": "重生后勾引我的公主掉马了",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8730487",
             "genre": "架空历史-爱情",
             "status": "连载",
             "wordCount": "29639字",
-            "credits": "342,163",
+            "credits": "297,914",
             "latestUpdates": "2024-03-22 18:36:26"
         },
         {
@@ -287,7 +287,7 @@
             "genre": "近代现代-剧情",
             "status": "连载",
             "wordCount": "29272字",
-            "credits": "216,546",
+            "credits": "198,743",
             "latestUpdates": "2024-03-12 15:15:58"
         },
         {
@@ -297,7 +297,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "23020字",
-            "credits": "162,078",
+            "credits": "161,588",
             "latestUpdates": "2024-02-12 00:09:15"
         },
         {
@@ -307,7 +307,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "18726字",
-            "credits": "134,680",
+            "credits": "129,758",
             "latestUpdates": "2024-03-11 16:01:48"
         },
         {
@@ -321,16 +321,6 @@
             "latestUpdates": "2024-03-16 22:20:52"
         },
         {
-            "author": "淮秋千冬",
-            "title": "青山源",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8694508",
-            "genre": "架空历史-仙侠",
-            "status": "连载",
-            "wordCount": "13024字",
-            "credits": "102,967",
-            "latestUpdates": "2024-02-16 17:14:10"
-        },
-        {
             "author": "为了学分写百合",
             "title": "重生之将军你好香",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8758643",
@@ -339,6 +329,16 @@
             "wordCount": "10071字",
             "credits": "83,896",
             "latestUpdates": "2024-04-09 21:03:45"
+        },
+        {
+            "author": "淮秋千冬",
+            "title": "青山源",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8694508",
+            "genre": "架空历史-仙侠",
+            "status": "连载",
+            "wordCount": "13024字",
+            "credits": "74,199",
+            "latestUpdates": "2024-02-16 17:14:10"
         },
         {
             "author": "窦忆辰",
@@ -351,5 +351,5 @@
             "latestUpdates": "2024-03-20 21:37:43"
         }
     ],
-    "2024-04-23, 14:26:25 GMT+8"
+    "2024-04-23, 15:17:53 GMT+8"
 ]
