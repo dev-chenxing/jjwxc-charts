@@ -157,7 +157,7 @@
             "genre": "近代现代-悬疑",
             "status": "连载",
             "wordCount": "71960字",
-            "credits": "736,822",
+            "credits": "737,421",
             "latestUpdates": "2024-04-17 18:27:53"
         },
         {
@@ -241,16 +241,6 @@
             "latestUpdates": "2024-03-09 12:34:56"
         },
         {
-            "author": "左之之之之",
-            "title": "再见怦然",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8729151",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "17470字",
-            "credits": "271,404",
-            "latestUpdates": "2024-04-04 19:47:24"
-        },
-        {
             "author": "灰皮橘子",
             "title": "丛林法则",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8730023",
@@ -259,6 +249,16 @@
             "wordCount": "34826字",
             "credits": "261,245",
             "latestUpdates": "2024-03-25 23:20:01"
+        },
+        {
+            "author": "左之之之之",
+            "title": "再见怦然",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8729151",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "17470字",
+            "credits": "243,684",
+            "latestUpdates": "2024-04-04 19:47:24"
         },
         {
             "author": "妖精绘梦",
@@ -317,7 +317,7 @@
             "genre": "近代现代-悬疑",
             "status": "连载",
             "wordCount": "14083字",
-            "credits": "148,597",
+            "credits": "154,591",
             "latestUpdates": "2024-03-31 15:21:44"
         },
         {
@@ -327,7 +327,7 @@
             "genre": "近代现代-剧情",
             "status": "连载",
             "wordCount": "17022字",
-            "credits": "132,681",
+            "credits": "134,208",
             "latestUpdates": "2024-02-28 23:55:49"
         },
         {
@@ -381,14 +381,14 @@
             "latestUpdates": "2024-02-09 09:00:00"
         },
         {
-            "author": "憨憨挠头",
-            "title": "绝密档案",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8737344",
-            "genre": "近代现代-悬疑",
+            "author": "异玄",
+            "title": "不会再逃",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8737554",
+            "genre": "近代现代-爱情",
             "status": "连载",
-            "wordCount": "14606字",
-            "credits": "79,530",
-            "latestUpdates": "2024-03-13 19:15:35"
+            "wordCount": "19857字",
+            "credits": "91,997",
+            "latestUpdates": "2024-03-18 21:23:07"
         },
         {
             "author": "云初礼",
@@ -411,14 +411,14 @@
             "latestUpdates": "2024-03-12 13:04:29"
         },
         {
-            "author": "异玄",
-            "title": "不会再逃",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8737554",
-            "genre": "近代现代-爱情",
+            "author": "憨憨挠头",
+            "title": "绝密档案",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8737344",
+            "genre": "近代现代-悬疑",
             "status": "连载",
-            "wordCount": "19857字",
-            "credits": "75,010",
-            "latestUpdates": "2024-03-18 21:23:07"
+            "wordCount": "14606字",
+            "credits": "69,967",
+            "latestUpdates": "2024-03-13 19:15:35"
         },
         {
             "author": "云寒烟",
@@ -431,5 +431,5 @@
             "latestUpdates": "2024-03-26 22:00:09"
         }
     ],
-    "2024-04-25, 04:19:23 GMT+8"
+    "2024-04-25, 05:18:20 GMT+8"
 ]
