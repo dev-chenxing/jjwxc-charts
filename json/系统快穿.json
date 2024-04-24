@@ -207,7 +207,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "191099字",
-            "credits": "11,084,557",
+            "credits": "11,155,896",
             "latestUpdates": "2024-04-23 18:00:00"
         },
         {
@@ -297,7 +297,7 @@
             "genre": "架空历史-爱情",
             "status": "连载",
             "wordCount": "74242字",
-            "credits": "715,092",
+            "credits": "739,358",
             "latestUpdates": "2024-04-10 19:24:37"
         },
         {
@@ -337,7 +337,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "33772字",
-            "credits": "314,386",
+            "credits": "307,675",
             "latestUpdates": "2024-03-23 03:00:00"
         },
         {
@@ -347,7 +347,7 @@
             "genre": "架空历史-仙侠",
             "status": "连载",
             "wordCount": "32455字",
-            "credits": "262,128",
+            "credits": "267,630",
             "latestUpdates": "2024-02-19 03:00:01"
         },
         {
@@ -357,7 +357,7 @@
             "genre": "架空历史-爱情",
             "status": "连载",
             "wordCount": "29768字",
-            "credits": "257,982",
+            "credits": "256,660",
             "latestUpdates": "2024-04-23 19:38:25"
         },
         {
@@ -411,16 +411,6 @@
             "latestUpdates": "2024-02-20 17:00:00"
         },
         {
-            "author": "枧岁",
-            "title": "摆烂后，师姐深情且专一",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8768666",
-            "genre": "架空历史-仙侠",
-            "status": "连载",
-            "wordCount": "20616字",
-            "credits": "131,984",
-            "latestUpdates": "2024-03-22 16:42:09"
-        },
-        {
             "author": "在下长生诀",
             "title": "快穿之攻略杀星",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8642906",
@@ -429,6 +419,16 @@
             "wordCount": "21751字",
             "credits": "127,043",
             "latestUpdates": "2024-04-18 19:46:52"
+        },
+        {
+            "author": "枧岁",
+            "title": "摆烂后，师姐深情且专一",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8768666",
+            "genre": "架空历史-仙侠",
+            "status": "连载",
+            "wordCount": "20616字",
+            "credits": "124,776",
+            "latestUpdates": "2024-03-22 16:42:09"
         },
         {
             "author": "觅莱",
@@ -461,16 +461,6 @@
             "latestUpdates": "2024-02-15 19:45:59"
         },
         {
-            "author": "接骨木花",
-            "title": "重生后教女帝打乒乓",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8674047",
-            "genre": "架空历史-剧情",
-            "status": "连载",
-            "wordCount": "11406字",
-            "credits": "98,636",
-            "latestUpdates": "2024-02-06 02:14:54"
-        },
-        {
             "author": "墨当",
             "title": "被我攻略的男主好像是女生",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8734984",
@@ -481,14 +471,14 @@
             "latestUpdates": "2024-03-06 11:52:48"
         },
         {
-            "author": "抢风",
-            "title": "女配何苦为难女配",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8666584",
-            "genre": "近代现代-爱情",
+            "author": "接骨木花",
+            "title": "重生后教女帝打乒乓",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8674047",
+            "genre": "架空历史-剧情",
             "status": "连载",
-            "wordCount": "11034字",
-            "credits": "91,294",
-            "latestUpdates": "2024-03-26 19:44:06"
+            "wordCount": "11406字",
+            "credits": "94,648",
+            "latestUpdates": "2024-02-06 02:14:54"
         },
         {
             "author": "无菌产品",
@@ -497,8 +487,18 @@
             "genre": "架空历史-爱情",
             "status": "连载",
             "wordCount": "12383字",
-            "credits": "89,250",
+            "credits": "93,129",
             "latestUpdates": "2024-02-18 22:55:02"
+        },
+        {
+            "author": "抢风",
+            "title": "女配何苦为难女配",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8666584",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "11034字",
+            "credits": "91,294",
+            "latestUpdates": "2024-03-26 19:44:06"
         },
         {
             "author": "版蓝根",
@@ -541,5 +541,5 @@
             "latestUpdates": "2024-02-19 17:08:50"
         }
     ],
-    "2024-04-25, 06:20:24 GMT+8"
+    "2024-04-25, 07:21:38 GMT+8"
 ]
