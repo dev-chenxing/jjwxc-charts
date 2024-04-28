@@ -27,7 +27,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "315218字",
-            "credits": "63,121,844",
+            "credits": "64,187,444",
             "latestUpdates": "2024-04-27 12:00:01"
         },
         {
@@ -311,6 +311,16 @@
             "latestUpdates": "2024-03-31 15:21:44"
         },
         {
+            "author": "亓琛",
+            "title": "武者，舞者",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8767806",
+            "genre": "近代现代-剧情",
+            "status": "连载",
+            "wordCount": "17304字",
+            "credits": "134,031",
+            "latestUpdates": "2024-04-21 11:25:47"
+        },
+        {
             "author": "雁落嘤声",
             "title": "蓝夜青空",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8674563",
@@ -329,16 +339,6 @@
             "wordCount": "19885字",
             "credits": "131,400",
             "latestUpdates": "2024-04-26 02:48:36"
-        },
-        {
-            "author": "亓琛",
-            "title": "武者，舞者",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8767806",
-            "genre": "近代现代-剧情",
-            "status": "连载",
-            "wordCount": "17304字",
-            "credits": "127,110",
-            "latestUpdates": "2024-04-21 11:25:47"
         },
         {
             "author": "宋时年",
@@ -431,5 +431,5 @@
             "latestUpdates": "2024-03-26 22:00:09"
         }
     ],
-    "2024-04-28, 10:31:20 GMT+8"
+    "2024-04-28, 11:20:17 GMT+8"
 ]
