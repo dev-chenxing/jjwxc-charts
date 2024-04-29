@@ -57,7 +57,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "45416字",
-            "credits": "33,853,972",
+            "credits": "32,905,518",
             "latestUpdates": "2024-03-25 12:16:31"
         },
         {
@@ -127,7 +127,7 @@
             "genre": "近代现代-悬疑",
             "status": "连载",
             "wordCount": "53256字",
-            "credits": "3,442,353",
+            "credits": "3,475,696",
             "latestUpdates": "2024-04-24 21:56:46"
         },
         {
@@ -227,7 +227,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "44947字",
-            "credits": "347,619",
+            "credits": "383,361",
             "latestUpdates": "2024-04-18 15:01:09"
         },
         {
@@ -237,7 +237,7 @@
             "genre": "近代现代-剧情",
             "status": "连载",
             "wordCount": "62358字",
-            "credits": "341,623",
+            "credits": "369,951",
             "latestUpdates": "2024-04-24 06:00:00"
         },
         {
@@ -287,7 +287,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "34826字",
-            "credits": "291,756",
+            "credits": "285,560",
             "latestUpdates": "2024-03-25 23:20:01"
         },
         {
@@ -297,7 +297,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "26060字",
-            "credits": "225,762",
+            "credits": "240,654",
             "latestUpdates": "2024-04-25 12:41:27"
         },
         {
@@ -361,16 +361,6 @@
             "latestUpdates": "2024-04-29 00:04:24"
         },
         {
-            "author": "树荒",
-            "title": "高墙之下",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8691433",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "11154字",
-            "credits": "114,375",
-            "latestUpdates": "2024-02-18 00:03:29"
-        },
-        {
             "author": "夏冰蝉",
             "title": "灯火阑珊处",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8806182",
@@ -379,6 +369,16 @@
             "wordCount": "11051字",
             "credits": "110,333",
             "latestUpdates": "2024-04-06 04:56:33"
+        },
+        {
+            "author": "树荒",
+            "title": "高墙之下",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8691433",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "11154字",
+            "credits": "109,135",
+            "latestUpdates": "2024-02-18 00:03:29"
         },
         {
             "author": "异玄",
@@ -391,6 +391,16 @@
             "latestUpdates": "2024-03-18 21:23:07"
         },
         {
+            "author": "云初礼",
+            "title": "惹了病娇别想跑",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8735302",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "10124字",
+            "credits": "91,648",
+            "latestUpdates": "2024-03-02 19:54:00"
+        },
+        {
             "author": "憨憨挠头",
             "title": "绝密档案",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8737344",
@@ -399,16 +409,6 @@
             "wordCount": "14606字",
             "credits": "88,783",
             "latestUpdates": "2024-03-13 19:15:35"
-        },
-        {
-            "author": "云初礼",
-            "title": "惹了病娇别想跑",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8735302",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "10124字",
-            "credits": "87,358",
-            "latestUpdates": "2024-03-02 19:54:00"
         },
         {
             "author": "似屿",
@@ -431,5 +431,5 @@
             "latestUpdates": "2024-03-26 22:00:09"
         }
     ],
-    "2024-04-30, 00:23:26 GMT+8"
+    "2024-04-30, 01:16:18 GMT+8"
 ]
