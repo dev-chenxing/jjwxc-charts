@@ -126,9 +126,9 @@
             "url": "https://www.jjwxc.net/onebook.php?novelid=8785052",
             "genre": "近代现代-爱情",
             "status": "连载",
-            "wordCount": "97293字",
-            "credits": "2,585,079",
-            "latestUpdates": "2024-04-25 21:25:52"
+            "wordCount": "100319字",
+            "credits": "2,735,882",
+            "latestUpdates": "2024-04-29 22:39:34"
         },
         {
             "author": "盐系排骨",
@@ -181,16 +181,6 @@
             "latestUpdates": "2024-04-29 21:00:00"
         },
         {
-            "author": "高漠内的猫",
-            "title": "换命",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8694202",
-            "genre": "近代现代-悬疑",
-            "status": "连载",
-            "wordCount": "23055字",
-            "credits": "430,120",
-            "latestUpdates": "2024-03-01 19:23:05"
-        },
-        {
             "author": "卿周",
             "title": "飞鸿踏雪",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8755233",
@@ -199,6 +189,16 @@
             "wordCount": "42311字",
             "credits": "379,463",
             "latestUpdates": "2024-03-27 22:24:42"
+        },
+        {
+            "author": "高漠内的猫",
+            "title": "换命",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8694202",
+            "genre": "近代现代-悬疑",
+            "status": "连载",
+            "wordCount": "23055字",
+            "credits": "363,353",
+            "latestUpdates": "2024-03-01 19:23:05"
         },
         {
             "author": "无名橘橘",
@@ -237,7 +237,7 @@
             "genre": "近代现代-悬疑",
             "status": "完结",
             "wordCount": "45640字",
-            "credits": "307,779",
+            "credits": "291,761",
             "latestUpdates": "2024-03-09 12:34:56"
         },
         {
@@ -247,7 +247,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "17470字",
-            "credits": "303,679",
+            "credits": "255,569",
             "latestUpdates": "2024-04-04 19:47:24"
         },
         {
@@ -271,16 +271,6 @@
             "latestUpdates": "2024-04-25 12:41:27"
         },
         {
-            "author": "一叶鹤知秋",
-            "title": "神啊，救救她吧",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8756031",
-            "genre": "近代现代-悬疑",
-            "status": "连载",
-            "wordCount": "26832字",
-            "credits": "201,072",
-            "latestUpdates": "2024-03-17 00:10:50"
-        },
-        {
             "author": "不想背谱子",
             "title": "葬岸",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8603111",
@@ -289,16 +279,6 @@
             "wordCount": "20725字",
             "credits": "192,921",
             "latestUpdates": "2024-04-14 17:55:43"
-        },
-        {
-            "author": "方也川",
-            "title": "慕她一珂",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8734855",
-            "genre": "近代现代-悬疑",
-            "status": "连载",
-            "wordCount": "14083字",
-            "credits": "172,020",
-            "latestUpdates": "2024-03-31 15:21:44"
         },
         {
             "author": "芍药吖",
@@ -311,6 +291,16 @@
             "latestUpdates": "2024-03-27 23:22:43"
         },
         {
+            "author": "一叶鹤知秋",
+            "title": "神啊，救救她吧",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8756031",
+            "genre": "近代现代-悬疑",
+            "status": "连载",
+            "wordCount": "26832字",
+            "credits": "164,198",
+            "latestUpdates": "2024-03-17 00:10:50"
+        },
+        {
             "author": "玉梦之殇",
             "title": "如果我说我爱你",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8733238",
@@ -321,13 +311,23 @@
             "latestUpdates": "2024-03-10 13:11:58"
         },
         {
+            "author": "方也川",
+            "title": "慕她一珂",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8734855",
+            "genre": "近代现代-悬疑",
+            "status": "连载",
+            "wordCount": "14083字",
+            "credits": "148,597",
+            "latestUpdates": "2024-03-31 15:21:44"
+        },
+        {
             "author": "亓琛",
             "title": "武者，舞者",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8767806",
             "genre": "近代现代-剧情",
             "status": "连载",
             "wordCount": "17304字",
-            "credits": "135,369",
+            "credits": "135,090",
             "latestUpdates": "2024-04-21 11:25:47"
         },
         {
@@ -441,5 +441,5 @@
             "latestUpdates": "2024-03-12 13:04:29"
         }
     ],
-    "2024-04-29, 22:19:01 GMT+8"
+    "2024-04-29, 23:20:16 GMT+8"
 ]
