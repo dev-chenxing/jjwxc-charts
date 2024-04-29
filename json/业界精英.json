@@ -57,7 +57,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "45416字",
-            "credits": "33,860,964",
+            "credits": "33,853,972",
             "latestUpdates": "2024-03-25 12:16:31"
         },
         {
@@ -87,7 +87,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "11917字",
-            "credits": "7,628,838",
+            "credits": "8,332,742",
             "latestUpdates": "2024-04-09 18:51:06"
         },
         {
@@ -167,7 +167,7 @@
             "genre": "近代现代-悬疑",
             "status": "连载",
             "wordCount": "86459字",
-            "credits": "780,414",
+            "credits": "826,403",
             "latestUpdates": "2024-04-23 15:16:19"
         },
         {
@@ -211,16 +211,6 @@
             "latestUpdates": "2024-03-01 19:23:05"
         },
         {
-            "author": "卿周",
-            "title": "飞鸿踏雪",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8755233",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "42311字",
-            "credits": "417,628",
-            "latestUpdates": "2024-03-27 22:24:42"
-        },
-        {
             "author": "栋梁之才",
             "title": "经师济民",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8770322",
@@ -231,13 +221,23 @@
             "latestUpdates": "2024-04-18 15:01:09"
         },
         {
+            "author": "卿周",
+            "title": "飞鸿踏雪",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8755233",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "42311字",
+            "credits": "373,636",
+            "latestUpdates": "2024-03-27 22:24:42"
+        },
+        {
             "author": "无名橘橘",
             "title": "造梦之城",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8426247",
             "genre": "近代现代-剧情",
             "status": "连载",
             "wordCount": "62358字",
-            "credits": "369,951",
+            "credits": "341,623",
             "latestUpdates": "2024-04-24 06:00:00"
         },
         {
@@ -317,7 +317,7 @@
             "genre": "近代现代-悬疑",
             "status": "连载",
             "wordCount": "22993字",
-            "credits": "191,593",
+            "credits": "178,842",
             "latestUpdates": "2024-04-08 22:16:41"
         },
         {
@@ -361,6 +361,16 @@
             "latestUpdates": "2024-04-29 00:04:24"
         },
         {
+            "author": "树荒",
+            "title": "高墙之下",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8691433",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "11154字",
+            "credits": "114,375",
+            "latestUpdates": "2024-02-18 00:03:29"
+        },
+        {
             "author": "夏冰蝉",
             "title": "灯火阑珊处",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8806182",
@@ -369,16 +379,6 @@
             "wordCount": "11051字",
             "credits": "110,333",
             "latestUpdates": "2024-04-06 04:56:33"
-        },
-        {
-            "author": "树荒",
-            "title": "高墙之下",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8691433",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "11154字",
-            "credits": "109,135",
-            "latestUpdates": "2024-02-18 00:03:29"
         },
         {
             "author": "异玄",
@@ -431,5 +431,5 @@
             "latestUpdates": "2024-03-26 22:00:09"
         }
     ],
-    "2024-04-30, 05:17:20 GMT+8"
+    "2024-04-30, 06:17:49 GMT+8"
 ]
