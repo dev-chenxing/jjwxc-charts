@@ -166,9 +166,9 @@
             "url": "https://www.jjwxc.net/onebook.php?novelid=8760594",
             "genre": "近代现代-爱情",
             "status": "连载",
-            "wordCount": "416660字",
+            "wordCount": "416659字",
             "credits": "2,961,204",
-            "latestUpdates": "2024-05-02 07:05:20"
+            "latestUpdates": "2024-05-02 07:48:20"
         },
         {
             "author": "农历一十三",
@@ -1001,6 +1001,16 @@
             "latestUpdates": "2024-02-05 17:05:00"
         },
         {
+            "author": "境梦",
+            "title": "未完待续",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8646682",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "29156字",
+            "credits": "176,011",
+            "latestUpdates": "2024-05-02 09:09:23"
+        },
+        {
             "author": "河边长夜",
             "title": "就要小狗!就要小狗!",
             "url": "https://www.jjwxc.net/onebook.php?novelid=7991710",
@@ -1129,16 +1139,6 @@
             "wordCount": "21390字",
             "credits": "162,955",
             "latestUpdates": "2024-02-06 22:01:07"
-        },
-        {
-            "author": "境梦",
-            "title": "未完待续",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8646682",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "29080字",
-            "credits": "161,402",
-            "latestUpdates": "2024-04-05 16:35:34"
         },
         {
             "author": "静乖",
@@ -1941,5 +1941,5 @@
             "latestUpdates": "2024-03-10 23:42:39"
         }
     ],
-    "2024-05-02, 07:19:36 GMT+8"
+    "2024-05-02, 09:20:00 GMT+8"
 ]
