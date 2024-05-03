@@ -157,7 +157,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "63323字",
-            "credits": "1,694,820",
+            "credits": "1,687,220",
             "latestUpdates": "2024-03-30 00:00:00"
         },
         {
@@ -187,7 +187,7 @@
             "genre": "近代现代-悬疑",
             "status": "连载",
             "wordCount": "248937字",
-            "credits": "607,866",
+            "credits": "604,468",
             "latestUpdates": "2024-04-20 17:00:17"
         },
         {
@@ -209,16 +209,6 @@
             "wordCount": "23055字",
             "credits": "430,120",
             "latestUpdates": "2024-03-01 19:23:05"
-        },
-        {
-            "author": "卿周",
-            "title": "飞鸿踏雪",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8755233",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "42311字",
-            "credits": "417,628",
-            "latestUpdates": "2024-03-27 22:24:42"
         },
         {
             "author": "无名橘橘",
@@ -247,8 +237,18 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "44947字",
-            "credits": "347,619",
+            "credits": "383,361",
             "latestUpdates": "2024-04-18 15:01:09"
+        },
+        {
+            "author": "卿周",
+            "title": "飞鸿踏雪",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8755233",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "42311字",
+            "credits": "373,636",
+            "latestUpdates": "2024-03-27 22:24:42"
         },
         {
             "author": "铜钱七颗糖",
@@ -261,16 +261,6 @@
             "latestUpdates": "2024-04-29 00:26:48"
         },
         {
-            "author": "任砚卿",
-            "title": "没有人说谎",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=7495619",
-            "genre": "近代现代-悬疑",
-            "status": "完结",
-            "wordCount": "45640字",
-            "credits": "307,485",
-            "latestUpdates": "2024-03-09 12:34:56"
-        },
-        {
             "author": "左之之之之",
             "title": "再见怦然",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8729151",
@@ -279,6 +269,16 @@
             "wordCount": "17470字",
             "credits": "303,679",
             "latestUpdates": "2024-04-04 19:47:24"
+        },
+        {
+            "author": "任砚卿",
+            "title": "没有人说谎",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=7495619",
+            "genre": "近代现代-悬疑",
+            "status": "完结",
+            "wordCount": "45640字",
+            "credits": "291,761",
+            "latestUpdates": "2024-03-09 12:34:56"
         },
         {
             "author": "灰皮橘子",
@@ -361,24 +361,24 @@
             "latestUpdates": "2024-04-29 00:04:24"
         },
         {
-            "author": "树荒",
-            "title": "高墙之下",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8691433",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "11154字",
-            "credits": "114,375",
-            "latestUpdates": "2024-02-18 00:03:29"
-        },
-        {
             "author": "夏冰蝉",
             "title": "灯火阑珊处",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8806182",
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "11051字",
-            "credits": "105,219",
+            "credits": "110,333",
             "latestUpdates": "2024-04-06 04:56:33"
+        },
+        {
+            "author": "树荒",
+            "title": "高墙之下",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8691433",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "11154字",
+            "credits": "109,135",
+            "latestUpdates": "2024-02-18 00:03:29"
         },
         {
             "author": "云初礼",
@@ -421,5 +421,5 @@
             "latestUpdates": "2024-03-26 22:00:09"
         }
     ],
-    "2024-05-04, 02:23:38 GMT+8"
+    "2024-05-04, 03:14:58 GMT+8"
 ]
