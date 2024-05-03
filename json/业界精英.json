@@ -127,18 +127,8 @@
             "genre": "近代现代-悬疑",
             "status": "连载",
             "wordCount": "56755字",
-            "credits": "3,537,629",
+            "credits": "3,503,042",
             "latestUpdates": "2024-05-01 23:51:31"
-        },
-        {
-            "author": "清舞莉扬",
-            "title": "假千金成真了",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8785052",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "112464字",
-            "credits": "2,934,794",
-            "latestUpdates": "2024-05-03 14:47:02"
         },
         {
             "author": "夏阳冬雪",
@@ -147,8 +137,18 @@
             "genre": "近代现代-剧情",
             "status": "连载",
             "wordCount": "70250字",
-            "credits": "2,599,590",
+            "credits": "3,117,813",
             "latestUpdates": "2024-05-03 04:00:00"
+        },
+        {
+            "author": "清舞莉扬",
+            "title": "假千金成真了",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8785052",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "112464字",
+            "credits": "2,969,245",
+            "latestUpdates": "2024-05-03 14:47:02"
         },
         {
             "author": "盐系排骨",
@@ -157,8 +157,18 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "63323字",
-            "credits": "1,687,220",
+            "credits": "1,694,820",
             "latestUpdates": "2024-03-30 00:00:00"
+        },
+        {
+            "author": "夜微凉k",
+            "title": "希望我的未来都是你",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8697172",
+            "genre": "近代现代-悬疑",
+            "status": "连载",
+            "wordCount": "87847字",
+            "credits": "836,897",
+            "latestUpdates": "2024-05-02 23:34:29"
         },
         {
             "author": "忆庭",
@@ -169,16 +179,6 @@
             "wordCount": "89472字",
             "credits": "836,318",
             "latestUpdates": "2024-04-30 23:15:56"
-        },
-        {
-            "author": "夜微凉k",
-            "title": "希望我的未来都是你",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8697172",
-            "genre": "近代现代-悬疑",
-            "status": "连载",
-            "wordCount": "87847字",
-            "credits": "814,322",
-            "latestUpdates": "2024-05-02 23:34:29"
         },
         {
             "author": "天狮在野",
@@ -271,6 +271,16 @@
             "latestUpdates": "2024-03-09 12:34:56"
         },
         {
+            "author": "左之之之之",
+            "title": "再见怦然",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8729151",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "17470字",
+            "credits": "303,679",
+            "latestUpdates": "2024-04-04 19:47:24"
+        },
+        {
             "author": "灰皮橘子",
             "title": "丛林法则",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8730023",
@@ -287,18 +297,8 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "26060字",
-            "credits": "225,762",
+            "credits": "240,654",
             "latestUpdates": "2024-04-25 12:41:27"
-        },
-        {
-            "author": "左之之之之",
-            "title": "再见怦然",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8729151",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "17470字",
-            "credits": "210,405",
-            "latestUpdates": "2024-04-04 19:47:24"
         },
         {
             "author": "一叶鹤知秋",
@@ -321,6 +321,16 @@
             "latestUpdates": "2024-04-08 22:16:41"
         },
         {
+            "author": "方也川",
+            "title": "慕她一珂",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8734855",
+            "genre": "近代现代-悬疑",
+            "status": "连载",
+            "wordCount": "14083字",
+            "credits": "172,020",
+            "latestUpdates": "2024-03-31 15:21:44"
+        },
+        {
             "author": "玉梦之殇",
             "title": "如果我说我爱你",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8733238",
@@ -329,16 +339,6 @@
             "wordCount": "19057字",
             "credits": "163,301",
             "latestUpdates": "2024-03-10 13:11:58"
-        },
-        {
-            "author": "方也川",
-            "title": "慕她一珂",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8734855",
-            "genre": "近代现代-悬疑",
-            "status": "连载",
-            "wordCount": "14083字",
-            "credits": "148,597",
-            "latestUpdates": "2024-03-31 15:21:44"
         },
         {
             "author": "亓琛",
@@ -421,5 +421,5 @@
             "latestUpdates": "2024-03-26 22:00:09"
         }
     ],
-    "2024-05-03, 15:17:27 GMT+8"
+    "2024-05-03, 16:22:29 GMT+8"
 ]

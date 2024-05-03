@@ -87,7 +87,7 @@
             "genre": "幻想未来-爱情",
             "status": "连载",
             "wordCount": "12785字",
-            "credits": "19,280,790",
+            "credits": "19,225,416",
             "latestUpdates": "2024-04-10 09:00:00"
         },
         {
@@ -97,7 +97,7 @@
             "genre": "幻想未来-爱情",
             "status": "连载",
             "wordCount": "79882字",
-            "credits": "6,009,530",
+            "credits": "6,180,095",
             "latestUpdates": "2024-04-21 19:39:26"
         },
         {
@@ -167,7 +167,7 @@
             "genre": "幻想未来-爱情",
             "status": "连载",
             "wordCount": "84846字",
-            "credits": "2,078,404",
+            "credits": "2,029,367",
             "latestUpdates": "2024-04-24 15:00:00"
         },
         {
@@ -187,7 +187,7 @@
             "genre": "幻想未来-奇幻",
             "status": "连载",
             "wordCount": "87511字",
-            "credits": "1,165,028",
+            "credits": "1,144,512",
             "latestUpdates": "2024-05-01 19:11:54"
         },
         {
@@ -371,6 +371,16 @@
             "latestUpdates": "2024-04-11 00:08:04"
         },
         {
+            "author": "土豆两勺",
+            "title": "青白眼",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8728550",
+            "genre": "幻想未来-仙侠",
+            "status": "连载",
+            "wordCount": "36845字",
+            "credits": "281,749",
+            "latestUpdates": "2024-03-08 15:00:00"
+        },
+        {
             "author": "所遇皆欢喜",
             "title": "女配抢了女主你敢信",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8758445",
@@ -379,16 +389,6 @@
             "wordCount": "57555字",
             "credits": "280,360",
             "latestUpdates": "2024-03-14 23:10:47"
-        },
-        {
-            "author": "土豆两勺",
-            "title": "青白眼",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8728550",
-            "genre": "幻想未来-仙侠",
-            "status": "连载",
-            "wordCount": "36845字",
-            "credits": "276,914",
-            "latestUpdates": "2024-03-08 15:00:00"
         },
         {
             "author": "菌菇不菌",
@@ -407,7 +407,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "21703字",
-            "credits": "263,254",
+            "credits": "259,942",
             "latestUpdates": "2024-02-28 07:36:47"
         },
         {
@@ -441,16 +441,6 @@
             "latestUpdates": "2024-03-12 21:59:22"
         },
         {
-            "author": "洛颜律",
-            "title": "伊甸2033",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8737886",
-            "genre": "幻想未来-游戏",
-            "status": "连载",
-            "wordCount": "22878字",
-            "credits": "207,222",
-            "latestUpdates": "2024-03-21 21:38:01"
-        },
-        {
             "author": "绒球猫",
             "title": "垃圾星的垃圾不好捡",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8780755",
@@ -459,6 +449,16 @@
             "wordCount": "21946字",
             "credits": "202,530",
             "latestUpdates": "2024-04-19 20:43:14"
+        },
+        {
+            "author": "洛颜律",
+            "title": "伊甸2033",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8737886",
+            "genre": "幻想未来-游戏",
+            "status": "连载",
+            "wordCount": "22878字",
+            "credits": "181,048",
+            "latestUpdates": "2024-03-21 21:38:01"
         },
         {
             "author": "碎碎鲨睡了",
@@ -489,16 +489,6 @@
             "wordCount": "20721字",
             "credits": "143,328",
             "latestUpdates": "2024-04-08 12:00:35"
-        },
-        {
-            "author": "玉宇清辉",
-            "title": "囚风",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8802390",
-            "genre": "幻想未来-爱情",
-            "status": "连载",
-            "wordCount": "22816字",
-            "credits": "132,517",
-            "latestUpdates": "2024-04-13 23:00:00"
         },
         {
             "author": "吃橘的托马桑",
@@ -539,6 +529,16 @@
             "wordCount": "17084字",
             "credits": "127,989",
             "latestUpdates": "2024-05-01 16:53:51"
+        },
+        {
+            "author": "玉宇清辉",
+            "title": "囚风",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8802390",
+            "genre": "幻想未来-爱情",
+            "status": "连载",
+            "wordCount": "22816字",
+            "credits": "126,341",
+            "latestUpdates": "2024-04-13 23:00:00"
         },
         {
             "author": "一口小甜甜",
@@ -711,5 +711,5 @@
             "latestUpdates": "2024-03-03 23:13:03"
         }
     ],
-    "2024-05-03, 15:17:29 GMT+8"
+    "2024-05-03, 16:22:30 GMT+8"
 ]
