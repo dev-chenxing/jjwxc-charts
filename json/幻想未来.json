@@ -87,7 +87,7 @@
             "genre": "幻想未来-爱情",
             "status": "连载",
             "wordCount": "12785字",
-            "credits": "19,280,790",
+            "credits": "19,225,416",
             "latestUpdates": "2024-04-10 09:00:00"
         },
         {
@@ -97,7 +97,7 @@
             "genre": "幻想未来-爱情",
             "status": "连载",
             "wordCount": "79882字",
-            "credits": "6,009,530",
+            "credits": "6,180,095",
             "latestUpdates": "2024-04-21 19:39:26"
         },
         {
@@ -137,7 +137,7 @@
             "genre": "幻想未来-爱情",
             "status": "连载",
             "wordCount": "52124字",
-            "credits": "2,884,975",
+            "credits": "3,014,851",
             "latestUpdates": "2024-03-27 23:52:24"
         },
         {
@@ -157,7 +157,7 @@
             "genre": "幻想未来-奇幻",
             "status": "连载",
             "wordCount": "148932字",
-            "credits": "2,083,341",
+            "credits": "2,135,367",
             "latestUpdates": "2024-04-21 21:29:31"
         },
         {
@@ -177,7 +177,7 @@
             "genre": "幻想未来-科幻",
             "status": "连载",
             "wordCount": "194036字",
-            "credits": "1,570,702",
+            "credits": "1,529,597",
             "latestUpdates": "2024-05-02 08:42:46"
         },
         {
@@ -187,7 +187,7 @@
             "genre": "幻想未来-奇幻",
             "status": "连载",
             "wordCount": "87511字",
-            "credits": "1,165,028",
+            "credits": "1,144,512",
             "latestUpdates": "2024-05-01 19:11:54"
         },
         {
@@ -271,6 +271,16 @@
             "latestUpdates": "2024-02-29 15:15:46"
         },
         {
+            "author": "星一元",
+            "title": "白鹤同行",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8715577",
+            "genre": "幻想未来-奇幻",
+            "status": "连载",
+            "wordCount": "66489字",
+            "credits": "530,568",
+            "latestUpdates": "2024-04-17 03:24:03"
+        },
+        {
             "author": "夏至和",
             "title": "INTJ的恶魔",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8717764",
@@ -279,16 +289,6 @@
             "wordCount": "66463字",
             "credits": "505,102",
             "latestUpdates": "2024-04-21 10:45:00"
-        },
-        {
-            "author": "星一元",
-            "title": "白鹤同行",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8715577",
-            "genre": "幻想未来-奇幻",
-            "status": "连载",
-            "wordCount": "66489字",
-            "credits": "436,830",
-            "latestUpdates": "2024-04-17 03:24:03"
         },
         {
             "author": "热心市民阿四",
@@ -307,7 +307,7 @@
             "genre": "古色古香-奇幻",
             "status": "连载",
             "wordCount": "44212字",
-            "credits": "390,058",
+            "credits": "394,279",
             "latestUpdates": "2024-02-20 11:48:04"
         },
         {
@@ -447,7 +447,7 @@
             "genre": "幻想未来-剧情",
             "status": "连载",
             "wordCount": "21946字",
-            "credits": "185,873",
+            "credits": "202,530",
             "latestUpdates": "2024-04-19 20:43:14"
         },
         {
@@ -561,6 +561,16 @@
             "latestUpdates": "2024-05-01 14:38:47"
         },
         {
+            "author": "风雪杀我多少年",
+            "title": "天外来物",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8723339",
+            "genre": "幻想未来-爱情",
+            "status": "连载",
+            "wordCount": "10536字",
+            "credits": "112,966",
+            "latestUpdates": "2024-04-05 20:07:11"
+        },
+        {
             "author": "花切魔牌手",
             "title": "殉道者",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8708838",
@@ -591,23 +601,13 @@
             "latestUpdates": "2024-03-08 23:47:54"
         },
         {
-            "author": "风雪杀我多少年",
-            "title": "天外来物",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8723339",
-            "genre": "幻想未来-爱情",
-            "status": "连载",
-            "wordCount": "10536字",
-            "credits": "95,177",
-            "latestUpdates": "2024-04-05 20:07:11"
-        },
-        {
             "author": "蘭蘭蘭蘭",
             "title": "相杀",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8738362",
             "genre": "幻想未来-爱情",
             "status": "连载",
             "wordCount": "13426字",
-            "credits": "91,797",
+            "credits": "91,655",
             "latestUpdates": "2024-03-07 17:27:01"
         },
         {
@@ -711,5 +711,5 @@
             "latestUpdates": "2024-03-03 23:13:03"
         }
     ],
-    "2024-05-04, 12:23:56 GMT+8"
+    "2024-05-04, 13:18:52 GMT+8"
 ]
