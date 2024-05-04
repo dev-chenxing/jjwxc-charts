@@ -87,7 +87,7 @@
             "genre": "架空历史-剧情",
             "status": "连载",
             "wordCount": "101054字",
-            "credits": "1,098,219",
+            "credits": "1,007,473",
             "latestUpdates": "2024-04-17 19:43:32"
         },
         {
@@ -117,7 +117,7 @@
             "genre": "架空历史-剧情",
             "status": "连载",
             "wordCount": "34085字",
-            "credits": "314,767",
+            "credits": "324,953",
             "latestUpdates": "2024-04-10 00:00:00"
         },
         {
@@ -129,16 +129,6 @@
             "wordCount": "72294字",
             "credits": "295,315",
             "latestUpdates": "2024-05-02 12:30:37"
-        },
-        {
-            "author": "落夜清归",
-            "title": "郡马只想当神医",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8760449",
-            "genre": "架空历史-爱情",
-            "status": "连载",
-            "wordCount": "16262字",
-            "credits": "247,248",
-            "latestUpdates": "2024-04-25 07:25:31"
         },
         {
             "author": "帕尔西法z",
@@ -161,24 +151,34 @@
             "latestUpdates": "2024-05-01 06:00:00"
         },
         {
+            "author": "落夜清归",
+            "title": "郡马只想当神医",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8760449",
+            "genre": "架空历史-爱情",
+            "status": "连载",
+            "wordCount": "16262字",
+            "credits": "219,919",
+            "latestUpdates": "2024-04-25 07:25:31"
+        },
+        {
             "author": "南深以安",
             "title": "点绛唇",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8496495",
             "genre": "架空历史-剧情",
             "status": "连载",
             "wordCount": "18801字",
-            "credits": "144,090",
+            "credits": "161,235",
             "latestUpdates": "2024-05-03 09:29:27"
         },
         {
-            "author": "京城喵喵",
-            "title": "督主女，娶女剑客为妻",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8727912",
-            "genre": "架空历史-爱情",
+            "author": "逆位的星星",
+            "title": "皇后请自重",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8765551",
+            "genre": "架空历史-剧情",
             "status": "连载",
-            "wordCount": "16013字",
-            "credits": "141,624",
-            "latestUpdates": "2024-03-23 10:20:23"
+            "wordCount": "25488字",
+            "credits": "138,388",
+            "latestUpdates": "2024-03-27 15:42:48"
         },
         {
             "author": "Miao77",
@@ -201,14 +201,14 @@
             "latestUpdates": "2024-02-23 18:00:00"
         },
         {
-            "author": "逆位的星星",
-            "title": "皇后请自重",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8765551",
-            "genre": "架空历史-剧情",
+            "author": "京城喵喵",
+            "title": "督主女，娶女剑客为妻",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8727912",
+            "genre": "架空历史-爱情",
             "status": "连载",
-            "wordCount": "25488字",
-            "credits": "103,907",
-            "latestUpdates": "2024-03-27 15:42:48"
+            "wordCount": "16013字",
+            "credits": "121,852",
+            "latestUpdates": "2024-03-23 10:20:23"
         },
         {
             "author": "金水儿",
@@ -231,5 +231,5 @@
             "latestUpdates": "2024-05-02 11:52:33"
         }
     ],
-    "2024-05-04, 11:21:31 GMT+8"
+    "2024-05-04, 12:23:51 GMT+8"
 ]

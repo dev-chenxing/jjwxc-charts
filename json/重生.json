@@ -66,9 +66,9 @@
             "url": "https://www.jjwxc.net/onebook.php?novelid=6283088",
             "genre": "近代现代-爱情",
             "status": "连载",
-            "wordCount": "130847字",
-            "credits": "24,969,888",
-            "latestUpdates": "2024-05-03 12:59:16"
+            "wordCount": "134834字",
+            "credits": "25,569,996",
+            "latestUpdates": "2024-05-04 12:00:00"
         },
         {
             "author": "雁过吾痕",
@@ -116,9 +116,9 @@
             "url": "https://www.jjwxc.net/onebook.php?novelid=8802236",
             "genre": "近代现代-爱情",
             "status": "连载",
-            "wordCount": "126074字",
+            "wordCount": "130133字",
             "credits": "4,773,520",
-            "latestUpdates": "2024-05-03 18:00:03"
+            "latestUpdates": "2024-05-04 12:00:03"
         },
         {
             "author": "入于",
@@ -167,7 +167,7 @@
             "genre": "架空历史-仙侠",
             "status": "连载",
             "wordCount": "61874字",
-            "credits": "908,404",
+            "credits": "883,666",
             "latestUpdates": "2024-04-23 22:14:08"
         },
         {
@@ -257,7 +257,7 @@
             "genre": "架空历史-爱情",
             "status": "连载",
             "wordCount": "12966字",
-            "credits": "229,636",
+            "credits": "226,559",
             "latestUpdates": "2024-04-13 23:30:00"
         },
         {
@@ -271,16 +271,6 @@
             "latestUpdates": "2024-04-26 02:26:34"
         },
         {
-            "author": "两百七十七",
-            "title": "望晚忆曦",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8795269",
-            "genre": "古色古香-仙侠",
-            "status": "连载",
-            "wordCount": "24916字",
-            "credits": "175,180",
-            "latestUpdates": "2024-04-13 15:24:44"
-        },
-        {
             "author": "湘有兰",
             "title": "妖骨",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8801040",
@@ -291,6 +281,16 @@
             "latestUpdates": "2024-04-28 02:30:57"
         },
         {
+            "author": "两百七十七",
+            "title": "望晚忆曦",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8795269",
+            "genre": "古色古香-仙侠",
+            "status": "连载",
+            "wordCount": "24916字",
+            "credits": "168,052",
+            "latestUpdates": "2024-04-13 15:24:44"
+        },
+        {
             "author": "为了学分写百合",
             "title": "重生之将军你好香",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8758643",
@@ -299,16 +299,6 @@
             "wordCount": "10071字",
             "credits": "115,361",
             "latestUpdates": "2024-04-09 21:03:45"
-        },
-        {
-            "author": "亦漓",
-            "title": "重生后我拐走了老师的女儿",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8772979",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "13689字",
-            "credits": "110,346",
-            "latestUpdates": "2024-04-18 15:04:56"
         },
         {
             "author": "淮秋千冬",
@@ -331,13 +321,23 @@
             "latestUpdates": "2024-03-16 22:20:52"
         },
         {
+            "author": "亦漓",
+            "title": "重生后我拐走了老师的女儿",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8772979",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "13689字",
+            "credits": "104,940",
+            "latestUpdates": "2024-04-18 15:04:56"
+        },
+        {
             "author": "窦忆辰",
             "title": "影后为我折腰",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8774652",
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "10085字",
-            "credits": "86,781",
+            "credits": "65,333",
             "latestUpdates": "2024-03-20 21:37:43"
         },
         {
@@ -351,5 +351,5 @@
             "latestUpdates": "2024-04-06 16:48:47"
         }
     ],
-    "2024-05-04, 11:21:34 GMT+8"
+    "2024-05-04, 12:23:55 GMT+8"
 ]
