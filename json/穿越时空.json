@@ -328,7 +328,7 @@
             "status": "连载",
             "wordCount": "216585字",
             "credits": "7,464,198",
-            "latestUpdates": "2024-05-04 21:35:52"
+            "latestUpdates": "2024-05-05 04:20:04"
         },
         {
             "author": "岁岁明美",
@@ -557,7 +557,7 @@
             "genre": "架空历史-仙侠",
             "status": "连载",
             "wordCount": "10004字",
-            "credits": "244,281",
+            "credits": "267,589",
             "latestUpdates": "2024-03-27 12:40:14"
         },
         {
@@ -661,16 +661,6 @@
             "latestUpdates": "2024-05-04 23:42:26"
         },
         {
-            "author": "空想家zh",
-            "title": "武侠世界我成仙",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8727623",
-            "genre": "架空历史-武侠",
-            "status": "连载",
-            "wordCount": "14272字",
-            "credits": "130,211",
-            "latestUpdates": "2024-04-09 18:33:32"
-        },
-        {
             "author": "仔以",
             "title": "穿书后我把狗咬了",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8722725",
@@ -679,6 +669,16 @@
             "wordCount": "13222字",
             "credits": "124,673",
             "latestUpdates": "2024-04-04 12:46:08"
+        },
+        {
+            "author": "空想家zh",
+            "title": "武侠世界我成仙",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8727623",
+            "genre": "架空历史-武侠",
+            "status": "连载",
+            "wordCount": "14272字",
+            "credits": "122,528",
+            "latestUpdates": "2024-04-09 18:33:32"
         },
         {
             "author": "若烟絮",
@@ -699,16 +699,6 @@
             "wordCount": "13311字",
             "credits": "116,166",
             "latestUpdates": "2024-02-15 23:00:00"
-        },
-        {
-            "author": "等了很久的夏天",
-            "title": "互扰关系",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8736352",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "16611字",
-            "credits": "109,436",
-            "latestUpdates": "2024-03-31 04:27:45"
         },
         {
             "author": "左禾拾柒",
@@ -761,13 +751,23 @@
             "latestUpdates": "2024-02-24 12:34:24"
         },
         {
+            "author": "等了很久的夏天",
+            "title": "互扰关系",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8736352",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "16611字",
+            "credits": "85,547",
+            "latestUpdates": "2024-03-31 04:27:45"
+        },
+        {
             "author": "长忆相聚时",
             "title": "诺南录",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8731348",
             "genre": "架空历史-剧情",
             "status": "连载",
             "wordCount": "13577字",
-            "credits": "78,856",
+            "credits": "70,781",
             "latestUpdates": "2024-03-06 21:00:56"
         },
         {
@@ -801,5 +801,5 @@
             "latestUpdates": "2024-04-20 19:40:30"
         }
     ],
-    "2024-05-05, 04:19:47 GMT+8"
+    "2024-05-05, 05:17:09 GMT+8"
 ]
