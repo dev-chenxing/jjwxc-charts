@@ -146,9 +146,9 @@
             "url": "https://www.jjwxc.net/onebook.php?novelid=8755157",
             "genre": "近代现代-爱情",
             "status": "连载",
-            "wordCount": "103356字",
-            "credits": "3,684,237",
-            "latestUpdates": "2024-05-03 18:00:00"
+            "wordCount": "103355字",
+            "credits": "3,750,154",
+            "latestUpdates": "2024-05-05 20:06:03"
         },
         {
             "author": "乘风北归",
@@ -621,6 +621,16 @@
             "latestUpdates": "2024-05-05 13:04:44"
         },
         {
+            "author": "披萨摩耶",
+            "title": "冬日逃避",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8727679",
+            "genre": "近代现代-剧情",
+            "status": "连载",
+            "wordCount": "48117字",
+            "credits": "363,188",
+            "latestUpdates": "2024-05-05 20:25:02"
+        },
+        {
             "author": "何如北地",
             "title": "拜托，干嘛喜欢我",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8753277",
@@ -659,16 +669,6 @@
             "wordCount": "46110字",
             "credits": "332,105",
             "latestUpdates": "2024-03-31 14:25:30"
-        },
-        {
-            "author": "披萨摩耶",
-            "title": "冬日逃避",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8727679",
-            "genre": "近代现代-剧情",
-            "status": "连载",
-            "wordCount": "44847字",
-            "credits": "324,026",
-            "latestUpdates": "2024-04-27 08:32:49"
         },
         {
             "author": "亦周",
@@ -1178,7 +1178,7 @@
             "status": "连载",
             "wordCount": "23383字",
             "credits": "158,834",
-            "latestUpdates": "2024-05-05 15:45:14"
+            "latestUpdates": "2024-05-05 19:56:27"
         },
         {
             "author": "孜孜不困",
@@ -1911,5 +1911,5 @@
             "latestUpdates": "2024-03-10 23:42:39"
         }
     ],
-    "2024-05-05, 19:15:23 GMT+8"
+    "2024-05-05, 20:33:26 GMT+8"
 ]
