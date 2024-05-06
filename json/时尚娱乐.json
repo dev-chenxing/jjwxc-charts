@@ -107,7 +107,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "250119字",
-            "credits": "22,966,476",
+            "credits": "22,769,284",
             "latestUpdates": "2024-04-14 17:53:58"
         },
         {
@@ -187,7 +187,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "127514字",
-            "credits": "6,484,595",
+            "credits": "6,408,774",
             "latestUpdates": "2024-03-27 21:29:07"
         },
         {
@@ -257,7 +257,7 @@
             "genre": "近代现代-爱情",
             "status": "完结",
             "wordCount": "107568字",
-            "credits": "3,095,016",
+            "credits": "2,994,732",
             "latestUpdates": "2024-05-02 14:41:59"
         },
         {
@@ -377,7 +377,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "59054字",
-            "credits": "598,451",
+            "credits": "587,922",
             "latestUpdates": "2024-03-10 01:41:38"
         },
         {
@@ -491,6 +491,16 @@
             "latestUpdates": "2024-02-29 01:43:10"
         },
         {
+            "author": "寒枝如故",
+            "title": "我知道你想我了",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8765273",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "19818字",
+            "credits": "124,112",
+            "latestUpdates": "2024-04-30 21:51:27"
+        },
+        {
             "author": "清风问月",
             "title": "恋综是你的谎言",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8648357",
@@ -541,16 +551,6 @@
             "latestUpdates": "2024-03-16 19:23:59"
         },
         {
-            "author": "宋时年",
-            "title": "是桃花啊",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8773881",
-            "genre": "近代现代-剧情",
-            "status": "连载",
-            "wordCount": "15993字",
-            "credits": "115,010",
-            "latestUpdates": "2024-03-26 00:35:25"
-        },
-        {
             "author": "MarkdownWriter",
             "title": "你普通话说得不错啊！",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8678800",
@@ -559,6 +559,16 @@
             "wordCount": "11648字",
             "credits": "113,872",
             "latestUpdates": "2024-02-13 00:15:54"
+        },
+        {
+            "author": "宋时年",
+            "title": "是桃花啊",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8773881",
+            "genre": "近代现代-剧情",
+            "status": "连载",
+            "wordCount": "15993字",
+            "credits": "95,079",
+            "latestUpdates": "2024-03-26 00:35:25"
         },
         {
             "author": "零六二壹",
@@ -591,5 +601,5 @@
             "latestUpdates": "2024-01-31 00:55:44"
         }
     ],
-    "2024-05-06, 09:21:59 GMT+8"
+    "2024-05-06, 10:31:47 GMT+8"
 ]

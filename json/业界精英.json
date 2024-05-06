@@ -106,9 +106,9 @@
             "url": "https://www.jjwxc.net/onebook.php?novelid=8790324",
             "genre": "近代现代-爱情",
             "status": "连载",
-            "wordCount": "116039字",
+            "wordCount": "116040字",
             "credits": "7,643,714",
-            "latestUpdates": "2024-05-06 09:21:10"
+            "latestUpdates": "2024-05-06 09:53:21"
         },
         {
             "author": "温璨",
@@ -197,7 +197,7 @@
             "genre": "近代现代-悬疑",
             "status": "连载",
             "wordCount": "248937字",
-            "credits": "693,153",
+            "credits": "607,866",
             "latestUpdates": "2024-04-20 17:00:17"
         },
         {
@@ -221,16 +221,6 @@
             "latestUpdates": "2024-05-05 18:00:00"
         },
         {
-            "author": "高漠内的猫",
-            "title": "换命",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8694202",
-            "genre": "近代现代-悬疑",
-            "status": "连载",
-            "wordCount": "23055字",
-            "credits": "471,028",
-            "latestUpdates": "2024-03-01 19:23:05"
-        },
-        {
             "author": "卿周",
             "title": "飞鸿踏雪",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8755233",
@@ -249,6 +239,16 @@
             "wordCount": "67646字",
             "credits": "422,863",
             "latestUpdates": "2024-05-05 18:00:00"
+        },
+        {
+            "author": "高漠内的猫",
+            "title": "换命",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8694202",
+            "genre": "近代现代-悬疑",
+            "status": "连载",
+            "wordCount": "23055字",
+            "credits": "363,353",
+            "latestUpdates": "2024-03-01 19:23:05"
         },
         {
             "author": "铜钱七颗糖",
@@ -277,7 +277,7 @@
             "genre": "近代现代-悬疑",
             "status": "完结",
             "wordCount": "45640字",
-            "credits": "313,502",
+            "credits": "291,761",
             "latestUpdates": "2024-03-09 12:34:56"
         },
         {
@@ -287,7 +287,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "17470字",
-            "credits": "303,679",
+            "credits": "255,569",
             "latestUpdates": "2024-04-04 19:47:24"
         },
         {
@@ -299,16 +299,6 @@
             "wordCount": "34826字",
             "credits": "251,938",
             "latestUpdates": "2024-03-25 23:20:01"
-        },
-        {
-            "author": "一叶鹤知秋",
-            "title": "神啊，救救她吧",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8756031",
-            "genre": "近代现代-悬疑",
-            "status": "连载",
-            "wordCount": "26832字",
-            "credits": "226,599",
-            "latestUpdates": "2024-03-17 00:10:50"
         },
         {
             "author": "妖精绘梦",
@@ -331,14 +321,14 @@
             "latestUpdates": "2024-04-08 22:16:41"
         },
         {
-            "author": "方也川",
-            "title": "慕她一珂",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8734855",
+            "author": "一叶鹤知秋",
+            "title": "神啊，救救她吧",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8756031",
             "genre": "近代现代-悬疑",
             "status": "连载",
-            "wordCount": "14083字",
-            "credits": "178,076",
-            "latestUpdates": "2024-03-31 15:21:44"
+            "wordCount": "26832字",
+            "credits": "164,198",
+            "latestUpdates": "2024-03-17 00:10:50"
         },
         {
             "author": "玉梦之殇",
@@ -359,6 +349,16 @@
             "wordCount": "20880字",
             "credits": "158,445",
             "latestUpdates": "2024-05-05 23:36:55"
+        },
+        {
+            "author": "方也川",
+            "title": "慕她一珂",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8734855",
+            "genre": "近代现代-悬疑",
+            "status": "连载",
+            "wordCount": "14083字",
+            "credits": "148,597",
+            "latestUpdates": "2024-03-31 15:21:44"
         },
         {
             "author": "chan777",
@@ -431,5 +431,5 @@
             "latestUpdates": "2024-03-12 13:04:29"
         }
     ],
-    "2024-05-06, 09:22:02 GMT+8"
+    "2024-05-06, 10:31:46 GMT+8"
 ]
