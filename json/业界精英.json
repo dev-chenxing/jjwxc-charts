@@ -127,7 +127,7 @@
             "genre": "近代现代-悬疑",
             "status": "连载",
             "wordCount": "56755字",
-            "credits": "3,503,042",
+            "credits": "3,537,629",
             "latestUpdates": "2024-05-01 23:51:31"
         },
         {
@@ -197,7 +197,7 @@
             "genre": "近代现代-悬疑",
             "status": "连载",
             "wordCount": "248937字",
-            "credits": "607,866",
+            "credits": "604,468",
             "latestUpdates": "2024-04-20 17:00:17"
         },
         {
@@ -231,6 +231,16 @@
             "latestUpdates": "2024-05-07 18:00:00"
         },
         {
+            "author": "高漠内的猫",
+            "title": "换命",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8694202",
+            "genre": "近代现代-悬疑",
+            "status": "连载",
+            "wordCount": "23055字",
+            "credits": "430,120",
+            "latestUpdates": "2024-03-01 19:23:05"
+        },
+        {
             "author": "卿周",
             "title": "飞鸿踏雪",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8755233",
@@ -241,23 +251,13 @@
             "latestUpdates": "2024-03-27 22:24:42"
         },
         {
-            "author": "高漠内的猫",
-            "title": "换命",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8694202",
-            "genre": "近代现代-悬疑",
-            "status": "连载",
-            "wordCount": "23055字",
-            "credits": "416,368",
-            "latestUpdates": "2024-03-01 19:23:05"
-        },
-        {
             "author": "栋梁之才",
             "title": "经师济民",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8770322",
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "44947字",
-            "credits": "347,619",
+            "credits": "383,361",
             "latestUpdates": "2024-04-18 15:01:09"
         },
         {
@@ -327,18 +327,8 @@
             "genre": "近代现代-悬疑",
             "status": "连载",
             "wordCount": "22993字",
-            "credits": "178,842",
+            "credits": "191,593",
             "latestUpdates": "2024-04-08 22:16:41"
-        },
-        {
-            "author": "方也川",
-            "title": "慕她一珂",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8734855",
-            "genre": "近代现代-悬疑",
-            "status": "连载",
-            "wordCount": "14083字",
-            "credits": "172,020",
-            "latestUpdates": "2024-03-31 15:21:44"
         },
         {
             "author": "玉梦之殇",
@@ -359,6 +349,16 @@
             "wordCount": "20880字",
             "credits": "158,445",
             "latestUpdates": "2024-05-05 23:36:55"
+        },
+        {
+            "author": "方也川",
+            "title": "慕她一珂",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8734855",
+            "genre": "近代现代-悬疑",
+            "status": "连载",
+            "wordCount": "14083字",
+            "credits": "148,597",
+            "latestUpdates": "2024-03-31 15:21:44"
         },
         {
             "author": "chan777",
@@ -431,5 +431,5 @@
             "latestUpdates": "2024-03-26 22:00:09"
         }
     ],
-    "2024-05-07, 18:20:53 GMT+8"
+    "2024-05-07, 19:17:40 GMT+8"
 ]
