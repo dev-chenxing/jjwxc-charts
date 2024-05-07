@@ -27,7 +27,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "285786字",
-            "credits": "65,168,384",
+            "credits": "66,005,648",
             "latestUpdates": "2024-05-07 00:24:40"
         },
         {
@@ -146,9 +146,9 @@
             "url": "https://www.jjwxc.net/onebook.php?novelid=8785052",
             "genre": "近代现代-爱情",
             "status": "连载",
-            "wordCount": "118694字",
+            "wordCount": "121760字",
             "credits": "3,249,501",
-            "latestUpdates": "2024-05-06 17:00:00"
+            "latestUpdates": "2024-05-07 14:40:49"
         },
         {
             "author": "盐系排骨",
@@ -267,18 +267,8 @@
             "genre": "近代现代-悬疑",
             "status": "连载",
             "wordCount": "48621字",
-            "credits": "337,945",
+            "credits": "341,266",
             "latestUpdates": "2024-04-29 00:26:48"
-        },
-        {
-            "author": "任砚卿",
-            "title": "没有人说谎",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=7495619",
-            "genre": "近代现代-悬疑",
-            "status": "完结",
-            "wordCount": "45640字",
-            "credits": "307,485",
-            "latestUpdates": "2024-03-09 12:34:56"
         },
         {
             "author": "左之之之之",
@@ -289,6 +279,16 @@
             "wordCount": "17470字",
             "credits": "303,679",
             "latestUpdates": "2024-04-04 19:47:24"
+        },
+        {
+            "author": "任砚卿",
+            "title": "没有人说谎",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=7495619",
+            "genre": "近代现代-悬疑",
+            "status": "完结",
+            "wordCount": "45640字",
+            "credits": "291,761",
+            "latestUpdates": "2024-03-09 12:34:56"
         },
         {
             "author": "灰皮橘子",
@@ -317,7 +317,7 @@
             "genre": "近代现代-悬疑",
             "status": "连载",
             "wordCount": "26832字",
-            "credits": "220,664",
+            "credits": "201,072",
             "latestUpdates": "2024-03-17 00:10:50"
         },
         {
@@ -327,7 +327,7 @@
             "genre": "近代现代-悬疑",
             "status": "连载",
             "wordCount": "22993字",
-            "credits": "178,842",
+            "credits": "191,593",
             "latestUpdates": "2024-04-08 22:16:41"
         },
         {
@@ -417,7 +417,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "11941字",
-            "credits": "82,936",
+            "credits": "85,449",
             "latestUpdates": "2024-03-12 13:04:29"
         },
         {
@@ -431,5 +431,5 @@
             "latestUpdates": "2024-03-26 22:00:09"
         }
     ],
-    "2024-05-07, 14:25:41 GMT+8"
+    "2024-05-07, 15:24:30 GMT+8"
 ]
