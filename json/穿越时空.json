@@ -197,7 +197,7 @@
             "genre": "架空历史-仙侠",
             "status": "连载",
             "wordCount": "98199字",
-            "credits": "17,951,904",
+            "credits": "19,049,492",
             "latestUpdates": "2024-04-25 18:23:39"
         },
         {
@@ -367,7 +367,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "10082字",
-            "credits": "4,027,633",
+            "credits": "4,042,952",
             "latestUpdates": "2024-03-05 00:13:45"
         },
         {
@@ -447,7 +447,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "103127字",
-            "credits": "1,004,013",
+            "credits": "1,047,880",
             "latestUpdates": "2024-04-27 17:29:00"
         },
         {
@@ -571,16 +571,6 @@
             "latestUpdates": "2024-04-12 21:21:33"
         },
         {
-            "author": "泠色霜",
-            "title": "逆光等雨",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8676599",
-            "genre": "近代现代-游戏",
-            "status": "完结",
-            "wordCount": "43883字",
-            "credits": "238,510",
-            "latestUpdates": "2024-04-02 17:00:00"
-        },
-        {
             "author": "胡萝卜坑",
             "title": "[穿书]女二她想跟妈咪恋爱",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8762372",
@@ -609,6 +599,16 @@
             "wordCount": "16312字",
             "credits": "206,738",
             "latestUpdates": "2024-02-28 09:00:00"
+        },
+        {
+            "author": "泠色霜",
+            "title": "逆光等雨",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8676599",
+            "genre": "近代现代-游戏",
+            "status": "完结",
+            "wordCount": "43883字",
+            "credits": "198,834",
+            "latestUpdates": "2024-04-02 17:00:00"
         },
         {
             "author": "齐6",
@@ -681,16 +681,6 @@
             "latestUpdates": "2024-03-30 15:18:06"
         },
         {
-            "author": "飞鸟易安",
-            "title": "希望之音",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8695599",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "13311字",
-            "credits": "116,166",
-            "latestUpdates": "2024-02-15 23:00:00"
-        },
-        {
             "author": "等了很久的夏天",
             "title": "互扰关系",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8736352",
@@ -721,6 +711,26 @@
             "latestUpdates": "2024-04-13 16:06:18"
         },
         {
+            "author": "飞鸟易安",
+            "title": "希望之音",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8695599",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "13311字",
+            "credits": "101,273",
+            "latestUpdates": "2024-02-15 23:00:00"
+        },
+        {
+            "author": "三杏就是胡思乱想",
+            "title": "《我是女配的生存指南》",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8748389",
+            "genre": "架空历史-仙侠",
+            "status": "连载",
+            "wordCount": "10558字",
+            "credits": "95,246",
+            "latestUpdates": "2024-04-06 20:41:37"
+        },
+        {
             "author": "不配留名",
             "title": "回收旧废品（物穿）",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8771046",
@@ -747,18 +757,8 @@
             "genre": "架空历史-剧情",
             "status": "连载",
             "wordCount": "13577字",
-            "credits": "78,856",
+            "credits": "70,781",
             "latestUpdates": "2024-03-06 21:00:56"
-        },
-        {
-            "author": "三杏就是胡思乱想",
-            "title": "《我是女配的生存指南》",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8748389",
-            "genre": "架空历史-仙侠",
-            "status": "连载",
-            "wordCount": "10558字",
-            "credits": "78,318",
-            "latestUpdates": "2024-04-06 20:41:37"
         },
         {
             "author": "我欲向春山",
@@ -791,5 +791,5 @@
             "latestUpdates": "2024-05-07 22:47:15"
         }
     ],
-    "2024-05-08, 03:15:51 GMT+8"
+    "2024-05-08, 04:15:57 GMT+8"
 ]
