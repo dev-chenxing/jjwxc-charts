@@ -237,7 +237,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "57369字",
-            "credits": "3,400,111",
+            "credits": "3,282,890",
             "latestUpdates": "2024-04-24 16:00:31"
         },
         {
@@ -249,16 +249,6 @@
             "wordCount": "107568字",
             "credits": "2,994,732",
             "latestUpdates": "2024-05-02 14:41:59"
-        },
-        {
-            "author": "那天午后",
-            "title": "影后暗恋我在恋综曝光",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8204385",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "55548字",
-            "credits": "2,922,524",
-            "latestUpdates": "2024-04-22 20:00:10"
         },
         {
             "author": "初又啦啦",
@@ -277,8 +267,18 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "68195字",
-            "credits": "2,479,413",
+            "credits": "2,527,518",
             "latestUpdates": "2024-04-29 18:00:00"
+        },
+        {
+            "author": "那天午后",
+            "title": "影后暗恋我在恋综曝光",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8204385",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "55548字",
+            "credits": "2,275,166",
+            "latestUpdates": "2024-04-22 20:00:10"
         },
         {
             "author": "颜文字烧",
@@ -417,7 +417,7 @@
             "genre": "近代现代-爱情",
             "status": "暂停",
             "wordCount": "16399字",
-            "credits": "230,269",
+            "credits": "227,598",
             "latestUpdates": "2024-04-28 12:25:47"
         },
         {
@@ -447,7 +447,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "23237字",
-            "credits": "186,953",
+            "credits": "164,400",
             "latestUpdates": "2024-03-09 11:44:20"
         },
         {
@@ -501,24 +501,24 @@
             "latestUpdates": "2024-03-26 00:35:25"
         },
         {
-            "author": "零六二壹",
-            "title": "朋友关系",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8704483",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "10166字",
-            "credits": "97,782",
-            "latestUpdates": "2024-02-18 13:22:37"
-        },
-        {
             "author": "黎人歌",
             "title": "制造影后",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8789786",
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "19625字",
-            "credits": "95,314",
+            "credits": "102,443",
             "latestUpdates": "2024-04-03 15:25:23"
+        },
+        {
+            "author": "零六二壹",
+            "title": "朋友关系",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8704483",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "10166字",
+            "credits": "93,583",
+            "latestUpdates": "2024-02-18 13:22:37"
         },
         {
             "author": "淋雨109",
@@ -571,5 +571,5 @@
             "latestUpdates": "2024-04-16 23:09:53"
         }
     ],
-    "2024-05-08, 14:22:13 GMT+8"
+    "2024-05-08, 15:20:44 GMT+8"
 ]
