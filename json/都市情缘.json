@@ -901,16 +901,6 @@
             "latestUpdates": "2024-03-15 16:12:45"
         },
         {
-            "author": "林时安",
-            "title": "柠予",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8707792",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "30078字",
-            "credits": "226,348",
-            "latestUpdates": "2024-02-27 16:14:55"
-        },
-        {
             "author": "巴特芙莱",
             "title": "掰弯大小姐后",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8687372",
@@ -979,6 +969,16 @@
             "wordCount": "37604字",
             "credits": "194,299",
             "latestUpdates": "2024-04-03 16:17:11"
+        },
+        {
+            "author": "林时安",
+            "title": "柠予",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8707792",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "30078字",
+            "credits": "192,856",
+            "latestUpdates": "2024-02-27 16:14:55"
         },
         {
             "author": "夜闲灯落",
@@ -1891,5 +1891,5 @@
             "latestUpdates": "2024-02-14 09:58:16"
         }
     ],
-    "2024-05-09, 19:16:22 GMT+8"
+    "2024-05-09, 20:34:40 GMT+8"
 ]
