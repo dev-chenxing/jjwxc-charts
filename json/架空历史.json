@@ -26,9 +26,9 @@
             "url": "https://www.jjwxc.net/onebook.php?novelid=6106675",
             "genre": "架空历史-仙侠",
             "status": "连载",
-            "wordCount": "222128字",
+            "wordCount": "222227字",
             "credits": "44,773,220",
-            "latestUpdates": "2024-05-09 15:20:20"
+            "latestUpdates": "2024-05-09 21:09:17"
         },
         {
             "author": "竹昭",
@@ -211,6 +211,16 @@
             "latestUpdates": "2024-05-06 00:00:00"
         },
         {
+            "author": "林火无名",
+            "title": "月光神门",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8706859",
+            "genre": "架空历史-仙侠",
+            "status": "连载",
+            "wordCount": "61475字",
+            "credits": "357,159",
+            "latestUpdates": "2024-05-02 12:47:24"
+        },
+        {
             "author": "舟承",
             "title": "迩臣",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8749212",
@@ -219,16 +229,6 @@
             "wordCount": "52767字",
             "credits": "351,631",
             "latestUpdates": "2024-03-22 13:46:23"
-        },
-        {
-            "author": "林火无名",
-            "title": "月光神门",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8706859",
-            "genre": "架空历史-仙侠",
-            "status": "连载",
-            "wordCount": "61475字",
-            "credits": "351,073",
-            "latestUpdates": "2024-05-02 12:47:24"
         },
         {
             "author": "苏闻舒",
@@ -351,16 +351,6 @@
             "latestUpdates": "2024-04-19 20:04:16"
         },
         {
-            "author": "lizinan29",
-            "title": "You finally will be mine",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8496431",
-            "genre": "架空历史-爱情",
-            "status": "连载",
-            "wordCount": "35937字",
-            "credits": "203,573",
-            "latestUpdates": "2024-02-07 21:12:14"
-        },
-        {
             "author": "慕雪思晚",
             "title": "不好啦，大师姐被魔尊拐走了",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8687478",
@@ -369,6 +359,16 @@
             "wordCount": "23937字",
             "credits": "198,432",
             "latestUpdates": "2024-02-26 11:17:59"
+        },
+        {
+            "author": "lizinan29",
+            "title": "You finally will be mine",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8496431",
+            "genre": "架空历史-爱情",
+            "status": "连载",
+            "wordCount": "35937字",
+            "credits": "168,049",
+            "latestUpdates": "2024-02-07 21:12:14"
         },
         {
             "author": "御怀卿",
@@ -671,5 +671,5 @@
             "latestUpdates": "2024-04-26 23:41:11"
         }
     ],
-    "2024-05-09, 20:34:31 GMT+8"
+    "2024-05-09, 21:22:39 GMT+8"
 ]

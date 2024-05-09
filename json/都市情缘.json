@@ -156,9 +156,9 @@
             "url": "https://www.jjwxc.net/onebook.php?novelid=8760594",
             "genre": "近代现代-爱情",
             "status": "连载",
-            "wordCount": "441429字",
+            "wordCount": "441551字",
             "credits": "3,473,509",
-            "latestUpdates": "2024-05-09 16:41:54"
+            "latestUpdates": "2024-05-09 20:36:34"
         },
         {
             "author": "祈荒",
@@ -591,16 +591,6 @@
             "latestUpdates": "2024-05-04 14:02:44"
         },
         {
-            "author": "九节111",
-            "title": "蝉",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8705006",
-            "genre": "近代现代-爱情",
-            "status": "完结",
-            "wordCount": "50732字",
-            "credits": "409,295",
-            "latestUpdates": "2024-03-08 21:00:00"
-        },
-        {
             "author": "yionee",
             "title": "半杯烈酒",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8648340",
@@ -619,6 +609,16 @@
             "wordCount": "48116字",
             "credits": "385,348",
             "latestUpdates": "2024-05-09 08:38:40"
+        },
+        {
+            "author": "九节111",
+            "title": "蝉",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8705006",
+            "genre": "近代现代-爱情",
+            "status": "完结",
+            "wordCount": "50732字",
+            "credits": "373,344",
+            "latestUpdates": "2024-03-08 21:00:00"
         },
         {
             "author": "亦周",
@@ -1891,5 +1891,5 @@
             "latestUpdates": "2024-02-14 09:58:16"
         }
     ],
-    "2024-05-09, 20:34:40 GMT+8"
+    "2024-05-09, 21:22:46 GMT+8"
 ]
