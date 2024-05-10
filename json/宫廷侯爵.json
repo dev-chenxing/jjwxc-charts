@@ -117,7 +117,7 @@
             "genre": "架空历史-剧情",
             "status": "连载",
             "wordCount": "29817字",
-            "credits": "454,869",
+            "credits": "426,541",
             "latestUpdates": "2024-03-03 23:40:51"
         },
         {
@@ -147,7 +147,7 @@
             "genre": "架空历史-爱情",
             "status": "连载",
             "wordCount": "31695字",
-            "credits": "269,457",
+            "credits": "259,917",
             "latestUpdates": "2024-05-08 20:15:00"
         },
         {
@@ -187,18 +187,8 @@
             "genre": "架空历史-爱情",
             "status": "连载",
             "wordCount": "16013字",
-            "credits": "141,624",
+            "credits": "144,287",
             "latestUpdates": "2024-03-23 10:20:23"
-        },
-        {
-            "author": "云如华",
-            "title": "孤云已上",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8689697",
-            "genre": "架空历史-爱情",
-            "status": "连载",
-            "wordCount": "16698字",
-            "credits": "136,172",
-            "latestUpdates": "2024-02-23 18:00:00"
         },
         {
             "author": "逆位的星星",
@@ -207,8 +197,18 @@
             "genre": "架空历史-剧情",
             "status": "连载",
             "wordCount": "25488字",
-            "credits": "103,907",
+            "credits": "138,388",
             "latestUpdates": "2024-03-27 15:42:48"
+        },
+        {
+            "author": "云如华",
+            "title": "孤云已上",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8689697",
+            "genre": "架空历史-爱情",
+            "status": "连载",
+            "wordCount": "16698字",
+            "credits": "128,556",
+            "latestUpdates": "2024-02-23 18:00:00"
         },
         {
             "author": "心拾",
@@ -231,5 +231,5 @@
             "latestUpdates": "2024-03-14 02:37:32"
         }
     ],
-    "2024-05-11, 03:17:27 GMT+8"
+    "2024-05-11, 04:19:03 GMT+8"
 ]

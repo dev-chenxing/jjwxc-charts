@@ -106,19 +106,9 @@
             "url": "https://www.jjwxc.net/onebook.php?novelid=7324975",
             "genre": "近代现代-剧情",
             "status": "连载",
-            "wordCount": "85466字",
+            "wordCount": "88472字",
             "credits": "3,629,478",
-            "latestUpdates": "2024-05-10 04:00:00"
-        },
-        {
-            "author": "一山钩月",
-            "title": "［悬疑解密］夜蛾",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8730637",
-            "genre": "近代现代-悬疑",
-            "status": "连载",
-            "wordCount": "56755字",
-            "credits": "3,503,042",
-            "latestUpdates": "2024-05-01 23:51:31"
+            "latestUpdates": "2024-05-11 04:00:00"
         },
         {
             "author": "清舞莉扬",
@@ -127,8 +117,18 @@
             "genre": "近代现代-爱情",
             "status": "完结",
             "wordCount": "130788字",
-            "credits": "3,465,313",
+            "credits": "3,544,706",
             "latestUpdates": "2024-05-08 16:14:11"
+        },
+        {
+            "author": "一山钩月",
+            "title": "［悬疑解密］夜蛾",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8730637",
+            "genre": "近代现代-悬疑",
+            "status": "连载",
+            "wordCount": "56755字",
+            "credits": "3,537,629",
+            "latestUpdates": "2024-05-01 23:51:31"
         },
         {
             "author": "盐系排骨",
@@ -137,7 +137,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "63323字",
-            "credits": "1,694,820",
+            "credits": "1,687,220",
             "latestUpdates": "2024-03-30 00:00:00"
         },
         {
@@ -267,7 +267,7 @@
             "genre": "近代现代-悬疑",
             "status": "连载",
             "wordCount": "26832字",
-            "credits": "220,664",
+            "credits": "201,072",
             "latestUpdates": "2024-03-17 00:10:50"
         },
         {
@@ -277,7 +277,7 @@
             "genre": "近代现代-悬疑",
             "status": "连载",
             "wordCount": "22993字",
-            "credits": "216,637",
+            "credits": "178,842",
             "latestUpdates": "2024-04-08 22:16:41"
         },
         {
@@ -361,16 +361,6 @@
             "latestUpdates": "2024-03-02 19:54:00"
         },
         {
-            "author": "云寒烟",
-            "title": "赛车之吻",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8767161",
-            "genre": "近代现代-剧情",
-            "status": "连载",
-            "wordCount": "11494字",
-            "credits": "90,817",
-            "latestUpdates": "2024-03-26 22:00:09"
-        },
-        {
             "author": "憨憨挠头",
             "title": "绝密档案",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8737344",
@@ -387,9 +377,19 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "11941字",
-            "credits": "82,936",
+            "credits": "85,449",
             "latestUpdates": "2024-03-12 13:04:29"
+        },
+        {
+            "author": "云寒烟",
+            "title": "赛车之吻",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8767161",
+            "genre": "近代现代-剧情",
+            "status": "连载",
+            "wordCount": "11494字",
+            "credits": "79,820",
+            "latestUpdates": "2024-03-26 22:00:09"
         }
     ],
-    "2024-05-11, 03:17:29 GMT+8"
+    "2024-05-11, 04:19:06 GMT+8"
 ]
