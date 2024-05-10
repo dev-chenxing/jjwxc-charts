@@ -127,7 +127,7 @@
             "genre": "架空历史-仙侠",
             "status": "连载",
             "wordCount": "92442字",
-            "credits": "637,855",
+            "credits": "677,532",
             "latestUpdates": "2024-04-27 23:40:45"
         },
         {
@@ -207,18 +207,8 @@
             "genre": "架空历史-爱情",
             "status": "连载",
             "wordCount": "16013字",
-            "credits": "144,287",
+            "credits": "141,624",
             "latestUpdates": "2024-03-23 10:20:23"
-        },
-        {
-            "author": "逆位的星星",
-            "title": "皇后请自重",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8765551",
-            "genre": "架空历史-剧情",
-            "status": "连载",
-            "wordCount": "25488字",
-            "credits": "138,388",
-            "latestUpdates": "2024-03-27 15:42:48"
         },
         {
             "author": "云如华",
@@ -229,6 +219,16 @@
             "wordCount": "16698字",
             "credits": "136,172",
             "latestUpdates": "2024-02-23 18:00:00"
+        },
+        {
+            "author": "逆位的星星",
+            "title": "皇后请自重",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8765551",
+            "genre": "架空历史-剧情",
+            "status": "连载",
+            "wordCount": "25488字",
+            "credits": "103,907",
+            "latestUpdates": "2024-03-27 15:42:48"
         },
         {
             "author": "雾散残余",
@@ -261,5 +261,5 @@
             "latestUpdates": "2024-03-14 02:37:32"
         }
     ],
-    "2024-05-10, 12:22:11 GMT+8"
+    "2024-05-10, 13:18:19 GMT+8"
 ]
