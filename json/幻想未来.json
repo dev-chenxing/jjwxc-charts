@@ -116,9 +116,9 @@
             "url": "https://www.jjwxc.net/onebook.php?novelid=8627902",
             "genre": "幻想未来-剧情",
             "status": "连载",
-            "wordCount": "98606字",
+            "wordCount": "101698字",
             "credits": "4,905,722",
-            "latestUpdates": "2024-05-10 19:00:00"
+            "latestUpdates": "2024-05-11 19:00:00"
         },
         {
             "author": "孤灯一盏明",
@@ -137,7 +137,7 @@
             "genre": "幻想未来-爱情",
             "status": "连载",
             "wordCount": "52124字",
-            "credits": "3,014,851",
+            "credits": "2,884,975",
             "latestUpdates": "2024-03-27 23:52:24"
         },
         {
@@ -167,7 +167,7 @@
             "genre": "幻想未来-爱情",
             "status": "连载",
             "wordCount": "84846字",
-            "credits": "2,078,404",
+            "credits": "2,029,367",
             "latestUpdates": "2024-04-24 15:00:00"
         },
         {
@@ -297,7 +297,7 @@
             "genre": "古色古香-奇幻",
             "status": "连载",
             "wordCount": "44212字",
-            "credits": "390,058",
+            "credits": "394,279",
             "latestUpdates": "2024-02-20 11:48:04"
         },
         {
@@ -341,6 +341,16 @@
             "latestUpdates": "2024-02-22 12:30:53"
         },
         {
+            "author": "恩巨人1",
+            "title": "五百年之后",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8731344",
+            "genre": "幻想未来-科幻",
+            "status": "连载",
+            "wordCount": "39598字",
+            "credits": "317,957",
+            "latestUpdates": "2024-04-13 09:36:41"
+        },
+        {
             "author": "土豆两勺",
             "title": "青白眼",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8728550",
@@ -377,18 +387,8 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "21703字",
-            "credits": "259,942",
+            "credits": "263,254",
             "latestUpdates": "2024-02-28 07:36:47"
-        },
-        {
-            "author": "恩巨人1",
-            "title": "五百年之后",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8731344",
-            "genre": "幻想未来-科幻",
-            "status": "连载",
-            "wordCount": "39598字",
-            "credits": "258,623",
-            "latestUpdates": "2024-04-13 09:36:41"
         },
         {
             "author": "有幽幽幽",
@@ -477,7 +477,7 @@
             "genre": "幻想未来-爱情",
             "status": "连载",
             "wordCount": "20807字",
-            "credits": "143,384",
+            "credits": "143,910",
             "latestUpdates": "2024-03-31 15:40:00"
         },
         {
@@ -527,7 +527,7 @@
             "genre": "幻想未来-爱情",
             "status": "连载",
             "wordCount": "29168字",
-            "credits": "129,688",
+            "credits": "130,119",
             "latestUpdates": "2024-04-07 00:00:45"
         },
         {
@@ -681,5 +681,5 @@
             "latestUpdates": "2024-03-03 23:13:03"
         }
     ],
-    "2024-05-11, 18:20:08 GMT+8"
+    "2024-05-11, 19:14:49 GMT+8"
 ]
