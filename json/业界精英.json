@@ -57,7 +57,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "45416字",
-            "credits": "33,830,960",
+            "credits": "33,860,964",
             "latestUpdates": "2024-03-25 12:16:31"
         },
         {
@@ -87,7 +87,7 @@
             "genre": "近代现代-爱情",
             "status": "完结",
             "wordCount": "96470字",
-            "credits": "9,636,733",
+            "credits": "10,022,870",
             "latestUpdates": "2024-04-20 06:59:11"
         },
         {
@@ -117,7 +117,7 @@
             "genre": "近代现代-悬疑",
             "status": "连载",
             "wordCount": "56755字",
-            "credits": "3,503,042",
+            "credits": "3,645,367",
             "latestUpdates": "2024-05-01 23:51:31"
         },
         {
@@ -137,7 +137,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "63323字",
-            "credits": "1,679,786",
+            "credits": "1,649,977",
             "latestUpdates": "2024-03-30 00:00:00"
         },
         {
@@ -187,7 +187,7 @@
             "genre": "近代现代-悬疑",
             "status": "连载",
             "wordCount": "248937字",
-            "credits": "567,207",
+            "credits": "603,002",
             "latestUpdates": "2024-04-20 17:00:17"
         },
         {
@@ -237,7 +237,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "17470字",
-            "credits": "307,615",
+            "credits": "303,653",
             "latestUpdates": "2024-04-04 19:47:24"
         },
         {
@@ -251,34 +251,24 @@
             "latestUpdates": "2024-03-09 12:34:56"
         },
         {
-            "author": "灰皮橘子",
-            "title": "丛林法则",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8730023",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "34826字",
-            "credits": "285,560",
-            "latestUpdates": "2024-03-25 23:20:01"
-        },
-        {
             "author": "妖精绘梦",
             "title": "至少我们相爱过",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8732541",
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "29447字",
-            "credits": "263,007",
+            "credits": "263,727",
             "latestUpdates": "2024-05-10 01:19:06"
         },
         {
-            "author": "宋时年",
-            "title": "逆光而行",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8796634",
-            "genre": "近代现代-悬疑",
+            "author": "灰皮橘子",
+            "title": "丛林法则",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8730023",
+            "genre": "近代现代-爱情",
             "status": "连载",
-            "wordCount": "22993字",
-            "credits": "216,637",
-            "latestUpdates": "2024-04-08 22:16:41"
+            "wordCount": "34826字",
+            "credits": "261,245",
+            "latestUpdates": "2024-03-25 23:20:01"
         },
         {
             "author": "一叶鹤知秋",
@@ -287,7 +277,7 @@
             "genre": "近代现代-悬疑",
             "status": "连载",
             "wordCount": "26832字",
-            "credits": "172,046",
+            "credits": "220,664",
             "latestUpdates": "2024-03-17 00:10:50"
         },
         {
@@ -331,6 +321,16 @@
             "latestUpdates": "2024-05-05 23:36:55"
         },
         {
+            "author": "宋时年",
+            "title": "逆光而行",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8796634",
+            "genre": "近代现代-悬疑",
+            "status": "连载",
+            "wordCount": "22993字",
+            "credits": "157,663",
+            "latestUpdates": "2024-04-08 22:16:41"
+        },
+        {
             "author": "chan777",
             "title": "合集",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8730162",
@@ -347,7 +347,7 @@
             "genre": "近代现代-剧情",
             "status": "连载",
             "wordCount": "17022字",
-            "credits": "132,681",
+            "credits": "134,208",
             "latestUpdates": "2024-02-28 23:55:49"
         },
         {
@@ -421,5 +421,5 @@
             "latestUpdates": "2024-03-13 19:15:35"
         }
     ],
-    "2024-05-11, 21:18:58 GMT+8"
+    "2024-05-11, 22:17:13 GMT+8"
 ]
