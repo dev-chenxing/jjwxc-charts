@@ -46,9 +46,9 @@
             "url": "https://www.jjwxc.net/onebook.php?novelid=6443906",
             "genre": "近代现代-爱情",
             "status": "连载",
-            "wordCount": "193755字",
+            "wordCount": "197950字",
             "credits": "53,441,896",
-            "latestUpdates": "2024-05-10 21:00:00"
+            "latestUpdates": "2024-05-11 21:00:00"
         },
         {
             "author": "狗狗吃骨头",
@@ -116,9 +116,19 @@
             "url": "https://www.jjwxc.net/onebook.php?novelid=6301757",
             "genre": "近代现代-爱情",
             "status": "连载",
-            "wordCount": "160931字",
-            "credits": "16,008,910",
-            "latestUpdates": "2024-05-10 21:00:00"
+            "wordCount": "165203字",
+            "credits": "16,536,011",
+            "latestUpdates": "2024-05-11 21:00:00"
+        },
+        {
+            "author": "小胖蹲",
+            "title": "是弯的，来扰",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=6652191",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "280687字",
+            "credits": "13,727,346",
+            "latestUpdates": "2024-05-11 21:00:00"
         },
         {
             "author": "艾叶英",
@@ -127,18 +137,8 @@
             "genre": "近代现代-爱情",
             "status": "完结",
             "wordCount": "226436字",
-            "credits": "14,878,954",
+            "credits": "13,431,547",
             "latestUpdates": "2024-04-15 20:57:06"
-        },
-        {
-            "author": "小胖蹲",
-            "title": "是弯的，来扰",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=6652191",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "277471字",
-            "credits": "13,613,206",
-            "latestUpdates": "2024-05-10 21:00:00"
         },
         {
             "author": "春淮月",
@@ -196,9 +196,9 @@
             "url": "https://www.jjwxc.net/onebook.php?novelid=8602069",
             "genre": "近代现代-爱情",
             "status": "连载",
-            "wordCount": "136502字",
-            "credits": "4,203,919",
-            "latestUpdates": "2024-05-10 21:00:01"
+            "wordCount": "140295字",
+            "credits": "4,298,031",
+            "latestUpdates": "2024-05-11 21:00:01"
         },
         {
             "author": "上帝不掷骰子",
@@ -266,9 +266,9 @@
             "url": "https://www.jjwxc.net/onebook.php?novelid=8790256",
             "genre": "近代现代-爱情",
             "status": "连载",
-            "wordCount": "78050字",
-            "credits": "2,626,304",
-            "latestUpdates": "2024-05-08 21:13:05"
+            "wordCount": "80136字",
+            "credits": "2,661,016",
+            "latestUpdates": "2024-05-11 20:47:07"
         },
         {
             "author": "慕之山",
@@ -541,5 +541,5 @@
             "latestUpdates": "2024-04-16 23:09:53"
         }
     ],
-    "2024-05-11, 20:33:29 GMT+8"
+    "2024-05-11, 21:19:02 GMT+8"
 ]

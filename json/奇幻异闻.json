@@ -36,9 +36,9 @@
             "url": "https://www.jjwxc.net/onebook.php?novelid=8541940",
             "genre": "近代现代-爱情",
             "status": "连载",
-            "wordCount": "17700字",
-            "credits": "22,147,112",
-            "latestUpdates": "2024-05-11 15:00:50"
+            "wordCount": "19951字",
+            "credits": "22,149,436",
+            "latestUpdates": "2024-05-11 21:00:00"
         },
         {
             "author": "半十",
@@ -167,7 +167,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "45172字",
-            "credits": "5,404,304",
+            "credits": "5,471,938",
             "latestUpdates": "2024-05-08 22:48:07"
         },
         {
@@ -256,9 +256,9 @@
             "url": "https://www.jjwxc.net/onebook.php?novelid=8823933",
             "genre": "架空历史-奇幻",
             "status": "连载",
-            "wordCount": "95121字",
+            "wordCount": "94491字",
             "credits": "3,061,370",
-            "latestUpdates": "2024-05-11 20:29:14"
+            "latestUpdates": "2024-05-11 21:16:17"
         },
         {
             "author": "池萤",
@@ -286,9 +286,9 @@
             "url": "https://www.jjwxc.net/onebook.php?novelid=8825945",
             "genre": "近代现代-奇幻",
             "status": "连载",
-            "wordCount": "274472字",
+            "wordCount": "274474字",
             "credits": "2,320,994",
-            "latestUpdates": "2024-05-11 15:58:08"
+            "latestUpdates": "2024-05-11 20:56:17"
         },
         {
             "author": "江白杳杳",
@@ -771,16 +771,6 @@
             "latestUpdates": "2024-03-24 21:11:04"
         },
         {
-            "author": "鱼木又",
-            "title": "小师妹她超勇的",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8819361",
-            "genre": "架空历史-奇幻",
-            "status": "连载",
-            "wordCount": "16198字",
-            "credits": "124,886",
-            "latestUpdates": "2024-04-09 23:05:35"
-        },
-        {
             "author": "好有道理",
             "title": "无限游戏试炼中",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8751053",
@@ -911,6 +901,16 @@
             "latestUpdates": "2024-05-04 01:00:00"
         },
         {
+            "author": "鱼木又",
+            "title": "小师妹她超勇的",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8819361",
+            "genre": "架空历史-奇幻",
+            "status": "连载",
+            "wordCount": "16198字",
+            "credits": "82,341",
+            "latestUpdates": "2024-04-09 23:05:35"
+        },
+        {
             "author": "一只银狼",
             "title": "鹤观",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8755103",
@@ -971,16 +971,6 @@
             "latestUpdates": "2024-04-01 22:22:13"
         },
         {
-            "author": "RozViolet",
-            "title": "缄默歌剧",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8714507",
-            "genre": "架空历史-爱情",
-            "status": "连载",
-            "wordCount": "10034字",
-            "credits": "73,536",
-            "latestUpdates": "2024-02-23 23:16:47"
-        },
-        {
             "author": "水尾栖",
             "title": "谁懂？穿进噩梦疯狂追妻！",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8748455",
@@ -989,6 +979,16 @@
             "wordCount": "13106字",
             "credits": "72,557",
             "latestUpdates": "2024-03-18 03:26:39"
+        },
+        {
+            "author": "RozViolet",
+            "title": "缄默歌剧",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8714507",
+            "genre": "架空历史-爱情",
+            "status": "连载",
+            "wordCount": "10034字",
+            "credits": "70,587",
+            "latestUpdates": "2024-02-23 23:16:47"
         },
         {
             "author": "长惜木",
@@ -1081,5 +1081,5 @@
             "latestUpdates": "2024-03-15 22:00:18"
         }
     ],
-    "2024-05-11, 20:33:36 GMT+8"
+    "2024-05-11, 21:19:09 GMT+8"
 ]
