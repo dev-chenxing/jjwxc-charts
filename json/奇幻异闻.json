@@ -207,7 +207,7 @@
             "genre": "近代现代-剧情",
             "status": "完结",
             "wordCount": "87863字",
-            "credits": "4,040,146",
+            "credits": "3,879,912",
             "latestUpdates": "2024-04-07 01:10:10"
         },
         {
@@ -227,7 +227,7 @@
             "genre": "近代现代-奇幻",
             "status": "连载",
             "wordCount": "74409字",
-            "credits": "3,425,922",
+            "credits": "3,416,953",
             "latestUpdates": "2024-04-10 00:00:00"
         },
         {
@@ -267,7 +267,7 @@
             "genre": "架空历史-剧情",
             "status": "连载",
             "wordCount": "68068字",
-            "credits": "2,440,194",
+            "credits": "2,496,720",
             "latestUpdates": "2024-04-22 17:17:45"
         },
         {
@@ -307,7 +307,7 @@
             "genre": "幻想未来-爱情",
             "status": "连载",
             "wordCount": "136380字",
-            "credits": "1,709,295",
+            "credits": "1,661,327",
             "latestUpdates": "2024-04-23 01:01:43"
         },
         {
@@ -391,6 +391,16 @@
             "latestUpdates": "2024-05-08 21:52:51"
         },
         {
+            "author": "躺零的幻想",
+            "title": "穿成血族恶劣千金储备粮",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8756728",
+            "genre": "架空历史-奇幻",
+            "status": "连载",
+            "wordCount": "77302字",
+            "credits": "816,689",
+            "latestUpdates": "2024-05-08 00:43:34"
+        },
+        {
             "author": "玉岭北",
             "title": "玫瑰水雾",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8729630",
@@ -399,16 +409,6 @@
             "wordCount": "36729字",
             "credits": "796,939",
             "latestUpdates": "2024-03-26 00:32:54"
-        },
-        {
-            "author": "躺零的幻想",
-            "title": "穿成血族恶劣千金储备粮",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8756728",
-            "genre": "架空历史-奇幻",
-            "status": "连载",
-            "wordCount": "77302字",
-            "credits": "775,340",
-            "latestUpdates": "2024-05-08 00:43:34"
         },
         {
             "author": "穗时",
@@ -441,16 +441,6 @@
             "latestUpdates": "2024-05-07 09:39:33"
         },
         {
-            "author": "漫浪星",
-            "title": "分手后，美人鱼上岸了",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8691758",
-            "genre": "近代现代-奇幻",
-            "status": "连载",
-            "wordCount": "13266字",
-            "credits": "516,524",
-            "latestUpdates": "2024-02-18 23:00:00"
-        },
-        {
             "author": "琚光",
             "title": "山河飞鸟记",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8696420",
@@ -459,6 +449,16 @@
             "wordCount": "27317字",
             "credits": "511,972",
             "latestUpdates": "2024-05-10 09:50:34"
+        },
+        {
+            "author": "漫浪星",
+            "title": "分手后，美人鱼上岸了",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8691758",
+            "genre": "近代现代-奇幻",
+            "status": "连载",
+            "wordCount": "13266字",
+            "credits": "482,396",
+            "latestUpdates": "2024-02-18 23:00:00"
         },
         {
             "author": "姜祁之",
@@ -527,7 +527,7 @@
             "genre": "近代现代-惊悚",
             "status": "连载",
             "wordCount": "32940字",
-            "credits": "305,776",
+            "credits": "306,214",
             "latestUpdates": "2024-03-03 17:43:47"
         },
         {
@@ -557,7 +557,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "28916字",
-            "credits": "249,795",
+            "credits": "246,180",
             "latestUpdates": "2024-03-09 11:11:33"
         },
         {
@@ -587,18 +587,8 @@
             "genre": "架空历史-仙侠",
             "status": "连载",
             "wordCount": "26321字",
-            "credits": "220,585",
+            "credits": "214,253",
             "latestUpdates": "2024-02-19 21:13:04"
-        },
-        {
-            "author": "米拉妮",
-            "title": "牙医谋杀案",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8771116",
-            "genre": "架空历史-悬疑",
-            "status": "连载",
-            "wordCount": "45953字",
-            "credits": "216,103",
-            "latestUpdates": "2024-03-20 13:59:33"
         },
         {
             "author": "长明渐冷",
@@ -629,6 +619,16 @@
             "wordCount": "35350字",
             "credits": "195,800",
             "latestUpdates": "2024-05-05 15:55:03"
+        },
+        {
+            "author": "米拉妮",
+            "title": "牙医谋杀案",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8771116",
+            "genre": "架空历史-悬疑",
+            "status": "连载",
+            "wordCount": "45953字",
+            "credits": "195,114",
+            "latestUpdates": "2024-03-20 13:59:33"
         },
         {
             "author": "酒酿冰淇淋",
@@ -691,6 +691,16 @@
             "latestUpdates": "2024-03-05 09:23:11"
         },
         {
+            "author": "左肩蝶舞",
+            "title": "她过分漂亮",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8698621",
+            "genre": "架空历史-爱情",
+            "status": "连载",
+            "wordCount": "14475字",
+            "credits": "148,696",
+            "latestUpdates": "2024-03-04 11:49:02"
+        },
+        {
             "author": "我的爱妻",
             "title": "失忆后被捡走了",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8711157",
@@ -699,16 +709,6 @@
             "wordCount": "17951字",
             "credits": "148,358",
             "latestUpdates": "2024-05-11 21:42:39"
-        },
-        {
-            "author": "左肩蝶舞",
-            "title": "她过分漂亮",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8698621",
-            "genre": "架空历史-爱情",
-            "status": "连载",
-            "wordCount": "14475字",
-            "credits": "146,541",
-            "latestUpdates": "2024-03-04 11:49:02"
         },
         {
             "author": "千雲嫭伊",
@@ -737,18 +737,8 @@
             "genre": "近代现代-奇幻",
             "status": "连载",
             "wordCount": "29610字",
-            "credits": "141,507",
+            "credits": "140,678",
             "latestUpdates": "2024-04-27 09:10:09"
-        },
-        {
-            "author": "榆木容",
-            "title": "埃维尔阁下",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8574436",
-            "genre": "架空历史-奇幻",
-            "status": "连载",
-            "wordCount": "20094字",
-            "credits": "141,256",
-            "latestUpdates": "2024-03-24 21:09:29"
         },
         {
             "author": "52_BLUE",
@@ -807,7 +797,7 @@
             "genre": "架空历史-奇幻",
             "status": "连载",
             "wordCount": "13383字",
-            "credits": "126,508",
+            "credits": "122,437",
             "latestUpdates": "2024-03-27 17:11:24"
         },
         {
@@ -861,13 +851,23 @@
             "latestUpdates": "2024-05-03 20:02:15"
         },
         {
+            "author": "榆木容",
+            "title": "埃维尔阁下",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8574436",
+            "genre": "架空历史-奇幻",
+            "status": "连载",
+            "wordCount": "20094字",
+            "credits": "107,333",
+            "latestUpdates": "2024-03-24 21:09:29"
+        },
+        {
             "author": "我醉卿且去",
             "title": "皎珑传",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8771000",
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "12644字",
-            "credits": "106,949",
+            "credits": "107,253",
             "latestUpdates": "2024-04-29 06:06:56"
         },
         {
@@ -927,7 +927,7 @@
             "genre": "近代现代-惊悚",
             "status": "连载",
             "wordCount": "10730字",
-            "credits": "93,741",
+            "credits": "92,972",
             "latestUpdates": "2024-03-10 23:22:45"
         },
         {
@@ -939,16 +939,6 @@
             "wordCount": "12779字",
             "credits": "92,714",
             "latestUpdates": "2024-03-31 21:37:08"
-        },
-        {
-            "author": "鵺煜祁",
-            "title": "丫鬟能拯救女主不陷入坏结局吗？",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8752699",
-            "genre": "架空历史-爱情",
-            "status": "连载",
-            "wordCount": "10169字",
-            "credits": "91,243",
-            "latestUpdates": "2024-04-10 04:25:46"
         },
         {
             "author": "顾离枝liii",
@@ -987,7 +977,7 @@
             "genre": "近代现代-剧情",
             "status": "连载",
             "wordCount": "11166字",
-            "credits": "82,699",
+            "credits": "82,389",
             "latestUpdates": "2024-03-06 00:56:16"
         },
         {
@@ -997,8 +987,18 @@
             "genre": "幻想未来-惊悚",
             "status": "连载",
             "wordCount": "10146字",
-            "credits": "80,262",
+            "credits": "79,082",
             "latestUpdates": "2024-03-13 19:11:56"
+        },
+        {
+            "author": "鵺煜祁",
+            "title": "丫鬟能拯救女主不陷入坏结局吗？",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8752699",
+            "genre": "架空历史-爱情",
+            "status": "连载",
+            "wordCount": "10169字",
+            "credits": "77,400",
+            "latestUpdates": "2024-04-10 04:25:46"
         },
         {
             "author": "阿木辞",
@@ -1007,7 +1007,7 @@
             "genre": "近代现代-剧情",
             "status": "连载",
             "wordCount": "15771字",
-            "credits": "75,248",
+            "credits": "75,002",
             "latestUpdates": "2024-04-01 22:22:13"
         },
         {
@@ -1097,9 +1097,9 @@
             "genre": "近代现代-奇幻",
             "status": "连载",
             "wordCount": "11000字",
-            "credits": "28,623",
+            "credits": "36,816",
             "latestUpdates": "2024-03-15 22:00:18"
         }
     ],
-    "2024-05-12, 05:18:02 GMT+8"
+    "2024-05-12, 06:16:55 GMT+8"
 ]

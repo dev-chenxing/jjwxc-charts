@@ -156,9 +156,9 @@
             "url": "https://www.jjwxc.net/onebook.php?novelid=8702637",
             "genre": "近代现代-爱情",
             "status": "连载",
-            "wordCount": "249280字",
+            "wordCount": "249282字",
             "credits": "9,796,074",
-            "latestUpdates": "2024-05-12 00:01:10"
+            "latestUpdates": "2024-05-12 05:52:54"
         },
         {
             "author": "卿倚梁幔",
@@ -187,7 +187,7 @@
             "genre": "近代现代-爱情",
             "status": "完结",
             "wordCount": "107944字",
-            "credits": "5,791,649",
+            "credits": "5,807,447",
             "latestUpdates": "2024-03-25 06:18:51"
         },
         {
@@ -331,16 +331,6 @@
             "latestUpdates": "2024-05-08 17:55:00"
         },
         {
-            "author": "二十一吧唧",
-            "title": "明明如月，何时可掇",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8451235",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "120902字",
-            "credits": "1,132,092",
-            "latestUpdates": "2024-04-22 00:18:49"
-        },
-        {
             "author": "十千岁",
             "title": "余生予你",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8811812",
@@ -349,6 +339,16 @@
             "wordCount": "145327字",
             "credits": "1,072,117",
             "latestUpdates": "2024-05-05 22:57:00"
+        },
+        {
+            "author": "二十一吧唧",
+            "title": "明明如月，何时可掇",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8451235",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "120902字",
+            "credits": "1,055,571",
+            "latestUpdates": "2024-04-22 00:18:49"
         },
         {
             "author": "致宁M",
@@ -447,8 +447,18 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "23237字",
-            "credits": "164,400",
+            "credits": "186,953",
             "latestUpdates": "2024-03-09 11:44:20"
+        },
+        {
+            "author": "凡心入俗",
+            "title": "先爱后婚",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8698182",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "12612字",
+            "credits": "154,860",
+            "latestUpdates": "2024-03-16 10:37:04"
         },
         {
             "author": "巧克力封封",
@@ -459,16 +469,6 @@
             "wordCount": "22808字",
             "credits": "137,484",
             "latestUpdates": "2024-04-17 19:13:17"
-        },
-        {
-            "author": "凡心入俗",
-            "title": "先爱后婚",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8698182",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "12612字",
-            "credits": "136,556",
-            "latestUpdates": "2024-03-16 10:37:04"
         },
         {
             "author": "雨藏",
@@ -501,6 +501,16 @@
             "latestUpdates": "2024-03-26 00:35:25"
         },
         {
+            "author": "黎人歌",
+            "title": "制造影后",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8789786",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "19625字",
+            "credits": "102,443",
+            "latestUpdates": "2024-04-03 15:25:23"
+        },
+        {
             "author": "零六二壹",
             "title": "朋友关系",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8704483",
@@ -509,16 +519,6 @@
             "wordCount": "10166字",
             "credits": "97,782",
             "latestUpdates": "2024-02-18 13:22:37"
-        },
-        {
-            "author": "黎人歌",
-            "title": "制造影后",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8789786",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "19625字",
-            "credits": "95,314",
-            "latestUpdates": "2024-04-03 15:25:23"
         },
         {
             "author": "江久109",
@@ -571,5 +571,5 @@
             "latestUpdates": "2024-04-16 23:09:53"
         }
     ],
-    "2024-05-12, 05:17:59 GMT+8"
+    "2024-05-12, 06:16:53 GMT+8"
 ]
