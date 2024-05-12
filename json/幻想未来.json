@@ -87,7 +87,7 @@
             "genre": "幻想未来-爱情",
             "status": "连载",
             "wordCount": "12785字",
-            "credits": "19,478,184",
+            "credits": "19,225,416",
             "latestUpdates": "2024-04-10 09:00:00"
         },
         {
@@ -97,7 +97,7 @@
             "genre": "幻想未来-爱情",
             "status": "连载",
             "wordCount": "79882字",
-            "credits": "6,199,521",
+            "credits": "6,009,530",
             "latestUpdates": "2024-04-21 19:39:26"
         },
         {
@@ -137,7 +137,7 @@
             "genre": "幻想未来-爱情",
             "status": "连载",
             "wordCount": "52124字",
-            "credits": "3,173,452",
+            "credits": "3,014,851",
             "latestUpdates": "2024-03-27 23:52:24"
         },
         {
@@ -247,7 +247,7 @@
             "genre": "幻想未来-爱情",
             "status": "连载",
             "wordCount": "85009字",
-            "credits": "641,275",
+            "credits": "693,487",
             "latestUpdates": "2024-04-24 00:00:00"
         },
         {
@@ -287,7 +287,7 @@
             "genre": "近代现代-剧情",
             "status": "连载",
             "wordCount": "10244字",
-            "credits": "459,472",
+            "credits": "459,074",
             "latestUpdates": "2024-03-29 09:00:00"
         },
         {
@@ -297,7 +297,7 @@
             "genre": "古色古香-奇幻",
             "status": "连载",
             "wordCount": "44212字",
-            "credits": "394,279",
+            "credits": "390,058",
             "latestUpdates": "2024-02-20 11:48:04"
         },
         {
@@ -341,13 +341,23 @@
             "latestUpdates": "2024-02-22 12:30:53"
         },
         {
+            "author": "恩巨人1",
+            "title": "五百年之后",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8731344",
+            "genre": "幻想未来-科幻",
+            "status": "连载",
+            "wordCount": "39598字",
+            "credits": "317,957",
+            "latestUpdates": "2024-04-13 09:36:41"
+        },
+        {
             "author": "天清晏回",
             "title": "异想天开",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8741776",
             "genre": "幻想未来-科幻",
             "status": "连载",
             "wordCount": "41798字",
-            "credits": "289,004",
+            "credits": "304,392",
             "latestUpdates": "2024-04-11 00:08:04"
         },
         {
@@ -357,7 +367,7 @@
             "genre": "幻想未来-仙侠",
             "status": "连载",
             "wordCount": "36845字",
-            "credits": "281,749",
+            "credits": "287,863",
             "latestUpdates": "2024-03-08 15:00:00"
         },
         {
@@ -391,16 +401,6 @@
             "latestUpdates": "2024-02-28 07:36:47"
         },
         {
-            "author": "恩巨人1",
-            "title": "五百年之后",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8731344",
-            "genre": "幻想未来-科幻",
-            "status": "连载",
-            "wordCount": "39598字",
-            "credits": "258,623",
-            "latestUpdates": "2024-04-13 09:36:41"
-        },
-        {
             "author": "有幽幽幽",
             "title": "冰山与病娇",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8670324",
@@ -417,8 +417,18 @@
             "genre": "幻想未来-爱情",
             "status": "连载",
             "wordCount": "20467字",
-            "credits": "227,281",
+            "credits": "219,475",
             "latestUpdates": "2024-04-02 22:06:49"
+        },
+        {
+            "author": "狐美丽",
+            "title": "倒影［水仙］",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8728789",
+            "genre": "近代现代-科幻",
+            "status": "连载",
+            "wordCount": "24263字",
+            "credits": "216,534",
+            "latestUpdates": "2024-03-12 21:59:22"
         },
         {
             "author": "绒球猫",
@@ -431,23 +441,13 @@
             "latestUpdates": "2024-05-11 21:19:45"
         },
         {
-            "author": "狐美丽",
-            "title": "倒影［水仙］",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8728789",
-            "genre": "近代现代-科幻",
-            "status": "连载",
-            "wordCount": "24263字",
-            "credits": "210,177",
-            "latestUpdates": "2024-03-12 21:59:22"
-        },
-        {
             "author": "洛颜律",
             "title": "伊甸2033",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8737886",
             "genre": "幻想未来-游戏",
             "status": "连载",
             "wordCount": "22878字",
-            "credits": "207,222",
+            "credits": "211,394",
             "latestUpdates": "2024-03-21 21:38:01"
         },
         {
@@ -477,7 +477,7 @@
             "genre": "幻想未来-爱情",
             "status": "连载",
             "wordCount": "20807字",
-            "credits": "143,910",
+            "credits": "143,384",
             "latestUpdates": "2024-03-31 15:40:00"
         },
         {
@@ -681,5 +681,5 @@
             "latestUpdates": "2024-03-03 23:13:03"
         }
     ],
-    "2024-05-13, 06:17:01 GMT+8"
+    "2024-05-13, 07:18:58 GMT+8"
 ]
