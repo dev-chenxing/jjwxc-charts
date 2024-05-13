@@ -47,7 +47,7 @@
             "genre": "架空历史-爱情",
             "status": "连载",
             "wordCount": "45440字",
-            "credits": "10,332,280",
+            "credits": "10,365,823",
             "latestUpdates": "2024-04-24 15:46:51"
         },
         {
@@ -327,7 +327,7 @@
             "genre": "架空历史-仙侠",
             "status": "连载",
             "wordCount": "40355字",
-            "credits": "328,845",
+            "credits": "340,748",
             "latestUpdates": "2024-03-02 23:52:31"
         },
         {
@@ -391,24 +391,24 @@
             "latestUpdates": "2024-04-12 22:31:38"
         },
         {
-            "author": "河口薯条",
-            "title": "穿成咸鱼郡马abo",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8807464",
-            "genre": "架空历史-爱情",
-            "status": "连载",
-            "wordCount": "32683字",
-            "credits": "197,458",
-            "latestUpdates": "2024-04-20 20:54:28"
-        },
-        {
             "author": "麻即",
             "title": "诡异世界修仙指南",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8789841",
             "genre": "架空历史-仙侠",
             "status": "连载",
             "wordCount": "30963字",
-            "credits": "174,330",
+            "credits": "196,301",
             "latestUpdates": "2024-04-04 13:02:23"
+        },
+        {
+            "author": "河口薯条",
+            "title": "穿成咸鱼郡马abo",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8807464",
+            "genre": "架空历史-爱情",
+            "status": "连载",
+            "wordCount": "32683字",
+            "credits": "192,305",
+            "latestUpdates": "2024-04-20 20:54:28"
         },
         {
             "author": "竹一酒",
@@ -487,7 +487,7 @@
             "genre": "架空历史-爱情",
             "status": "连载",
             "wordCount": "15812字",
-            "credits": "138,990",
+            "credits": "139,421",
             "latestUpdates": "2024-02-23 14:00:30"
         },
         {
@@ -507,7 +507,7 @@
             "genre": "架空历史-仙侠",
             "status": "连载",
             "wordCount": "12027字",
-            "credits": "130,213",
+            "credits": "126,905",
             "latestUpdates": "2024-02-12 19:18:12"
         },
         {
@@ -547,7 +547,7 @@
             "genre": "架空历史-剧情",
             "status": "连载",
             "wordCount": "13252字",
-            "credits": "116,401",
+            "credits": "114,862",
             "latestUpdates": "2024-03-01 21:01:09"
         },
         {
@@ -589,6 +589,16 @@
             "wordCount": "10255字",
             "credits": "98,469",
             "latestUpdates": "2024-02-28 21:18:44"
+        },
+        {
+            "author": "无有相生",
+            "title": "摸鱼儿",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8767177",
+            "genre": "架空历史-剧情",
+            "status": "连载",
+            "wordCount": "11606字",
+            "credits": "93,839",
+            "latestUpdates": "2024-04-21 22:21:53"
         },
         {
             "author": "雨缱淋身",
@@ -651,16 +661,6 @@
             "latestUpdates": "2024-04-28 23:51:16"
         },
         {
-            "author": "无有相生",
-            "title": "摸鱼儿",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8767177",
-            "genre": "架空历史-剧情",
-            "status": "连载",
-            "wordCount": "11606字",
-            "credits": "76,194",
-            "latestUpdates": "2024-04-21 22:21:53"
-        },
-        {
             "author": "寻花归",
             "title": "凭栏醉不归",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8522176",
@@ -691,5 +691,5 @@
             "latestUpdates": "2024-04-26 23:41:11"
         }
     ],
-    "2024-05-13, 15:18:19 GMT+8"
+    "2024-05-13, 16:25:11 GMT+8"
 ]

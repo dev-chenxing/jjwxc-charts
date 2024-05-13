@@ -157,7 +157,7 @@
             "genre": "古色古香-仙侠",
             "status": "连载",
             "wordCount": "110965字",
-            "credits": "1,428,419",
+            "credits": "1,474,952",
             "latestUpdates": "2024-05-12 09:05:01"
         },
         {
@@ -217,7 +217,7 @@
             "genre": "架空历史-仙侠",
             "status": "连载",
             "wordCount": "24410字",
-            "credits": "455,472",
+            "credits": "424,248",
             "latestUpdates": "2024-03-30 21:00:21"
         },
         {
@@ -271,16 +271,6 @@
             "latestUpdates": "2024-05-13 12:37:14"
         },
         {
-            "author": "亦恐迟迟",
-            "title": "炮灰反派只想静静修仙",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8791453",
-            "genre": "古色古香-仙侠",
-            "status": "连载",
-            "wordCount": "22503字",
-            "credits": "182,985",
-            "latestUpdates": "2024-04-26 02:26:34"
-        },
-        {
             "author": "湘有兰",
             "title": "妖骨",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8801040",
@@ -291,6 +281,16 @@
             "latestUpdates": "2024-04-28 02:30:57"
         },
         {
+            "author": "亦恐迟迟",
+            "title": "炮灰反派只想静静修仙",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8791453",
+            "genre": "古色古香-仙侠",
+            "status": "连载",
+            "wordCount": "22503字",
+            "credits": "165,711",
+            "latestUpdates": "2024-04-26 02:26:34"
+        },
+        {
             "author": "为了学分写百合",
             "title": "重生之将军你好香",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8758643",
@@ -299,16 +299,6 @@
             "wordCount": "10071字",
             "credits": "122,011",
             "latestUpdates": "2024-04-09 21:03:45"
-        },
-        {
-            "author": "亦漓",
-            "title": "重生后我拐走了老师的女儿",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8772979",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "13689字",
-            "credits": "110,346",
-            "latestUpdates": "2024-04-18 15:04:56"
         },
         {
             "author": "淮秋千冬",
@@ -327,8 +317,18 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "13685字",
-            "credits": "107,176",
+            "credits": "106,634",
             "latestUpdates": "2024-03-16 22:20:52"
+        },
+        {
+            "author": "亦漓",
+            "title": "重生后我拐走了老师的女儿",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8772979",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "13689字",
+            "credits": "104,940",
+            "latestUpdates": "2024-04-18 15:04:56"
         },
         {
             "author": "窦忆辰",
@@ -341,5 +341,5 @@
             "latestUpdates": "2024-03-20 21:37:43"
         }
     ],
-    "2024-05-13, 15:18:17 GMT+8"
+    "2024-05-13, 16:25:09 GMT+8"
 ]

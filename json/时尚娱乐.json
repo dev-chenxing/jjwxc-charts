@@ -187,7 +187,7 @@
             "genre": "近代现代-爱情",
             "status": "完结",
             "wordCount": "107944字",
-            "credits": "5,791,649",
+            "credits": "5,807,447",
             "latestUpdates": "2024-03-25 06:18:51"
         },
         {
@@ -257,7 +257,7 @@
             "genre": "近代现代-爱情",
             "status": "完结",
             "wordCount": "107568字",
-            "credits": "3,040,670",
+            "credits": "2,994,732",
             "latestUpdates": "2024-05-02 14:41:59"
         },
         {
@@ -407,7 +407,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "37069字",
-            "credits": "277,759",
+            "credits": "274,643",
             "latestUpdates": "2024-04-26 17:58:54"
         },
         {
@@ -427,7 +427,7 @@
             "genre": "近代现代-爱情",
             "status": "暂停",
             "wordCount": "16399字",
-            "credits": "230,269",
+            "credits": "227,598",
             "latestUpdates": "2024-04-28 12:25:47"
         },
         {
@@ -457,18 +457,8 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "12612字",
-            "credits": "154,860",
+            "credits": "136,556",
             "latestUpdates": "2024-03-16 10:37:04"
-        },
-        {
-            "author": "巧克力封封",
-            "title": "你是我坠落凡间的天使",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8737919",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "22808字",
-            "credits": "137,484",
-            "latestUpdates": "2024-04-17 19:13:17"
         },
         {
             "author": "雨藏",
@@ -479,6 +469,16 @@
             "wordCount": "16801字",
             "credits": "136,532",
             "latestUpdates": "2024-02-29 01:43:10"
+        },
+        {
+            "author": "巧克力封封",
+            "title": "你是我坠落凡间的天使",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8737919",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "22808字",
+            "credits": "119,123",
+            "latestUpdates": "2024-04-17 19:13:17"
         },
         {
             "author": "諵希",
@@ -501,24 +501,24 @@
             "latestUpdates": "2024-03-26 00:35:25"
         },
         {
-            "author": "零六二壹",
-            "title": "朋友关系",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8704483",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "10166字",
-            "credits": "97,782",
-            "latestUpdates": "2024-02-18 13:22:37"
-        },
-        {
             "author": "黎人歌",
             "title": "制造影后",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8789786",
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "19625字",
-            "credits": "95,314",
+            "credits": "102,443",
             "latestUpdates": "2024-04-03 15:25:23"
+        },
+        {
+            "author": "零六二壹",
+            "title": "朋友关系",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8704483",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "10166字",
+            "credits": "93,583",
+            "latestUpdates": "2024-02-18 13:22:37"
         },
         {
             "author": "江久109",
@@ -571,5 +571,5 @@
             "latestUpdates": "2024-04-16 23:09:53"
         }
     ],
-    "2024-05-13, 15:18:21 GMT+8"
+    "2024-05-13, 16:25:11 GMT+8"
 ]
