@@ -377,7 +377,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "10082字",
-            "credits": "4,027,633",
+            "credits": "4,042,952",
             "latestUpdates": "2024-03-05 00:13:45"
         },
         {
@@ -417,7 +417,7 @@
             "genre": "架空历史-爱情",
             "status": "连载",
             "wordCount": "194845字",
-            "credits": "1,565,303",
+            "credits": "1,546,669",
             "latestUpdates": "2024-05-04 14:27:36"
         },
         {
@@ -457,7 +457,7 @@
             "genre": "架空历史-奇幻",
             "status": "连载",
             "wordCount": "38183字",
-            "credits": "486,048",
+            "credits": "472,432",
             "latestUpdates": "2024-02-24 11:54:16"
         },
         {
@@ -469,16 +469,6 @@
             "wordCount": "50432字",
             "credits": "404,324",
             "latestUpdates": "2024-04-16 09:54:09"
-        },
-        {
-            "author": "何人无事",
-            "title": "落春山",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8693385",
-            "genre": "架空历史-爱情",
-            "status": "连载",
-            "wordCount": "48737字",
-            "credits": "379,824",
-            "latestUpdates": "2024-02-14 21:23:12"
         },
         {
             "author": "许人人",
@@ -501,24 +491,24 @@
             "latestUpdates": "2024-04-25 22:00:00"
         },
         {
+            "author": "何人无事",
+            "title": "落春山",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8693385",
+            "genre": "架空历史-爱情",
+            "status": "连载",
+            "wordCount": "48737字",
+            "credits": "348,671",
+            "latestUpdates": "2024-02-14 21:23:12"
+        },
+        {
             "author": "糖原o",
             "title": "她们是化灵师",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8772283",
             "genre": "架空历史-剧情",
             "status": "连载",
-            "wordCount": "63151字",
+            "wordCount": "63190字",
             "credits": "344,572",
-            "latestUpdates": "2024-05-13 00:05:27"
-        },
-        {
-            "author": "牛奶爱抹茶",
-            "title": "祈宁",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8685578",
-            "genre": "架空历史-爱情",
-            "status": "连载",
-            "wordCount": "38462字",
-            "credits": "325,312",
-            "latestUpdates": "2024-03-21 17:37:43"
+            "latestUpdates": "2024-05-13 09:29:20"
         },
         {
             "author": "淡洱",
@@ -541,6 +531,16 @@
             "latestUpdates": "2024-04-10 08:06:46"
         },
         {
+            "author": "牛奶爱抹茶",
+            "title": "祈宁",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8685578",
+            "genre": "架空历史-爱情",
+            "status": "连载",
+            "wordCount": "38462字",
+            "credits": "303,205",
+            "latestUpdates": "2024-03-21 17:37:43"
+        },
+        {
             "author": "栖山不落",
             "title": "成为部落文里的渣A我插翅难飞",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8701624",
@@ -549,16 +549,6 @@
             "wordCount": "10518字",
             "credits": "299,487",
             "latestUpdates": "2024-02-27 11:18:01"
-        },
-        {
-            "author": "胡萝卜坑",
-            "title": "[穿书]女二她想跟妈咪恋爱",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8762372",
-            "genre": "架空历史-爱情",
-            "status": "连载",
-            "wordCount": "24913字",
-            "credits": "272,822",
-            "latestUpdates": "2024-04-28 17:23:07"
         },
         {
             "author": "申时雨微",
@@ -591,6 +581,16 @@
             "latestUpdates": "2024-04-12 21:21:33"
         },
         {
+            "author": "胡萝卜坑",
+            "title": "[穿书]女二她想跟妈咪恋爱",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8762372",
+            "genre": "架空历史-爱情",
+            "status": "连载",
+            "wordCount": "24913字",
+            "credits": "234,153",
+            "latestUpdates": "2024-04-28 17:23:07"
+        },
+        {
             "author": "Arashi岚",
             "title": "落魄影后被妖怪报恩了",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8815600",
@@ -617,7 +617,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "20787字",
-            "credits": "184,713",
+            "credits": "185,241",
             "latestUpdates": "2024-04-26 15:47:52"
         },
         {
@@ -781,5 +781,5 @@
             "latestUpdates": "2024-05-07 22:47:15"
         }
     ],
-    "2024-05-13, 09:23:51 GMT+8"
+    "2024-05-13, 10:32:49 GMT+8"
 ]
