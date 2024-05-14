@@ -127,7 +127,7 @@
             "genre": "近代现代-剧情",
             "status": "连载",
             "wordCount": "94716字",
-            "credits": "3,816,170",
+            "credits": "3,769,083",
             "latestUpdates": "2024-05-14 04:00:00"
         },
         {
@@ -147,7 +147,7 @@
             "genre": "近代现代-悬疑",
             "status": "连载",
             "wordCount": "56755字",
-            "credits": "3,537,629",
+            "credits": "3,503,042",
             "latestUpdates": "2024-05-01 23:51:31"
         },
         {
@@ -267,7 +267,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "44947字",
-            "credits": "347,619",
+            "credits": "383,361",
             "latestUpdates": "2024-04-18 15:01:09"
         },
         {
@@ -287,7 +287,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "17470字",
-            "credits": "303,679",
+            "credits": "303,653",
             "latestUpdates": "2024-04-04 19:47:24"
         },
         {
@@ -321,6 +321,16 @@
             "latestUpdates": "2024-03-17 00:10:50"
         },
         {
+            "author": "方也川",
+            "title": "慕她一珂",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8734855",
+            "genre": "近代现代-悬疑",
+            "status": "连载",
+            "wordCount": "14083字",
+            "credits": "183,814",
+            "latestUpdates": "2024-03-31 15:21:44"
+        },
+        {
             "author": "宋时年",
             "title": "逆光而行",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8796634",
@@ -331,33 +341,13 @@
             "latestUpdates": "2024-04-08 22:16:41"
         },
         {
-            "author": "方也川",
-            "title": "慕她一珂",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8734855",
-            "genre": "近代现代-悬疑",
-            "status": "连载",
-            "wordCount": "14083字",
-            "credits": "172,020",
-            "latestUpdates": "2024-03-31 15:21:44"
-        },
-        {
-            "author": "树荒",
-            "title": "高墙之下",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8691433",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "18877字",
-            "credits": "168,779",
-            "latestUpdates": "2024-05-12 01:10:06"
-        },
-        {
             "author": "玉梦之殇",
             "title": "如果我说我爱你",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8733238",
             "genre": "近代现代-剧情",
             "status": "连载",
             "wordCount": "19057字",
-            "credits": "161,719",
+            "credits": "163,301",
             "latestUpdates": "2024-03-10 13:11:58"
         },
         {
@@ -369,6 +359,16 @@
             "wordCount": "20880字",
             "credits": "158,445",
             "latestUpdates": "2024-05-05 23:36:55"
+        },
+        {
+            "author": "树荒",
+            "title": "高墙之下",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8691433",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "18877字",
+            "credits": "157,237",
+            "latestUpdates": "2024-05-12 01:10:06"
         },
         {
             "author": "chan777",
@@ -391,16 +391,6 @@
             "latestUpdates": "2024-04-06 04:56:33"
         },
         {
-            "author": "云初礼",
-            "title": "惹了病娇别想跑",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8735302",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "10124字",
-            "credits": "91,648",
-            "latestUpdates": "2024-03-02 19:54:00"
-        },
-        {
             "author": "憨憨挠头",
             "title": "绝密档案",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8737344",
@@ -409,6 +399,16 @@
             "wordCount": "14606字",
             "credits": "88,783",
             "latestUpdates": "2024-03-13 19:15:35"
+        },
+        {
+            "author": "云初礼",
+            "title": "惹了病娇别想跑",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8735302",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "10124字",
+            "credits": "87,358",
+            "latestUpdates": "2024-03-02 19:54:00"
         },
         {
             "author": "似屿",
@@ -431,5 +431,5 @@
             "latestUpdates": "2024-03-26 22:00:09"
         }
     ],
-    "2024-05-14, 19:15:57 GMT+8"
+    "2024-05-14, 20:37:20 GMT+8"
 ]
