@@ -137,7 +137,7 @@
             "genre": "幻想未来-爱情",
             "status": "连载",
             "wordCount": "52124字",
-            "credits": "3,014,851",
+            "credits": "3,173,452",
             "latestUpdates": "2024-03-27 23:52:24"
         },
         {
@@ -217,7 +217,7 @@
             "genre": "架空历史-爱情",
             "status": "连载",
             "wordCount": "68806字",
-            "credits": "901,470",
+            "credits": "893,757",
             "latestUpdates": "2024-04-11 19:49:09"
         },
         {
@@ -267,7 +267,7 @@
             "genre": "近代现代-剧情",
             "status": "连载",
             "wordCount": "10244字",
-            "credits": "459,074",
+            "credits": "459,472",
             "latestUpdates": "2024-03-29 09:00:00"
         },
         {
@@ -357,7 +357,7 @@
             "genre": "幻想未来-科幻",
             "status": "连载",
             "wordCount": "41798字",
-            "credits": "304,392",
+            "credits": "289,004",
             "latestUpdates": "2024-04-11 00:08:04"
         },
         {
@@ -367,7 +367,7 @@
             "genre": "幻想未来-仙侠",
             "status": "连载",
             "wordCount": "36845字",
-            "credits": "281,749",
+            "credits": "287,863",
             "latestUpdates": "2024-03-08 15:00:00"
         },
         {
@@ -417,18 +417,8 @@
             "genre": "幻想未来-爱情",
             "status": "连载",
             "wordCount": "20467字",
-            "credits": "219,475",
+            "credits": "227,281",
             "latestUpdates": "2024-04-02 22:06:49"
-        },
-        {
-            "author": "狐美丽",
-            "title": "倒影［水仙］",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8728789",
-            "genre": "近代现代-科幻",
-            "status": "连载",
-            "wordCount": "24263字",
-            "credits": "216,534",
-            "latestUpdates": "2024-03-12 21:59:22"
         },
         {
             "author": "绒球猫",
@@ -439,6 +429,16 @@
             "wordCount": "25578字",
             "credits": "213,628",
             "latestUpdates": "2024-05-11 21:19:45"
+        },
+        {
+            "author": "狐美丽",
+            "title": "倒影［水仙］",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8728789",
+            "genre": "近代现代-科幻",
+            "status": "连载",
+            "wordCount": "24263字",
+            "credits": "210,177",
+            "latestUpdates": "2024-03-12 21:59:22"
         },
         {
             "author": "洛颜律",
@@ -501,16 +501,6 @@
             "latestUpdates": "2024-05-04 00:06:27"
         },
         {
-            "author": "玉宇清辉",
-            "title": "囚风",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8802390",
-            "genre": "幻想未来-爱情",
-            "status": "连载",
-            "wordCount": "22816字",
-            "credits": "132,517",
-            "latestUpdates": "2024-04-13 23:00:00"
-        },
-        {
             "author": "蘭蘭蘭蘭",
             "title": "跟着杀手回家后发现催眠失败",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8741018",
@@ -527,8 +517,18 @@
             "genre": "幻想未来-爱情",
             "status": "连载",
             "wordCount": "29168字",
-            "credits": "130,119",
+            "credits": "129,688",
             "latestUpdates": "2024-04-07 00:00:45"
+        },
+        {
+            "author": "玉宇清辉",
+            "title": "囚风",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8802390",
+            "genre": "幻想未来-爱情",
+            "status": "连载",
+            "wordCount": "22816字",
+            "credits": "126,341",
+            "latestUpdates": "2024-04-13 23:00:00"
         },
         {
             "author": "一口小甜甜",
@@ -587,7 +587,7 @@
             "genre": "幻想未来-剧情",
             "status": "连载",
             "wordCount": "10136字",
-            "credits": "96,294",
+            "credits": "92,667",
             "latestUpdates": "2024-03-08 23:47:54"
         },
         {
@@ -597,7 +597,7 @@
             "genre": "幻想未来-爱情",
             "status": "连载",
             "wordCount": "13426字",
-            "credits": "91,797",
+            "credits": "91,655",
             "latestUpdates": "2024-03-07 17:27:01"
         },
         {
@@ -647,7 +647,7 @@
             "genre": "幻想未来-剧情",
             "status": "连载",
             "wordCount": "14864字",
-            "credits": "64,537",
+            "credits": "65,608",
             "latestUpdates": "2024-05-14 06:00:00"
         },
         {
@@ -681,5 +681,5 @@
             "latestUpdates": "2024-03-03 23:13:03"
         }
     ],
-    "2024-05-14, 15:18:54 GMT+8"
+    "2024-05-14, 16:25:36 GMT+8"
 ]
