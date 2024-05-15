@@ -27,7 +27,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "146339字",
-            "credits": "49,076,024",
+            "credits": "48,632,748",
             "latestUpdates": "2024-05-10 21:35:55"
         },
         {
@@ -87,7 +87,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "85954字",
-            "credits": "19,294,518",
+            "credits": "19,912,934",
             "latestUpdates": "2024-05-01 10:39:32"
         },
         {
@@ -97,7 +97,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "142115字",
-            "credits": "13,345,535",
+            "credits": "13,470,886",
             "latestUpdates": "2024-05-13 23:59:41"
         },
         {
@@ -147,7 +147,7 @@
             "genre": "架空历史-奇幻",
             "status": "连载",
             "wordCount": "131173字",
-            "credits": "6,441,570",
+            "credits": "6,348,666",
             "latestUpdates": "2024-05-09 18:04:32"
         },
         {
@@ -191,16 +191,6 @@
             "latestUpdates": "2024-05-02 20:39:46"
         },
         {
-            "author": "画师fox",
-            "title": "当社畜撞上阿飘姐姐",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8717795",
-            "genre": "近代现代-剧情",
-            "status": "完结",
-            "wordCount": "87863字",
-            "credits": "4,119,936",
-            "latestUpdates": "2024-04-07 01:10:10"
-        },
-        {
             "author": "玄子枵",
             "title": "朝秦暮楚",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8339700",
@@ -209,6 +199,16 @@
             "wordCount": "127120字",
             "credits": "4,030,401",
             "latestUpdates": "2024-05-15 00:01:01"
+        },
+        {
+            "author": "画师fox",
+            "title": "当社畜撞上阿飘姐姐",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8717795",
+            "genre": "近代现代-剧情",
+            "status": "完结",
+            "wordCount": "87863字",
+            "credits": "3,852,423",
+            "latestUpdates": "2024-04-07 01:10:10"
         },
         {
             "author": "有核儿",
@@ -237,7 +237,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "49509字",
-            "credits": "2,756,282",
+            "credits": "2,752,403",
             "latestUpdates": "2024-05-06 19:33:53"
         },
         {
@@ -247,7 +247,7 @@
             "genre": "架空历史-剧情",
             "status": "连载",
             "wordCount": "68068字",
-            "credits": "2,618,374",
+            "credits": "2,440,194",
             "latestUpdates": "2024-04-22 17:17:45"
         },
         {
@@ -327,7 +327,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "104573字",
-            "credits": "957,535",
+            "credits": "954,596",
             "latestUpdates": "2024-05-13 23:45:20"
         },
         {
@@ -337,18 +337,8 @@
             "genre": "近代现代-奇幻",
             "status": "连载",
             "wordCount": "88493字",
-            "credits": "931,595",
+            "credits": "947,061",
             "latestUpdates": "2024-05-13 20:35:00"
-        },
-        {
-            "author": "躺零的幻想",
-            "title": "穿成血族恶劣千金储备粮",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8756728",
-            "genre": "架空历史-奇幻",
-            "status": "连载",
-            "wordCount": "77302字",
-            "credits": "844,659",
-            "latestUpdates": "2024-05-08 00:43:34"
         },
         {
             "author": "玉岭北",
@@ -361,6 +351,16 @@
             "latestUpdates": "2024-03-26 00:32:54"
         },
         {
+            "author": "躺零的幻想",
+            "title": "穿成血族恶劣千金储备粮",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8756728",
+            "genre": "架空历史-奇幻",
+            "status": "连载",
+            "wordCount": "77302字",
+            "credits": "775,340",
+            "latestUpdates": "2024-05-08 00:43:34"
+        },
+        {
             "author": "穗时",
             "title": "法师她只想安心做实验",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8801006",
@@ -371,24 +371,24 @@
             "latestUpdates": "2024-04-23 21:42:06"
         },
         {
-            "author": "toughen",
-            "title": "魔王",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8731310",
-            "genre": "架空历史-剧情",
-            "status": "连载",
-            "wordCount": "68329字",
-            "credits": "546,133",
-            "latestUpdates": "2024-03-30 10:00:00"
-        },
-        {
             "author": "谈景明",
             "title": "准女大在线求生（灵异）",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8769640",
             "genre": "近代现代-惊悚",
             "status": "连载",
             "wordCount": "50894字",
-            "credits": "535,932",
+            "credits": "530,656",
             "latestUpdates": "2024-05-13 08:48:56"
+        },
+        {
+            "author": "toughen",
+            "title": "魔王",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8731310",
+            "genre": "架空历史-剧情",
+            "status": "连载",
+            "wordCount": "68329字",
+            "credits": "529,180",
+            "latestUpdates": "2024-03-30 10:00:00"
         },
         {
             "author": "漫浪星",
@@ -407,8 +407,18 @@
             "genre": "近代现代-剧情",
             "status": "连载",
             "wordCount": "60665字",
-            "credits": "483,600",
+            "credits": "498,293",
             "latestUpdates": "2024-05-08 00:22:40"
+        },
+        {
+            "author": "猫心上人",
+            "title": "神契之约",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8720416",
+            "genre": "近代现代-悬疑",
+            "status": "连载",
+            "wordCount": "47970字",
+            "credits": "425,995",
+            "latestUpdates": "2024-03-28 00:26:00"
         },
         {
             "author": "苯丙氨酸zyrf",
@@ -429,16 +439,6 @@
             "wordCount": "56860字",
             "credits": "418,090",
             "latestUpdates": "2024-04-05 18:10:35"
-        },
-        {
-            "author": "猫心上人",
-            "title": "神契之约",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8720416",
-            "genre": "近代现代-悬疑",
-            "status": "连载",
-            "wordCount": "47970字",
-            "credits": "406,272",
-            "latestUpdates": "2024-03-28 00:26:00"
         },
         {
             "author": "退墨",
@@ -471,6 +471,16 @@
             "latestUpdates": "2024-03-03 17:43:47"
         },
         {
+            "author": "姜土豆",
+            "title": "西大陆旅居日记",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8758198",
+            "genre": "架空历史-奇幻",
+            "status": "连载",
+            "wordCount": "53732字",
+            "credits": "284,617",
+            "latestUpdates": "2024-04-16 15:02:49"
+        },
+        {
             "author": "凌晨的盛夏",
             "title": "被迫卷入无限游戏之后",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8698701",
@@ -479,16 +489,6 @@
             "wordCount": "28916字",
             "credits": "256,391",
             "latestUpdates": "2024-03-09 11:11:33"
-        },
-        {
-            "author": "会这样子建议",
-            "title": "和鬼王结阴婚后",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8710148",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "21533字",
-            "credits": "253,260",
-            "latestUpdates": "2024-03-11 13:23:33"
         },
         {
             "author": "米拉妮",
@@ -501,16 +501,6 @@
             "latestUpdates": "2024-03-20 13:59:33"
         },
         {
-            "author": "西伯利亚拖拉机犬",
-            "title": "救命我困在阴间出不去了",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8727732",
-            "genre": "近代现代-奇幻",
-            "status": "连载",
-            "wordCount": "31607字",
-            "credits": "242,161",
-            "latestUpdates": "2024-04-19 14:57:38"
-        },
-        {
             "author": "纳西索斯2003",
             "title": "院内病美人",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8794601",
@@ -521,14 +511,14 @@
             "latestUpdates": "2024-04-22 19:00:23"
         },
         {
-            "author": "姜土豆",
-            "title": "西大陆旅居日记",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8758198",
-            "genre": "架空历史-奇幻",
+            "author": "会这样子建议",
+            "title": "和鬼王结阴婚后",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8710148",
+            "genre": "近代现代-爱情",
             "status": "连载",
-            "wordCount": "53732字",
-            "credits": "222,684",
-            "latestUpdates": "2024-04-16 15:02:49"
+            "wordCount": "21533字",
+            "credits": "223,849",
+            "latestUpdates": "2024-03-11 13:23:33"
         },
         {
             "author": "莫托",
@@ -537,7 +527,7 @@
             "genre": "架空历史-仙侠",
             "status": "连载",
             "wordCount": "26321字",
-            "credits": "219,863",
+            "credits": "222,602",
             "latestUpdates": "2024-02-19 21:13:04"
         },
         {
@@ -549,6 +539,16 @@
             "wordCount": "26880字",
             "credits": "215,896",
             "latestUpdates": "2024-04-07 22:05:00"
+        },
+        {
+            "author": "西伯利亚拖拉机犬",
+            "title": "救命我困在阴间出不去了",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8727732",
+            "genre": "近代现代-奇幻",
+            "status": "连载",
+            "wordCount": "31607字",
+            "credits": "202,755",
+            "latestUpdates": "2024-04-19 14:57:38"
         },
         {
             "author": "寒燃",
@@ -567,7 +567,7 @@
             "genre": "架空历史-爱情",
             "status": "连载",
             "wordCount": "25058字",
-            "credits": "197,709",
+            "credits": "194,588",
             "latestUpdates": "2024-03-12 23:06:33"
         },
         {
@@ -637,7 +637,7 @@
             "genre": "近代现代-传奇",
             "status": "连载",
             "wordCount": "10077字",
-            "credits": "152,436",
+            "credits": "152,249",
             "latestUpdates": "2024-03-21 04:00:02"
         },
         {
@@ -647,7 +647,7 @@
             "genre": "架空历史-奇幻",
             "status": "连载",
             "wordCount": "18259字",
-            "credits": "149,479",
+            "credits": "149,657",
             "latestUpdates": "2024-03-30 19:31:57"
         },
         {
@@ -677,8 +677,18 @@
             "genre": "架空历史-奇幻",
             "status": "连载",
             "wordCount": "20094字",
-            "credits": "143,575",
+            "credits": "143,876",
             "latestUpdates": "2024-03-24 21:09:29"
+        },
+        {
+            "author": "玉堂青",
+            "title": "重生成糊咖女星后为地府打黑工",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8736636",
+            "genre": "近代现代-惊悚",
+            "status": "连载",
+            "wordCount": "14534字",
+            "credits": "140,715",
+            "latestUpdates": "2024-03-07 08:22:54"
         },
         {
             "author": "神之黑狼",
@@ -697,18 +707,8 @@
             "genre": "架空历史-奇幻",
             "status": "连载",
             "wordCount": "13383字",
-            "credits": "131,000",
+            "credits": "132,115",
             "latestUpdates": "2024-03-27 17:11:24"
-        },
-        {
-            "author": "玉堂青",
-            "title": "重生成糊咖女星后为地府打黑工",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8736636",
-            "genre": "近代现代-惊悚",
-            "status": "连载",
-            "wordCount": "14534字",
-            "credits": "129,006",
-            "latestUpdates": "2024-03-07 08:22:54"
         },
         {
             "author": "呆隔",
@@ -731,26 +731,6 @@
             "latestUpdates": "2024-05-12 19:28:32"
         },
         {
-            "author": "叼着苦瓜",
-            "title": "浮梦",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8694771",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "12936字",
-            "credits": "120,524",
-            "latestUpdates": "2024-02-19 00:41:02"
-        },
-        {
-            "author": "玫瑰主义浪漫至上",
-            "title": "欢迎来到暮色游戏",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8762409",
-            "genre": "近代现代-剧情",
-            "status": "连载",
-            "wordCount": "31340字",
-            "credits": "120,337",
-            "latestUpdates": "2024-05-03 20:02:15"
-        },
-        {
             "author": "Levitate",
             "title": "逆夏春花",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8690805",
@@ -759,6 +739,16 @@
             "wordCount": "11146字",
             "credits": "114,133",
             "latestUpdates": "2024-02-21 20:47:32"
+        },
+        {
+            "author": "玫瑰主义浪漫至上",
+            "title": "欢迎来到暮色游戏",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8762409",
+            "genre": "近代现代-剧情",
+            "status": "连载",
+            "wordCount": "31340字",
+            "credits": "110,608",
+            "latestUpdates": "2024-05-03 20:02:15"
         },
         {
             "author": "我醉卿且去",
@@ -789,6 +779,16 @@
             "wordCount": "12139字",
             "credits": "104,447",
             "latestUpdates": "2024-03-26 23:23:23"
+        },
+        {
+            "author": "叼着苦瓜",
+            "title": "浮梦",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8694771",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "12936字",
+            "credits": "103,494",
+            "latestUpdates": "2024-02-19 00:41:02"
         },
         {
             "author": "梦想成真啊",
@@ -857,8 +857,18 @@
             "genre": "近代现代-剧情",
             "status": "连载",
             "wordCount": "11166字",
-            "credits": "82,989",
+            "credits": "83,276",
             "latestUpdates": "2024-03-06 00:56:16"
+        },
+        {
+            "author": "长惜木",
+            "title": "我讨厌晴天【无限】",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8711587",
+            "genre": "架空历史-剧情",
+            "status": "连载",
+            "wordCount": "13962字",
+            "credits": "82,587",
+            "latestUpdates": "2024-05-03 21:25:31"
         },
         {
             "author": "一颗仙苗",
@@ -867,7 +877,7 @@
             "genre": "近代现代-惊悚",
             "status": "连载",
             "wordCount": "12192字",
-            "credits": "81,741",
+            "credits": "80,466",
             "latestUpdates": "2024-04-05 22:09:00"
         },
         {
@@ -901,6 +911,16 @@
             "latestUpdates": "2024-02-28 20:09:21"
         },
         {
+            "author": "RozViolet",
+            "title": "缄默歌剧",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8714507",
+            "genre": "架空历史-爱情",
+            "status": "连载",
+            "wordCount": "10034字",
+            "credits": "74,527",
+            "latestUpdates": "2024-02-23 23:16:47"
+        },
+        {
             "author": "吃十斤火鸡面的富婆",
             "title": "909对面的寝室",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8787049",
@@ -909,26 +929,6 @@
             "wordCount": "16802字",
             "credits": "71,542",
             "latestUpdates": "2024-05-08 21:39:57"
-        },
-        {
-            "author": "RozViolet",
-            "title": "缄默歌剧",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8714507",
-            "genre": "架空历史-爱情",
-            "status": "连载",
-            "wordCount": "10034字",
-            "credits": "70,587",
-            "latestUpdates": "2024-02-23 23:16:47"
-        },
-        {
-            "author": "长惜木",
-            "title": "我讨厌晴天【无限】",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8711587",
-            "genre": "架空历史-剧情",
-            "status": "连载",
-            "wordCount": "13962字",
-            "credits": "68,211",
-            "latestUpdates": "2024-05-03 21:25:31"
         },
         {
             "author": "风起风定",
@@ -947,9 +947,9 @@
             "genre": "近代现代-奇幻",
             "status": "连载",
             "wordCount": "11000字",
-            "credits": "39,837",
+            "credits": "36,654",
             "latestUpdates": "2024-03-15 22:00:18"
         }
     ],
-    "2024-05-15, 14:25:51 GMT+8"
+    "2024-05-15, 15:18:54 GMT+8"
 ]
