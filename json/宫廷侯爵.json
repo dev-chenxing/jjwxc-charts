@@ -37,7 +37,7 @@
             "genre": "架空历史-爱情",
             "status": "连载",
             "wordCount": "110255字",
-            "credits": "10,826,887",
+            "credits": "10,685,819",
             "latestUpdates": "2024-05-13 22:00:00"
         },
         {
@@ -46,9 +46,9 @@
             "url": "https://www.jjwxc.net/onebook.php?novelid=8217539",
             "genre": "架空历史-爱情",
             "status": "连载",
-            "wordCount": "118727字",
+            "wordCount": "121862字",
             "credits": "7,452,802",
-            "latestUpdates": "2024-05-14 21:00:00"
+            "latestUpdates": "2024-05-15 21:00:00"
         },
         {
             "author": "融泥",
@@ -87,18 +87,8 @@
             "genre": "古色古香-剧情",
             "status": "连载",
             "wordCount": "110401字",
-            "credits": "1,235,223",
+            "credits": "1,163,303",
             "latestUpdates": "2024-05-10 18:30:15"
-        },
-        {
-            "author": "短尾河狸",
-            "title": "师姐我真的没有",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8790192",
-            "genre": "架空历史-仙侠",
-            "status": "连载",
-            "wordCount": "92442字",
-            "credits": "907,230",
-            "latestUpdates": "2024-04-27 23:40:45"
         },
         {
             "author": "沧玥婴",
@@ -111,13 +101,23 @@
             "latestUpdates": "2024-05-12 03:15:56"
         },
         {
+            "author": "短尾河狸",
+            "title": "师姐我真的没有",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8790192",
+            "genre": "架空历史-仙侠",
+            "status": "连载",
+            "wordCount": "92442字",
+            "credits": "677,532",
+            "latestUpdates": "2024-04-27 23:40:45"
+        },
+        {
             "author": "舟中坐",
             "title": "笼中鸟的驯养手册",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8612198",
             "genre": "架空历史-爱情",
             "status": "连载",
             "wordCount": "19663字",
-            "credits": "395,382",
+            "credits": "425,709",
             "latestUpdates": "2024-05-07 13:27:38"
         },
         {
@@ -137,28 +137,8 @@
             "genre": "架空历史-剧情",
             "status": "连载",
             "wordCount": "34085字",
-            "credits": "340,607",
+            "credits": "314,767",
             "latestUpdates": "2024-04-10 00:00:00"
-        },
-        {
-            "author": "司諶",
-            "title": "大渊前传：湛湛明也【gl】",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8812548",
-            "genre": "架空历史-爱情",
-            "status": "连载",
-            "wordCount": "38206字",
-            "credits": "305,476",
-            "latestUpdates": "2024-05-01 06:00:00"
-        },
-        {
-            "author": "帕尔西法z",
-            "title": "若平生欢",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8729027",
-            "genre": "架空历史-爱情",
-            "status": "连载",
-            "wordCount": "31695字",
-            "credits": "276,493",
-            "latestUpdates": "2024-05-08 20:15:00"
         },
         {
             "author": "不吃空气",
@@ -171,13 +151,33 @@
             "latestUpdates": "2024-04-25 19:00:00"
         },
         {
+            "author": "帕尔西法z",
+            "title": "若平生欢",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8729027",
+            "genre": "架空历史-爱情",
+            "status": "连载",
+            "wordCount": "31695字",
+            "credits": "259,917",
+            "latestUpdates": "2024-05-08 20:15:00"
+        },
+        {
+            "author": "司諶",
+            "title": "大渊前传：湛湛明也【gl】",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8812548",
+            "genre": "架空历史-爱情",
+            "status": "连载",
+            "wordCount": "38206字",
+            "credits": "229,644",
+            "latestUpdates": "2024-05-01 06:00:00"
+        },
+        {
             "author": "南深以安",
             "title": "点绛唇",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8496495",
             "genre": "架空历史-剧情",
             "status": "连载",
             "wordCount": "25186字",
-            "credits": "235,378",
+            "credits": "198,784",
             "latestUpdates": "2024-05-08 21:53:08"
         },
         {
@@ -187,7 +187,7 @@
             "genre": "架空历史-剧情",
             "status": "连载",
             "wordCount": "28881字",
-            "credits": "198,778",
+            "credits": "164,379",
             "latestUpdates": "2024-05-06 23:02:02"
         },
         {
@@ -207,7 +207,7 @@
             "genre": "架空历史-爱情",
             "status": "连载",
             "wordCount": "16013字",
-            "credits": "148,946",
+            "credits": "141,624",
             "latestUpdates": "2024-03-23 10:20:23"
         },
         {
@@ -231,5 +231,5 @@
             "latestUpdates": "2024-05-15 14:20:23"
         }
     ],
-    "2024-05-15, 20:37:35 GMT+8"
+    "2024-05-15, 21:21:23 GMT+8"
 ]
