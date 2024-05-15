@@ -217,7 +217,7 @@
             "genre": "架空历史-仙侠",
             "status": "连载",
             "wordCount": "24410字",
-            "credits": "455,472",
+            "credits": "424,248",
             "latestUpdates": "2024-03-30 21:00:21"
         },
         {
@@ -247,7 +247,7 @@
             "genre": "架空历史-爱情",
             "status": "连载",
             "wordCount": "19751字",
-            "credits": "314,905",
+            "credits": "279,672",
             "latestUpdates": "2024-05-11 20:30:00"
         },
         {
@@ -271,16 +271,6 @@
             "latestUpdates": "2024-05-14 21:33:07"
         },
         {
-            "author": "亦恐迟迟",
-            "title": "炮灰反派只想静静修仙",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8791453",
-            "genre": "古色古香-仙侠",
-            "status": "连载",
-            "wordCount": "22503字",
-            "credits": "182,985",
-            "latestUpdates": "2024-04-26 02:26:34"
-        },
-        {
             "author": "湘有兰",
             "title": "妖骨",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8801040",
@@ -289,6 +279,16 @@
             "wordCount": "23382字",
             "credits": "172,336",
             "latestUpdates": "2024-04-28 02:30:57"
+        },
+        {
+            "author": "亦恐迟迟",
+            "title": "炮灰反派只想静静修仙",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8791453",
+            "genre": "古色古香-仙侠",
+            "status": "连载",
+            "wordCount": "22503字",
+            "credits": "165,711",
+            "latestUpdates": "2024-04-26 02:26:34"
         },
         {
             "author": "为了学分写百合",
@@ -341,5 +341,5 @@
             "latestUpdates": "2024-03-20 21:37:43"
         }
     ],
-    "2024-05-15, 09:22:51 GMT+8"
+    "2024-05-15, 10:33:37 GMT+8"
 ]

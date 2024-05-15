@@ -137,7 +137,7 @@
             "genre": "近代现代-爱情",
             "status": "完结",
             "wordCount": "226436字",
-            "credits": "13,711,733",
+            "credits": "13,431,547",
             "latestUpdates": "2024-04-15 20:57:06"
         },
         {
@@ -167,7 +167,7 @@
             "genre": "近代现代-爱情",
             "status": "完结",
             "wordCount": "184148字",
-            "credits": "8,663,983",
+            "credits": "8,006,735",
             "latestUpdates": "2024-04-07 18:01:00"
         },
         {
@@ -187,7 +187,7 @@
             "genre": "近代现代-爱情",
             "status": "完结",
             "wordCount": "107944字",
-            "credits": "5,807,447",
+            "credits": "5,791,649",
             "latestUpdates": "2024-03-25 06:18:51"
         },
         {
@@ -227,7 +227,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "64528字",
-            "credits": "4,041,800",
+            "credits": "3,875,906",
             "latestUpdates": "2024-04-21 23:03:38"
         },
         {
@@ -407,7 +407,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "37069字",
-            "credits": "277,759",
+            "credits": "274,643",
             "latestUpdates": "2024-04-26 17:58:54"
         },
         {
@@ -447,18 +447,8 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "23237字",
-            "credits": "186,953",
+            "credits": "191,375",
             "latestUpdates": "2024-03-09 11:44:20"
-        },
-        {
-            "author": "巧克力封封",
-            "title": "你是我坠落凡间的天使",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8737919",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "22808字",
-            "credits": "137,484",
-            "latestUpdates": "2024-04-17 19:13:17"
         },
         {
             "author": "凡心入俗",
@@ -477,8 +467,18 @@
             "genre": "近代现代-剧情",
             "status": "连载",
             "wordCount": "16801字",
-            "credits": "136,532",
+            "credits": "135,444",
             "latestUpdates": "2024-02-29 01:43:10"
+        },
+        {
+            "author": "巧克力封封",
+            "title": "你是我坠落凡间的天使",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8737919",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "22808字",
+            "credits": "119,123",
+            "latestUpdates": "2024-04-17 19:13:17"
         },
         {
             "author": "諵希",
@@ -487,7 +487,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "15270字",
-            "credits": "129,567",
+            "credits": "116,002",
             "latestUpdates": "2024-03-16 19:23:59"
         },
         {
@@ -507,7 +507,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "19625字",
-            "credits": "95,314",
+            "credits": "102,443",
             "latestUpdates": "2024-04-03 15:25:23"
         },
         {
@@ -517,7 +517,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "10166字",
-            "credits": "93,583",
+            "credits": "97,782",
             "latestUpdates": "2024-02-18 13:22:37"
         },
         {
@@ -537,7 +537,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "18784字",
-            "credits": "86,144",
+            "credits": "80,232",
             "latestUpdates": "2024-04-21 22:50:38"
         },
         {
@@ -547,7 +547,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "10416字",
-            "credits": "64,231",
+            "credits": "76,455",
             "latestUpdates": "2024-03-25 00:02:05"
         },
         {
@@ -571,5 +571,5 @@
             "latestUpdates": "2024-04-16 23:09:53"
         }
     ],
-    "2024-05-15, 09:22:57 GMT+8"
+    "2024-05-15, 10:33:39 GMT+8"
 ]

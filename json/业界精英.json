@@ -57,7 +57,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "45416字",
-            "credits": "33,860,964",
+            "credits": "33,853,972",
             "latestUpdates": "2024-03-25 12:16:31"
         },
         {
@@ -86,9 +86,9 @@
             "url": "https://www.jjwxc.net/onebook.php?novelid=8790324",
             "genre": "近代现代-爱情",
             "status": "连载",
-            "wordCount": "141680字",
-            "credits": "9,926,870",
-            "latestUpdates": "2024-05-14 10:14:13"
+            "wordCount": "144747字",
+            "credits": "10,203,942",
+            "latestUpdates": "2024-05-15 09:26:10"
         },
         {
             "author": "雾漫青山",
@@ -176,9 +176,9 @@
             "url": "https://www.jjwxc.net/onebook.php?novelid=8724672",
             "genre": "近代现代-悬疑",
             "status": "连载",
-            "wordCount": "98528字",
+            "wordCount": "101556字",
             "credits": "950,457",
-            "latestUpdates": "2024-05-14 23:11:56"
+            "latestUpdates": "2024-05-15 09:26:40"
         },
         {
             "author": "椰萝",
@@ -287,7 +287,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "17470字",
-            "credits": "303,679",
+            "credits": "303,653",
             "latestUpdates": "2024-04-04 19:47:24"
         },
         {
@@ -297,7 +297,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "34826字",
-            "credits": "291,756",
+            "credits": "285,560",
             "latestUpdates": "2024-03-25 23:20:01"
         },
         {
@@ -311,16 +311,6 @@
             "latestUpdates": "2024-05-10 01:19:06"
         },
         {
-            "author": "宋时年",
-            "title": "逆光而行",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8796634",
-            "genre": "近代现代-悬疑",
-            "status": "连载",
-            "wordCount": "22993字",
-            "credits": "216,637",
-            "latestUpdates": "2024-04-08 22:16:41"
-        },
-        {
             "author": "一叶鹤知秋",
             "title": "神啊，救救她吧",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8756031",
@@ -329,6 +319,16 @@
             "wordCount": "26832字",
             "credits": "201,072",
             "latestUpdates": "2024-03-17 00:10:50"
+        },
+        {
+            "author": "宋时年",
+            "title": "逆光而行",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8796634",
+            "genre": "近代现代-悬疑",
+            "status": "连载",
+            "wordCount": "22993字",
+            "credits": "178,842",
+            "latestUpdates": "2024-04-08 22:16:41"
         },
         {
             "author": "方也川",
@@ -391,6 +391,16 @@
             "latestUpdates": "2024-04-06 04:56:33"
         },
         {
+            "author": "云初礼",
+            "title": "惹了病娇别想跑",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8735302",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "10124字",
+            "credits": "91,648",
+            "latestUpdates": "2024-03-02 19:54:00"
+        },
+        {
             "author": "憨憨挠头",
             "title": "绝密档案",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8737344",
@@ -401,23 +411,13 @@
             "latestUpdates": "2024-03-13 19:15:35"
         },
         {
-            "author": "云初礼",
-            "title": "惹了病娇别想跑",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8735302",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "10124字",
-            "credits": "87,358",
-            "latestUpdates": "2024-03-02 19:54:00"
-        },
-        {
             "author": "似屿",
             "title": "妄归",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8756438",
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "11941字",
-            "credits": "82,936",
+            "credits": "85,449",
             "latestUpdates": "2024-03-12 13:04:29"
         },
         {
@@ -431,5 +431,5 @@
             "latestUpdates": "2024-03-26 22:00:09"
         }
     ],
-    "2024-05-15, 09:22:53 GMT+8"
+    "2024-05-15, 10:33:38 GMT+8"
 ]
