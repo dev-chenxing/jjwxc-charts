@@ -87,7 +87,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "104501字",
-            "credits": "13,560,813",
+            "credits": "13,811,226",
             "latestUpdates": "2024-05-08 21:31:35"
         },
         {
@@ -157,7 +157,7 @@
             "genre": "古色古香-仙侠",
             "status": "连载",
             "wordCount": "114059字",
-            "credits": "1,496,808",
+            "credits": "1,474,952",
             "latestUpdates": "2024-05-14 09:08:05"
         },
         {
@@ -177,7 +177,7 @@
             "genre": "近代现代-剧情",
             "status": "连载",
             "wordCount": "55246字",
-            "credits": "723,645",
+            "credits": "713,635",
             "latestUpdates": "2024-05-12 22:00:16"
         },
         {
@@ -207,7 +207,7 @@
             "genre": "架空历史-仙侠",
             "status": "连载",
             "wordCount": "35998字",
-            "credits": "456,912",
+            "credits": "469,625",
             "latestUpdates": "2024-05-11 18:52:49"
         },
         {
@@ -217,7 +217,7 @@
             "genre": "架空历史-仙侠",
             "status": "连载",
             "wordCount": "24410字",
-            "credits": "455,472",
+            "credits": "424,248",
             "latestUpdates": "2024-03-30 21:00:21"
         },
         {
@@ -271,16 +271,6 @@
             "latestUpdates": "2024-05-14 21:33:07"
         },
         {
-            "author": "亦恐迟迟",
-            "title": "炮灰反派只想静静修仙",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8791453",
-            "genre": "古色古香-仙侠",
-            "status": "连载",
-            "wordCount": "22503字",
-            "credits": "182,985",
-            "latestUpdates": "2024-04-26 02:26:34"
-        },
-        {
             "author": "湘有兰",
             "title": "妖骨",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8801040",
@@ -291,13 +281,23 @@
             "latestUpdates": "2024-04-28 02:30:57"
         },
         {
+            "author": "亦恐迟迟",
+            "title": "炮灰反派只想静静修仙",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8791453",
+            "genre": "古色古香-仙侠",
+            "status": "连载",
+            "wordCount": "22503字",
+            "credits": "165,711",
+            "latestUpdates": "2024-04-26 02:26:34"
+        },
+        {
             "author": "为了学分写百合",
             "title": "重生之将军你好香",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8758643",
             "genre": "架空历史-爱情",
             "status": "连载",
             "wordCount": "10071字",
-            "credits": "122,575",
+            "credits": "122,011",
             "latestUpdates": "2024-04-09 21:03:45"
         },
         {
@@ -307,7 +307,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "13689字",
-            "credits": "121,252",
+            "credits": "110,346",
             "latestUpdates": "2024-04-18 15:04:56"
         },
         {
@@ -341,5 +341,5 @@
             "latestUpdates": "2024-03-20 21:37:43"
         }
     ],
-    "2024-05-15, 17:22:38 GMT+8"
+    "2024-05-15, 18:20:47 GMT+8"
 ]
