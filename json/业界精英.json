@@ -57,7 +57,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "45416字",
-            "credits": "33,890,272",
+            "credits": "33,853,972",
             "latestUpdates": "2024-03-25 12:16:31"
         },
         {
@@ -131,6 +131,16 @@
             "latestUpdates": "2024-05-14 04:00:00"
         },
         {
+            "author": "清舞莉扬",
+            "title": "假千金成真了",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8785052",
+            "genre": "近代现代-爱情",
+            "status": "完结",
+            "wordCount": "130788字",
+            "credits": "3,544,706",
+            "latestUpdates": "2024-05-08 16:14:11"
+        },
+        {
             "author": "一山钩月",
             "title": "［悬疑解密］夜蛾",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8730637",
@@ -141,23 +151,13 @@
             "latestUpdates": "2024-05-01 23:51:31"
         },
         {
-            "author": "清舞莉扬",
-            "title": "假千金成真了",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8785052",
-            "genre": "近代现代-爱情",
-            "status": "完结",
-            "wordCount": "130788字",
-            "credits": "3,465,313",
-            "latestUpdates": "2024-05-08 16:14:11"
-        },
-        {
             "author": "盐系排骨",
             "title": "心机绿茶攻略全校白月光",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8705893",
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "63323字",
-            "credits": "1,694,820",
+            "credits": "1,687,220",
             "latestUpdates": "2024-03-30 00:00:00"
         },
         {
@@ -247,18 +247,8 @@
             "genre": "近代现代-悬疑",
             "status": "连载",
             "wordCount": "23055字",
-            "credits": "430,120",
+            "credits": "416,368",
             "latestUpdates": "2024-03-01 19:23:05"
-        },
-        {
-            "author": "栋梁之才",
-            "title": "经师济民",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8770322",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "44947字",
-            "credits": "417,700",
-            "latestUpdates": "2024-04-18 15:01:09"
         },
         {
             "author": "铜钱七颗糖",
@@ -267,8 +257,18 @@
             "genre": "近代现代-悬疑",
             "status": "连载",
             "wordCount": "51849字",
-            "credits": "379,294",
+            "credits": "386,164",
             "latestUpdates": "2024-05-13 23:54:08"
+        },
+        {
+            "author": "栋梁之才",
+            "title": "经师济民",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8770322",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "44947字",
+            "credits": "383,361",
+            "latestUpdates": "2024-04-18 15:01:09"
         },
         {
             "author": "任砚卿",
@@ -281,24 +281,24 @@
             "latestUpdates": "2024-03-09 12:34:56"
         },
         {
-            "author": "灰皮橘子",
-            "title": "丛林法则",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8730023",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "34826字",
-            "credits": "309,401",
-            "latestUpdates": "2024-03-25 23:20:01"
-        },
-        {
             "author": "左之之之之",
             "title": "再见怦然",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8729151",
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "17470字",
-            "credits": "303,653",
+            "credits": "303,679",
             "latestUpdates": "2024-04-04 19:47:24"
+        },
+        {
+            "author": "灰皮橘子",
+            "title": "丛林法则",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8730023",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "34826字",
+            "credits": "291,756",
+            "latestUpdates": "2024-03-25 23:20:01"
         },
         {
             "author": "妖精绘梦",
@@ -307,7 +307,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "29447字",
-            "credits": "263,007",
+            "credits": "270,241",
             "latestUpdates": "2024-05-10 01:19:06"
         },
         {
@@ -431,5 +431,5 @@
             "latestUpdates": "2024-03-26 22:00:09"
         }
     ],
-    "2024-05-16, 02:24:55 GMT+8"
+    "2024-05-16, 03:15:36 GMT+8"
 ]

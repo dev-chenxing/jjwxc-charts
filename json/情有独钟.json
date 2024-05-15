@@ -167,7 +167,7 @@
             "genre": "近代现代-爱情",
             "status": "完结",
             "wordCount": "63377字",
-            "credits": "3,631,486",
+            "credits": "3,530,564",
             "latestUpdates": "2024-04-11 10:01:20"
         },
         {
@@ -197,7 +197,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "48265字",
-            "credits": "2,023,588",
+            "credits": "2,056,105",
             "latestUpdates": "2024-04-01 14:29:36"
         },
         {
@@ -267,8 +267,18 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "77886字",
-            "credits": "1,132,499",
+            "credits": "1,132,759",
             "latestUpdates": "2024-05-13 20:18:53"
+        },
+        {
+            "author": "观棠也",
+            "title": "秋至",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8790037",
+            "genre": "近代现代-爱情",
+            "status": "完结",
+            "wordCount": "101547字",
+            "credits": "1,067,796",
+            "latestUpdates": "2024-04-27 19:00:00"
         },
         {
             "author": "饮酒望梨花",
@@ -301,16 +311,6 @@
             "latestUpdates": "2024-05-14 11:50:54"
         },
         {
-            "author": "观棠也",
-            "title": "秋至",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8790037",
-            "genre": "近代现代-爱情",
-            "status": "完结",
-            "wordCount": "101547字",
-            "credits": "621,245",
-            "latestUpdates": "2024-04-27 19:00:00"
-        },
-        {
             "author": "妃里宁央",
             "title": "我的邻居小姐姐",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8789614",
@@ -337,8 +337,18 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "68516字",
-            "credits": "502,565",
+            "credits": "494,458",
             "latestUpdates": "2024-05-12 21:00:00"
+        },
+        {
+            "author": "长不归",
+            "title": "遥岑寸碧",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8720976",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "51552字",
+            "credits": "474,924",
+            "latestUpdates": "2024-04-01 18:59:40"
         },
         {
             "author": "北四渊",
@@ -349,16 +359,6 @@
             "wordCount": "54604字",
             "credits": "474,224",
             "latestUpdates": "2024-02-14 13:09:46"
-        },
-        {
-            "author": "长不归",
-            "title": "遥岑寸碧",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8720976",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "51552字",
-            "credits": "436,647",
-            "latestUpdates": "2024-04-01 18:59:40"
         },
         {
             "author": "FlowerYan",
@@ -379,16 +379,6 @@
             "wordCount": "43751字",
             "credits": "392,687",
             "latestUpdates": "2024-05-15 09:00:00"
-        },
-        {
-            "author": "夏天不能没有空调",
-            "title": "期许（待改）",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8620760",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "49013字",
-            "credits": "350,947",
-            "latestUpdates": "2024-04-08 21:35:00"
         },
         {
             "author": "瑃栖",
@@ -421,16 +411,6 @@
             "latestUpdates": "2024-05-08 23:26:37"
         },
         {
-            "author": "不甜不要",
-            "title": "复合可以，我不当受",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8754841",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "32980字",
-            "credits": "305,406",
-            "latestUpdates": "2024-04-08 20:53:14"
-        },
-        {
             "author": "靠窗x",
             "title": "云之柔蓝之尔",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8685804",
@@ -439,6 +419,26 @@
             "wordCount": "51204字",
             "credits": "303,516",
             "latestUpdates": "2024-02-17 00:43:07"
+        },
+        {
+            "author": "白晓冰",
+            "title": "她的女朋友",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8730476",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "43429字",
+            "credits": "301,601",
+            "latestUpdates": "2024-03-28 21:00:00"
+        },
+        {
+            "author": "烟疏雨零",
+            "title": "不告",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8733762",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "34152字",
+            "credits": "300,322",
+            "latestUpdates": "2024-04-15 18:43:22"
         },
         {
             "author": "凭雨洗秋",
@@ -461,24 +461,14 @@
             "latestUpdates": "2024-03-03 09:00:00"
         },
         {
-            "author": "白晓冰",
-            "title": "她的女朋友",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8730476",
+            "author": "不甜不要",
+            "title": "复合可以，我不当受",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8754841",
             "genre": "近代现代-爱情",
             "status": "连载",
-            "wordCount": "43429字",
-            "credits": "277,731",
-            "latestUpdates": "2024-03-28 21:00:00"
-        },
-        {
-            "author": "烟疏雨零",
-            "title": "不告",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8733762",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "34152字",
-            "credits": "274,525",
-            "latestUpdates": "2024-04-15 18:43:22"
+            "wordCount": "32980字",
+            "credits": "278,816",
+            "latestUpdates": "2024-04-08 20:53:14"
         },
         {
             "author": "九节111",
@@ -489,6 +479,16 @@
             "wordCount": "35123字",
             "credits": "269,709",
             "latestUpdates": "2024-03-28 12:30:00"
+        },
+        {
+            "author": "夏天不能没有空调",
+            "title": "期许（待改）",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8620760",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "49013字",
+            "credits": "248,767",
+            "latestUpdates": "2024-04-08 21:35:00"
         },
         {
             "author": "木可其土",
@@ -521,24 +521,24 @@
             "latestUpdates": "2024-05-15 17:27:31"
         },
         {
-            "author": "酒昀",
-            "title": "她抬头看我了",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8618125",
-            "genre": "近代现代-剧情",
-            "status": "连载",
-            "wordCount": "25946字",
-            "credits": "185,061",
-            "latestUpdates": "2024-05-13 13:28:32"
-        },
-        {
             "author": "icebreaker",
             "title": "茉莉镇",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8685371",
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "31022字",
-            "credits": "184,425",
+            "credits": "194,347",
             "latestUpdates": "2024-02-22 19:00:00"
+        },
+        {
+            "author": "双木冬",
+            "title": "明天见",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8761408",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "20888字",
+            "credits": "182,949",
+            "latestUpdates": "2024-04-12 19:21:02"
         },
         {
             "author": "青木大神",
@@ -551,6 +551,16 @@
             "latestUpdates": "2024-04-09 22:22:54"
         },
         {
+            "author": "酒昀",
+            "title": "她抬头看我了",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8618125",
+            "genre": "近代现代-剧情",
+            "status": "连载",
+            "wordCount": "25946字",
+            "credits": "170,842",
+            "latestUpdates": "2024-05-13 13:28:32"
+        },
+        {
             "author": "蜀道仨",
             "title": "归途【缉毒】",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8794882",
@@ -559,16 +569,6 @@
             "wordCount": "21258字",
             "credits": "159,857",
             "latestUpdates": "2024-05-10 21:33:00"
-        },
-        {
-            "author": "双木冬",
-            "title": "明天见",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8761408",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "20888字",
-            "credits": "158,826",
-            "latestUpdates": "2024-04-12 19:21:02"
         },
         {
             "author": "努力睡大觉",
@@ -591,6 +591,26 @@
             "latestUpdates": "2024-05-15 21:11:30"
         },
         {
+            "author": "炭雪皆瑶",
+            "title": "肆月如朝",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8726028",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "12965字",
+            "credits": "153,889",
+            "latestUpdates": "2024-03-03 03:03:03"
+        },
+        {
+            "author": "一颗甜椰",
+            "title": "我最好的朋友卫若男",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8762060",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "17097字",
+            "credits": "149,171",
+            "latestUpdates": "2024-03-20 00:04:13"
+        },
+        {
             "author": "夏半双玖",
             "title": "她于绝望绽放",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8799607",
@@ -609,26 +629,6 @@
             "wordCount": "14930字",
             "credits": "140,338",
             "latestUpdates": "2024-02-26 18:17:12"
-        },
-        {
-            "author": "一颗甜椰",
-            "title": "我最好的朋友卫若男",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8762060",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "17097字",
-            "credits": "138,099",
-            "latestUpdates": "2024-03-20 00:04:13"
-        },
-        {
-            "author": "炭雪皆瑶",
-            "title": "肆月如朝",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8726028",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "12965字",
-            "credits": "136,643",
-            "latestUpdates": "2024-03-03 03:03:03"
         },
         {
             "author": "川不知哉",
@@ -677,7 +677,7 @@
             "genre": "近代现代-剧情",
             "status": "连载",
             "wordCount": "12786字",
-            "credits": "113,580",
+            "credits": "106,023",
             "latestUpdates": "2024-02-17 14:41:01"
         },
         {
@@ -741,23 +741,13 @@
             "latestUpdates": "2024-03-24 17:15:58"
         },
         {
-            "author": "醉池88",
-            "title": "回到春天",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8738311",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "10089字",
-            "credits": "82,807",
-            "latestUpdates": "2024-03-11 20:50:39"
-        },
-        {
             "author": "栋安木",
             "title": "专属",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8751432",
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "16521字",
-            "credits": "82,577",
+            "credits": "83,837",
             "latestUpdates": "2024-05-12 08:59:56"
         },
         {
@@ -779,6 +769,16 @@
             "wordCount": "12215字",
             "credits": "77,905",
             "latestUpdates": "2024-03-21 10:22:42"
+        },
+        {
+            "author": "醉池88",
+            "title": "回到春天",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8738311",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "10089字",
+            "credits": "72,646",
+            "latestUpdates": "2024-03-11 20:50:39"
         },
         {
             "author": "渡曲",
@@ -811,5 +811,5 @@
             "latestUpdates": "2024-03-01 00:04:04"
         }
     ],
-    "2024-05-16, 02:25:02 GMT+8"
+    "2024-05-16, 03:15:42 GMT+8"
 ]
