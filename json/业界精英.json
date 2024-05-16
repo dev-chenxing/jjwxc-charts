@@ -57,7 +57,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "45416字",
-            "credits": "33,890,272",
+            "credits": "33,830,960",
             "latestUpdates": "2024-03-25 12:16:31"
         },
         {
@@ -137,7 +137,7 @@
             "genre": "近代现代-悬疑",
             "status": "连载",
             "wordCount": "56755字",
-            "credits": "3,503,042",
+            "credits": "3,698,010",
             "latestUpdates": "2024-05-01 23:51:31"
         },
         {
@@ -157,7 +157,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "63323字",
-            "credits": "1,726,151",
+            "credits": "1,679,786",
             "latestUpdates": "2024-03-30 00:00:00"
         },
         {
@@ -211,6 +211,16 @@
             "latestUpdates": "2024-05-15 14:11:56"
         },
         {
+            "author": "银微子",
+            "title": "噬罪",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8814394",
+            "genre": "近代现代-悬疑",
+            "status": "连载",
+            "wordCount": "49437字",
+            "credits": "616,591",
+            "latestUpdates": "2024-05-05 18:00:00"
+        },
+        {
             "author": "上原惠子",
             "title": "商业帝国从捡到狐妖开始",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8767690",
@@ -219,16 +229,6 @@
             "wordCount": "59816字",
             "credits": "606,695",
             "latestUpdates": "2024-05-12 07:40:51"
-        },
-        {
-            "author": "银微子",
-            "title": "噬罪",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8814394",
-            "genre": "近代现代-悬疑",
-            "status": "连载",
-            "wordCount": "49437字",
-            "credits": "523,870",
-            "latestUpdates": "2024-05-05 18:00:00"
         },
         {
             "author": "卿周",
@@ -327,7 +327,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "19201字",
-            "credits": "190,499",
+            "credits": "190,730",
             "latestUpdates": "2024-03-27 23:22:43"
         },
         {
@@ -387,7 +387,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "23318字",
-            "credits": "150,383",
+            "credits": "137,471",
             "latestUpdates": "2024-05-13 01:19:00"
         },
         {
@@ -441,5 +441,5 @@
             "latestUpdates": "2024-03-26 22:00:09"
         }
     ],
-    "2024-05-17, 05:19:04 GMT+8"
+    "2024-05-17, 06:20:14 GMT+8"
 ]
