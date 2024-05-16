@@ -96,9 +96,9 @@
             "url": "https://www.jjwxc.net/onebook.php?novelid=8660971",
             "genre": "近代现代-爱情",
             "status": "连载",
-            "wordCount": "129215字",
+            "wordCount": "129219字",
             "credits": "9,346,985",
-            "latestUpdates": "2024-05-17 01:17:00"
+            "latestUpdates": "2024-05-17 01:19:28"
         },
         {
             "author": "不要辣椒多香菜",
@@ -107,7 +107,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "86335字",
-            "credits": "6,342,476",
+            "credits": "6,277,476",
             "latestUpdates": "2024-04-24 23:36:26"
         },
         {
@@ -157,8 +157,18 @@
             "genre": "架空历史-仙侠",
             "status": "连载",
             "wordCount": "63945字",
-            "credits": "941,645",
+            "credits": "923,182",
             "latestUpdates": "2024-05-08 19:28:39"
+        },
+        {
+            "author": "氧一多",
+            "title": "误标记的0竟是偏执美人",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8546518",
+            "genre": "近代现代-剧情",
+            "status": "连载",
+            "wordCount": "55246字",
+            "credits": "733,360",
+            "latestUpdates": "2024-05-12 22:00:16"
         },
         {
             "author": "开开开心",
@@ -169,16 +179,6 @@
             "wordCount": "72516字",
             "credits": "720,518",
             "latestUpdates": "2024-05-16 16:34:18"
-        },
-        {
-            "author": "氧一多",
-            "title": "误标记的0竟是偏执美人",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8546518",
-            "genre": "近代现代-剧情",
-            "status": "连载",
-            "wordCount": "55246字",
-            "credits": "713,635",
-            "latestUpdates": "2024-05-12 22:00:16"
         },
         {
             "author": "暴躁小孙",
@@ -211,6 +211,16 @@
             "latestUpdates": "2024-05-11 18:52:49"
         },
         {
+            "author": "空处天",
+            "title": "清冷师尊是钓系美人",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8766963",
+            "genre": "架空历史-仙侠",
+            "status": "连载",
+            "wordCount": "24410字",
+            "credits": "458,533",
+            "latestUpdates": "2024-03-30 21:00:21"
+        },
+        {
             "author": "言春冬",
             "title": "重生后勾引我的公主掉马了",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8730487",
@@ -219,16 +229,6 @@
             "wordCount": "29639字",
             "credits": "433,624",
             "latestUpdates": "2024-03-22 18:36:26"
-        },
-        {
-            "author": "空处天",
-            "title": "清冷师尊是钓系美人",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8766963",
-            "genre": "架空历史-仙侠",
-            "status": "连载",
-            "wordCount": "24410字",
-            "credits": "433,222",
-            "latestUpdates": "2024-03-30 21:00:21"
         },
         {
             "author": "文以愈心",
@@ -321,5 +321,5 @@
             "latestUpdates": "2024-03-20 21:37:43"
         }
     ],
-    "2024-05-17, 01:18:39 GMT+8"
+    "2024-05-17, 02:24:10 GMT+8"
 ]
