@@ -387,7 +387,7 @@
             "genre": "架空历史-仙侠",
             "status": "连载",
             "wordCount": "82181字",
-            "credits": "3,474,825",
+            "credits": "3,411,432",
             "latestUpdates": "2024-05-12 18:00:00"
         },
         {
@@ -457,18 +457,8 @@
             "genre": "架空历史-剧情",
             "status": "连载",
             "wordCount": "50432字",
-            "credits": "421,209",
+            "credits": "404,324",
             "latestUpdates": "2024-04-16 09:54:09"
-        },
-        {
-            "author": "何人无事",
-            "title": "落春山",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8693385",
-            "genre": "架空历史-爱情",
-            "status": "连载",
-            "wordCount": "48737字",
-            "credits": "379,824",
-            "latestUpdates": "2024-02-14 21:23:12"
         },
         {
             "author": "许人人",
@@ -489,6 +479,16 @@
             "wordCount": "26248字",
             "credits": "353,240",
             "latestUpdates": "2024-04-25 22:00:00"
+        },
+        {
+            "author": "何人无事",
+            "title": "落春山",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8693385",
+            "genre": "架空历史-爱情",
+            "status": "连载",
+            "wordCount": "48737字",
+            "credits": "348,671",
+            "latestUpdates": "2024-02-14 21:23:12"
         },
         {
             "author": "糖原o",
@@ -547,7 +547,7 @@
             "genre": "架空历史-爱情",
             "status": "连载",
             "wordCount": "24913字",
-            "credits": "280,074",
+            "credits": "272,822",
             "latestUpdates": "2024-04-28 17:23:07"
         },
         {
@@ -607,7 +607,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "20787字",
-            "credits": "188,146",
+            "credits": "185,241",
             "latestUpdates": "2024-04-26 15:47:52"
         },
         {
@@ -641,13 +641,23 @@
             "latestUpdates": "2024-05-07 23:28:29"
         },
         {
+            "author": "飞鸟易安",
+            "title": "希望之音",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8695599",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "13311字",
+            "credits": "126,580",
+            "latestUpdates": "2024-02-15 23:00:00"
+        },
+        {
             "author": "仔以",
             "title": "穿书后我把狗咬了",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8722725",
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "13222字",
-            "credits": "125,629",
+            "credits": "124,673",
             "latestUpdates": "2024-04-04 12:46:08"
         },
         {
@@ -669,16 +679,6 @@
             "wordCount": "16611字",
             "credits": "109,436",
             "latestUpdates": "2024-03-31 04:27:45"
-        },
-        {
-            "author": "三杏就是胡思乱想",
-            "title": "《我是女配的生存指南》",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8748389",
-            "genre": "架空历史-仙侠",
-            "status": "连载",
-            "wordCount": "10558字",
-            "credits": "104,037",
-            "latestUpdates": "2024-04-06 20:41:37"
         },
         {
             "author": "左禾拾柒",
@@ -711,16 +711,6 @@
             "latestUpdates": "2024-03-19 17:57:26"
         },
         {
-            "author": "飞鸟易安",
-            "title": "希望之音",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8695599",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "13311字",
-            "credits": "101,273",
-            "latestUpdates": "2024-02-15 23:00:00"
-        },
-        {
             "author": "鱼楦",
             "title": "剑心",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8713190",
@@ -729,6 +719,16 @@
             "wordCount": "10168字",
             "credits": "95,282",
             "latestUpdates": "2024-02-24 12:34:24"
+        },
+        {
+            "author": "三杏就是胡思乱想",
+            "title": "《我是女配的生存指南》",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8748389",
+            "genre": "架空历史-仙侠",
+            "status": "连载",
+            "wordCount": "10558字",
+            "credits": "95,246",
+            "latestUpdates": "2024-04-06 20:41:37"
         },
         {
             "author": "长忆相聚时",
@@ -747,7 +747,7 @@
             "genre": "古色古香-剧情",
             "status": "连载",
             "wordCount": "10472字",
-            "credits": "59,214",
+            "credits": "59,388",
             "latestUpdates": "2024-02-13 11:52:29"
         },
         {
@@ -771,5 +771,5 @@
             "latestUpdates": "2024-05-07 22:47:15"
         }
     ],
-    "2024-05-17, 11:21:03 GMT+8"
+    "2024-05-17, 12:23:15 GMT+8"
 ]
