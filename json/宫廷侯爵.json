@@ -147,7 +147,7 @@
             "genre": "架空历史-剧情",
             "status": "连载",
             "wordCount": "34085字",
-            "credits": "340,607",
+            "credits": "328,515",
             "latestUpdates": "2024-04-10 00:00:00"
         },
         {
@@ -161,6 +161,16 @@
             "latestUpdates": "2024-05-17 06:00:00"
         },
         {
+            "author": "帕尔西法z",
+            "title": "若平生欢",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8729027",
+            "genre": "架空历史-爱情",
+            "status": "连载",
+            "wordCount": "31695字",
+            "credits": "278,654",
+            "latestUpdates": "2024-05-08 20:15:00"
+        },
+        {
             "author": "不吃空气",
             "title": "海晏河清",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8835881",
@@ -169,16 +179,6 @@
             "wordCount": "35724字",
             "credits": "277,896",
             "latestUpdates": "2024-04-25 19:00:00"
-        },
-        {
-            "author": "帕尔西法z",
-            "title": "若平生欢",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8729027",
-            "genre": "架空历史-爱情",
-            "status": "连载",
-            "wordCount": "31695字",
-            "credits": "276,493",
-            "latestUpdates": "2024-05-08 20:15:00"
         },
         {
             "author": "南深以安",
@@ -251,5 +251,5 @@
             "latestUpdates": "2024-05-17 13:38:20"
         }
     ],
-    "2024-05-17, 16:23:59 GMT+8"
+    "2024-05-17, 17:21:16 GMT+8"
 ]

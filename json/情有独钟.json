@@ -157,7 +157,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "251129字",
-            "credits": "3,133,223",
+            "credits": "3,167,102",
             "latestUpdates": "2024-05-16 18:00:00"
         },
         {
@@ -217,7 +217,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "138251字",
-            "credits": "1,433,722",
+            "credits": "1,459,239",
             "latestUpdates": "2024-05-15 06:00:00"
         },
         {
@@ -257,7 +257,7 @@
             "genre": "近代现代-爱情",
             "status": "完结",
             "wordCount": "101547字",
-            "credits": "1,067,796",
+            "credits": "1,076,104",
             "latestUpdates": "2024-04-27 19:00:00"
         },
         {
@@ -301,6 +301,16 @@
             "latestUpdates": "2024-04-10 19:00:00"
         },
         {
+            "author": "妃里宁央",
+            "title": "我的邻居小姐姐",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8789614",
+            "genre": "近代现代-爱情",
+            "status": "完结",
+            "wordCount": "50395字",
+            "credits": "669,563",
+            "latestUpdates": "2024-04-03 14:47:00"
+        },
+        {
             "author": "宋叙彦",
             "title": "变奏的第三乐曲",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8749203",
@@ -309,16 +319,6 @@
             "wordCount": "30005字",
             "credits": "566,788",
             "latestUpdates": "2024-04-11 18:35:21"
-        },
-        {
-            "author": "妃里宁央",
-            "title": "我的邻居小姐姐",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8789614",
-            "genre": "近代现代-爱情",
-            "status": "完结",
-            "wordCount": "50395字",
-            "credits": "544,637",
-            "latestUpdates": "2024-04-03 14:47:00"
         },
         {
             "author": "采桃曦来照",
@@ -467,7 +467,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "26085字",
-            "credits": "245,582",
+            "credits": "245,841",
             "latestUpdates": "2024-03-11 16:49:29"
         },
         {
@@ -517,7 +517,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "31941字",
-            "credits": "184,790",
+            "credits": "184,513",
             "latestUpdates": "2024-05-03 17:20:31"
         },
         {
@@ -527,7 +527,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "20888字",
-            "credits": "184,220",
+            "credits": "182,949",
             "latestUpdates": "2024-04-12 19:21:02"
         },
         {
@@ -571,16 +571,6 @@
             "latestUpdates": "2024-03-03 03:03:03"
         },
         {
-            "author": "夏半双玖",
-            "title": "她于绝望绽放",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8799607",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "27041字",
-            "credits": "156,855",
-            "latestUpdates": "2024-04-27 20:28:53"
-        },
-        {
             "author": "灵临",
             "title": "我只要未来和你",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8845490",
@@ -597,7 +587,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "17097字",
-            "credits": "149,863",
+            "credits": "150,050",
             "latestUpdates": "2024-03-20 00:04:13"
         },
         {
@@ -607,7 +597,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "26135字",
-            "credits": "143,510",
+            "credits": "145,990",
             "latestUpdates": "2024-05-04 02:06:38"
         },
         {
@@ -667,7 +657,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "12215字",
-            "credits": "104,976",
+            "credits": "101,656",
             "latestUpdates": "2024-03-21 10:22:42"
         },
         {
@@ -699,6 +689,16 @@
             "wordCount": "11604字",
             "credits": "99,313",
             "latestUpdates": "2024-03-24 17:15:58"
+        },
+        {
+            "author": "夏半双玖",
+            "title": "她于绝望绽放",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8799607",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "27041字",
+            "credits": "97,029",
+            "latestUpdates": "2024-04-27 20:28:53"
         },
         {
             "author": "其实是螺蛳粉",
@@ -811,5 +811,5 @@
             "latestUpdates": "2024-03-01 00:04:04"
         }
     ],
-    "2024-05-17, 16:24:31 GMT+8"
+    "2024-05-17, 17:21:34 GMT+8"
 ]

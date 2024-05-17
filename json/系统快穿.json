@@ -116,9 +116,9 @@
             "url": "https://www.jjwxc.net/onebook.php?novelid=8095132",
             "genre": "近代现代-爱情",
             "status": "连载",
-            "wordCount": "102378字",
+            "wordCount": "102377字",
             "credits": "28,098,886",
-            "latestUpdates": "2024-05-17 16:21:04"
+            "latestUpdates": "2024-05-17 16:45:51"
         },
         {
             "author": "芝麻酱拌枇杷",
@@ -157,7 +157,7 @@
             "genre": "近代现代-奇幻",
             "status": "连载",
             "wordCount": "150772字",
-            "credits": "19,311,298",
+            "credits": "19,556,572",
             "latestUpdates": "2024-05-16 20:05:22"
         },
         {
@@ -347,7 +347,7 @@
             "genre": "架空历史-爱情",
             "status": "完结",
             "wordCount": "172998字",
-            "credits": "1,529,738",
+            "credits": "1,347,960",
             "latestUpdates": "2024-05-07 17:30:00"
         },
         {
@@ -391,6 +391,16 @@
             "latestUpdates": "2024-04-09 20:47:29"
         },
         {
+            "author": "凉不亮",
+            "title": "成为她的遥不可及后",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8766176",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "63521字",
+            "credits": "510,102",
+            "latestUpdates": "2024-05-15 22:12:59"
+        },
+        {
             "author": "危险的她",
             "title": "破晓",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8828422",
@@ -399,16 +409,6 @@
             "wordCount": "68560字",
             "credits": "508,995",
             "latestUpdates": "2024-05-15 20:52:53"
-        },
-        {
-            "author": "凉不亮",
-            "title": "成为她的遥不可及后",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8766176",
-            "genre": "近代现代-爱情",
-            "status": "连载",
-            "wordCount": "63521字",
-            "credits": "505,656",
-            "latestUpdates": "2024-05-15 22:12:59"
         },
         {
             "author": "月光下的白杨树",
@@ -517,7 +517,7 @@
             "genre": "架空历史-童话",
             "status": "连载",
             "wordCount": "19234字",
-            "credits": "124,255",
+            "credits": "125,352",
             "latestUpdates": "2024-05-04 16:13:21"
         },
         {
@@ -561,5 +561,5 @@
             "latestUpdates": "2024-05-17 07:27:17"
         }
     ],
-    "2024-05-17, 16:24:28 GMT+8"
+    "2024-05-17, 17:21:26 GMT+8"
 ]
