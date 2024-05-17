@@ -47,7 +47,7 @@
             "genre": "架空历史-爱情",
             "status": "连载",
             "wordCount": "192045字",
-            "credits": "51,301,440",
+            "credits": "51,064,552",
             "latestUpdates": "2024-05-08 18:00:00"
         },
         {
@@ -77,7 +77,7 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "104501字",
-            "credits": "13,901,412",
+            "credits": "13,560,813",
             "latestUpdates": "2024-05-08 21:31:35"
         },
         {
@@ -137,7 +137,7 @@
             "genre": "架空历史-爱情",
             "status": "连载",
             "wordCount": "43179字",
-            "credits": "3,268,793",
+            "credits": "3,265,775",
             "latestUpdates": "2024-04-23 01:59:18"
         },
         {
@@ -211,16 +211,6 @@
             "latestUpdates": "2024-05-11 18:52:49"
         },
         {
-            "author": "空处天",
-            "title": "清冷师尊是钓系美人",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8766963",
-            "genre": "架空历史-仙侠",
-            "status": "连载",
-            "wordCount": "24410字",
-            "credits": "458,533",
-            "latestUpdates": "2024-03-30 21:00:21"
-        },
-        {
             "author": "言春冬",
             "title": "重生后勾引我的公主掉马了",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8730487",
@@ -231,13 +221,23 @@
             "latestUpdates": "2024-03-22 18:36:26"
         },
         {
+            "author": "空处天",
+            "title": "清冷师尊是钓系美人",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8766963",
+            "genre": "架空历史-仙侠",
+            "status": "连载",
+            "wordCount": "24410字",
+            "credits": "433,222",
+            "latestUpdates": "2024-03-30 21:00:21"
+        },
+        {
             "author": "文以愈心",
             "title": "我那隐瞒身份装柔弱的Omega系统",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8743230",
             "genre": "近代现代-剧情",
             "status": "连载",
             "wordCount": "29272字",
-            "credits": "261,378",
+            "credits": "233,382",
             "latestUpdates": "2024-03-12 15:15:58"
         },
         {
@@ -271,6 +271,16 @@
             "latestUpdates": "2024-02-12 00:09:15"
         },
         {
+            "author": "为了学分写百合",
+            "title": "重生之将军你好香",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8758643",
+            "genre": "架空历史-爱情",
+            "status": "连载",
+            "wordCount": "10071字",
+            "credits": "122,779",
+            "latestUpdates": "2024-04-09 21:03:45"
+        },
+        {
             "author": "亦漓",
             "title": "重生后我拐走了老师的女儿",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8772979",
@@ -291,16 +301,6 @@
             "latestUpdates": "2024-02-16 17:14:10"
         },
         {
-            "author": "为了学分写百合",
-            "title": "重生之将军你好香",
-            "url": "https://www.jjwxc.net/onebook.php?novelid=8758643",
-            "genre": "架空历史-爱情",
-            "status": "连载",
-            "wordCount": "10071字",
-            "credits": "109,196",
-            "latestUpdates": "2024-04-09 21:03:45"
-        },
-        {
             "author": "槐已",
             "title": "虚拟语气",
             "url": "https://www.jjwxc.net/onebook.php?novelid=8766797",
@@ -317,9 +317,9 @@
             "genre": "近代现代-爱情",
             "status": "连载",
             "wordCount": "10085字",
-            "credits": "76,696",
+            "credits": "99,172",
             "latestUpdates": "2024-03-20 21:37:43"
         }
     ],
-    "2024-05-17, 09:22:38 GMT+8"
+    "2024-05-17, 10:30:16 GMT+8"
 ]
