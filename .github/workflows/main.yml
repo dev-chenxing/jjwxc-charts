@@ -8,9 +8,9 @@ on:
     pull_request:
         branches: [main]
     workflow_dispatch:
-    # Runs every hour
+    # Runs at 00:00
     schedule:
-        - cron: "0 */1 * * *"
+        - cron: "0 0 * * *"
 
 permissions:
     contents: write
@@ -40,7 +40,7 @@ jobs:
             - name: Commit and push if it changed
               run: |-
                   git config user.name "chen.xing"
-                  git config user.email "amaliegay@outlook.com"
+                  git config user.email "chenxing.io@outlook.com"
                   git add -A
                   timestamp=$(date '+%F %H:%M:%S %Z')
                   git commit -m "⚙️ $(curl -s https://whatthecommit.com/index.txt)" || exit 0

@@ -11,11 +11,11 @@ const getTagString = (genre, isCurrentGenre) => {
             return `\t<b>${genre}</b> |\n`;
         }
     } else if (genre === "穿越时空") {
-        return '\t<a href="https://github.com/amaliegay/jjwxc-charts/blob/main/README.md">穿越时空</a> |\n';
+        return '\t<a href="https://github.com/dev-chenxing/jjwxc-charts/blob/main/README.md">穿越时空</a> |\n';
     } else if (genre === "情有独钟") {
-        return '\t<a href="https://github.com/amaliegay/jjwxc-charts/blob/main/情有独钟.md">情有独钟</a>\n';
+        return '\t<a href="https://github.com/dev-chenxing/jjwxc-charts/blob/main/情有独钟.md">情有独钟</a>\n';
     } else {
-        return `\t<a href="https://github.com/amaliegay/jjwxc-charts/blob/main/${genre}.md">${genre}</a> |\n`;
+        return `\t<a href="https://github.com/dev-chenxing/jjwxc-charts/blob/main/${genre}.md">${genre}</a> |\n`;
     }
 };
 
