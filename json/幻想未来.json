@@ -1,4 +1,595 @@
 [
-    [],
-    "2025-01-27, 08:39:37 GMT+8"
+    [
+        {
+            "author": "沅枕",
+            "title": "劣A误和顶级大佬有了崽崽后",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8544655",
+            "genre": "幻想未来-爱情",
+            "status": "连载",
+            "wordCount": "248718字",
+            "credits": "251,950,512",
+            "latestUpdates": "2025-01-28 03:32:31"
+        },
+        {
+            "author": "铃舟",
+            "title": "我是废土反派Alpha",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8346142",
+            "genre": "幻想未来-爱情",
+            "status": "连载",
+            "wordCount": "622623字",
+            "credits": "136,650,368",
+            "latestUpdates": "2025-01-28 00:00:00"
+        },
+        {
+            "author": "和曲",
+            "title": "一觉醒来老婆和我离婚了",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9158936",
+            "genre": "幻想未来-爱情",
+            "status": "连载",
+            "wordCount": "396649字",
+            "credits": "104,577,304",
+            "latestUpdates": "2025-01-27 22:51:59"
+        },
+        {
+            "author": "沈日十",
+            "title": "我和我杀穿求生游戏",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=7009858",
+            "genre": "幻想未来-剧情",
+            "status": "连载",
+            "wordCount": "133513字",
+            "credits": "63,137,908",
+            "latestUpdates": "2024-12-25 23:53:30"
+        },
+        {
+            "author": "唐小海",
+            "title": "赛博世界开服后被死敌捡回家",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=7778849",
+            "genre": "幻想未来-奇幻",
+            "status": "连载",
+            "wordCount": "291883字",
+            "credits": "58,392,288",
+            "latestUpdates": "2025-01-28 00:01:15"
+        },
+        {
+            "author": "李酶酶",
+            "title": "被怪物寄生后",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9241791",
+            "genre": "幻想未来-爱情",
+            "status": "连载",
+            "wordCount": "206448字",
+            "credits": "37,337,096",
+            "latestUpdates": "2025-01-27 22:27:17"
+        },
+        {
+            "author": "吞天口",
+            "title": "未婚妻每天都在算计我",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8956507",
+            "genre": "幻想未来-爱情",
+            "status": "连载",
+            "wordCount": "189606字",
+            "credits": "33,945,132",
+            "latestUpdates": "2025-01-19 23:59:16"
+        },
+        {
+            "author": "佘十一",
+            "title": "清冷O是钓系诱受",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9327049",
+            "genre": "幻想未来-爱情",
+            "status": "连载",
+            "wordCount": "253012字",
+            "credits": "27,941,612",
+            "latestUpdates": "2025-01-28 07:58:43"
+        },
+        {
+            "author": "不飍",
+            "title": "安息日［末世］",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8658055",
+            "genre": "幻想未来-科幻",
+            "status": "连载",
+            "wordCount": "76274字",
+            "credits": "25,255,732",
+            "latestUpdates": "2024-11-29 07:30:38"
+        },
+        {
+            "author": "雪上狐",
+            "title": "我在全女世界当团宠",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9332827",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "96712字",
+            "credits": "18,125,500",
+            "latestUpdates": "2025-01-26 00:09:15"
+        },
+        {
+            "author": "芝士怎么不香呢",
+            "title": "体型差",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9220114",
+            "genre": "幻想未来-爱情",
+            "status": "连载",
+            "wordCount": "168187字",
+            "credits": "13,312,089",
+            "latestUpdates": "2025-01-27 22:00:00"
+        },
+        {
+            "author": "洛小六",
+            "title": "系统让我保护恶毒女配？",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=7980626",
+            "genre": "幻想未来-爱情",
+            "status": "连载",
+            "wordCount": "125323字",
+            "credits": "5,154,148",
+            "latestUpdates": "2025-01-25 22:25:58"
+        },
+        {
+            "author": "禾绪",
+            "title": "偶然的春天",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9122686",
+            "genre": "幻想未来-科幻",
+            "status": "完结",
+            "wordCount": "76426字",
+            "credits": "2,802,233",
+            "latestUpdates": "2024-12-27 23:13:26"
+        },
+        {
+            "author": "清舞莉扬",
+            "title": "末世之找到你",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9322783",
+            "genre": "近代现代-惊悚",
+            "status": "连载",
+            "wordCount": "99850字",
+            "credits": "2,789,293",
+            "latestUpdates": "2025-01-25 22:26:01"
+        },
+        {
+            "author": "转身月明",
+            "title": "末路回声",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9281920",
+            "genre": "幻想未来-剧情",
+            "status": "连载",
+            "wordCount": "64917字",
+            "credits": "2,269,098",
+            "latestUpdates": "2025-01-21 23:45:28"
+        },
+        {
+            "author": "灯影诗人古古怪怪",
+            "title": "[网游]忧郁的兔子女仆",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9217693",
+            "genre": "近代现代-奇幻",
+            "status": "完结",
+            "wordCount": "100434字",
+            "credits": "1,993,561",
+            "latestUpdates": "2025-01-07 13:46:01"
+        },
+        {
+            "author": "泠川青睐",
+            "title": "魔法少女再就业，但加入反派",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9315863",
+            "genre": "幻想未来-奇幻",
+            "status": "完结",
+            "wordCount": "383519字",
+            "credits": "1,886,809",
+            "latestUpdates": "2025-01-24 13:04:23"
+        },
+        {
+            "author": "随缘修士",
+            "title": "全民末日求生：我有星际移动堡垒升级系统",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9242907",
+            "genre": "幻想未来-科幻",
+            "status": "完结",
+            "wordCount": "161400字",
+            "credits": "1,765,386",
+            "latestUpdates": "2024-12-23 21:19:51"
+        },
+        {
+            "author": "胭脂蝉",
+            "title": "罪恶来源",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9176443",
+            "genre": "幻想未来-爱情",
+            "status": "连载",
+            "wordCount": "49109字",
+            "credits": "1,440,770",
+            "latestUpdates": "2024-11-06 22:01:01"
+        },
+        {
+            "author": "壶粥",
+            "title": "捕影",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9269061",
+            "genre": "幻想未来-奇幻",
+            "status": "连载",
+            "wordCount": "64353字",
+            "credits": "1,321,718",
+            "latestUpdates": "2025-01-18 00:19:04"
+        },
+        {
+            "author": "酷茶怪盗",
+            "title": "莱因哈特的悲伤",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9324903",
+            "genre": "幻想未来-剧情",
+            "status": "连载",
+            "wordCount": "54306字",
+            "credits": "1,293,755",
+            "latestUpdates": "2024-12-18 22:55:16"
+        },
+        {
+            "author": "一点点妍",
+            "title": "剑客和她的剑灵",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9275859",
+            "genre": "幻想未来-仙侠",
+            "status": "连载",
+            "wordCount": "118447字",
+            "credits": "1,146,193",
+            "latestUpdates": "2025-01-24 21:24:43"
+        },
+        {
+            "author": "木可了",
+            "title": "暴躁魔君，在线成团",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8946190",
+            "genre": "幻想未来-传奇",
+            "status": "连载",
+            "wordCount": "54587字",
+            "credits": "1,129,097",
+            "latestUpdates": "2024-12-31 19:29:29"
+        },
+        {
+            "author": "文侠墨客",
+            "title": "变身末世系统，把宿主的活干了",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9274409",
+            "genre": "幻想未来-爱情",
+            "status": "连载",
+            "wordCount": "85670字",
+            "credits": "1,086,953",
+            "latestUpdates": "2025-01-11 06:30:06"
+        },
+        {
+            "author": "雾里棠",
+            "title": "电子女友给我谈到真的了",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9312125",
+            "genre": "幻想未来-爱情",
+            "status": "连载",
+            "wordCount": "84989字",
+            "credits": "828,553",
+            "latestUpdates": "2025-01-26 22:35:15"
+        },
+        {
+            "author": "泠川青睐",
+            "title": "柠檬，作家、虚构少女",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9288374",
+            "genre": "幻想未来-奇幻",
+            "status": "连载",
+            "wordCount": "121190字",
+            "credits": "795,302",
+            "latestUpdates": "2025-01-27 20:17:47"
+        },
+        {
+            "author": "沈冗",
+            "title": "出逃",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9243364",
+            "genre": "幻想未来-奇幻",
+            "status": "连载",
+            "wordCount": "76855字",
+            "credits": "698,632",
+            "latestUpdates": "2024-11-14 00:38:15"
+        },
+        {
+            "author": "蜜桃小朵",
+            "title": "野玫瑰和遗忘咒",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9343875",
+            "genre": "幻想未来-爱情",
+            "status": "连载",
+            "wordCount": "77257字",
+            "credits": "657,181",
+            "latestUpdates": "2024-12-28 20:01:11"
+        },
+        {
+            "author": "文侠墨客",
+            "title": "外星异种：人类公敌竟是我？",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9341304",
+            "genre": "幻想未来-剧情",
+            "status": "连载",
+            "wordCount": "117895字",
+            "credits": "650,007",
+            "latestUpdates": "2025-01-18 15:00:00"
+        },
+        {
+            "author": "沈埝淇",
+            "title": "牢笼",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9307028",
+            "genre": "幻想未来-剧情",
+            "status": "连载",
+            "wordCount": "132285字",
+            "credits": "620,860",
+            "latestUpdates": "2025-01-25 16:49:52"
+        },
+        {
+            "author": "新库骰",
+            "title": "雪之塔[哨向]",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8935126",
+            "genre": "幻想未来-爱情",
+            "status": "完结",
+            "wordCount": "57785字",
+            "credits": "599,627",
+            "latestUpdates": "2025-01-25 06:26:15"
+        },
+        {
+            "author": "月面环形山",
+            "title": "探索者",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9066038",
+            "genre": "架空历史-科幻",
+            "status": "连载",
+            "wordCount": "93900字",
+            "credits": "449,472",
+            "latestUpdates": "2024-11-21 00:00:00"
+        },
+        {
+            "author": "胖次鱼",
+            "title": "两次拒婚后，王女她后悔了",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9324373",
+            "genre": "幻想未来-科幻",
+            "status": "连载",
+            "wordCount": "54848字",
+            "credits": "441,957",
+            "latestUpdates": "2025-01-23 00:46:00"
+        },
+        {
+            "author": "渡青",
+            "title": "梦中有我",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9305657",
+            "genre": "幻想未来-爱情",
+            "status": "连载",
+            "wordCount": "25584字",
+            "credits": "418,426",
+            "latestUpdates": "2024-12-14 19:58:32"
+        },
+        {
+            "author": "写森",
+            "title": "零日漏洞",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9266237",
+            "genre": "幻想未来-科幻",
+            "status": "连载",
+            "wordCount": "64433字",
+            "credits": "277,306",
+            "latestUpdates": "2025-01-22 11:51:31"
+        },
+        {
+            "author": "黑小鸟",
+            "title": "着相（微克苏鲁）",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9291265",
+            "genre": "幻想未来-奇幻",
+            "status": "连载",
+            "wordCount": "131012字",
+            "credits": "214,679",
+            "latestUpdates": "2025-01-25 19:52:28"
+        },
+        {
+            "author": "三川子scz",
+            "title": "那年风过海棠",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9293836",
+            "genre": "幻想未来-仙侠",
+            "status": "完结",
+            "wordCount": "56256字",
+            "credits": "213,407",
+            "latestUpdates": "2024-11-14 00:23:00"
+        },
+        {
+            "author": "景顺长安",
+            "title": "曦风",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9246597",
+            "genre": "幻想未来-爱情",
+            "status": "连载",
+            "wordCount": "69696字",
+            "credits": "198,474",
+            "latestUpdates": "2024-11-05 09:04:42"
+        },
+        {
+            "author": "婋雌",
+            "title": "末日，我能召唤兽王姐姐和龙神姐姐",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9323680",
+            "genre": "幻想未来-惊悚",
+            "status": "连载",
+            "wordCount": "29412字",
+            "credits": "193,741",
+            "latestUpdates": "2024-12-06 21:11:53"
+        },
+        {
+            "author": "桔梗一",
+            "title": "她能闻见我的心思",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9298776",
+            "genre": "幻想未来-奇幻",
+            "status": "连载",
+            "wordCount": "34660字",
+            "credits": "184,815",
+            "latestUpdates": "2025-01-22 00:45:11"
+        },
+        {
+            "author": "春见枯树",
+            "title": "埊祭神殉",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9186169",
+            "genre": "幻想未来-剧情",
+            "status": "连载",
+            "wordCount": "21879字",
+            "credits": "179,834",
+            "latestUpdates": "2025-01-22 10:57:14"
+        },
+        {
+            "author": "勒秋",
+            "title": "与你，便入万家灯火",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9097971",
+            "genre": "近代现代-剧情",
+            "status": "连载",
+            "wordCount": "31722字",
+            "credits": "167,882",
+            "latestUpdates": "2025-01-22 22:12:15"
+        },
+        {
+            "author": "江枝与",
+            "title": "林舟之梦",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9250849",
+            "genre": "幻想未来-科幻",
+            "status": "连载",
+            "wordCount": "29573字",
+            "credits": "143,459",
+            "latestUpdates": "2025-01-13 12:40:57"
+        },
+        {
+            "author": "少御寒岗",
+            "title": "朦胧界线",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9306427",
+            "genre": "幻想未来-科幻",
+            "status": "连载",
+            "wordCount": "32457字",
+            "credits": "129,462",
+            "latestUpdates": "2025-01-04 16:42:25"
+        },
+        {
+            "author": "怜蕖",
+            "title": "末世我靠给女主喂仙丹he了",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9308050",
+            "genre": "幻想未来-奇幻",
+            "status": "连载",
+            "wordCount": "13493字",
+            "credits": "124,376",
+            "latestUpdates": "2024-11-24 21:04:59"
+        },
+        {
+            "author": "乌槿",
+            "title": "第三人称？",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9127003",
+            "genre": "幻想未来-爱情",
+            "status": "连载",
+            "wordCount": "24488字",
+            "credits": "123,553",
+            "latestUpdates": "2025-01-27 15:18:05"
+        },
+        {
+            "author": "六月拾荒",
+            "title": "初级感染者",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9250324",
+            "genre": "幻想未来-奇幻",
+            "status": "连载",
+            "wordCount": "23875字",
+            "credits": "121,122",
+            "latestUpdates": "2024-12-09 23:34:15"
+        },
+        {
+            "author": "忆笺",
+            "title": "科学仙旅",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9275103",
+            "genre": "幻想未来-科幻",
+            "status": "连载",
+            "wordCount": "37441字",
+            "credits": "110,205",
+            "latestUpdates": "2024-11-12 19:21:54"
+        },
+        {
+            "author": "栖木未栖",
+            "title": "我在末日当救世主",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9236763",
+            "genre": "幻想未来-奇幻",
+            "status": "连载",
+            "wordCount": "16730字",
+            "credits": "102,202",
+            "latestUpdates": "2024-12-01 23:30:01"
+        },
+        {
+            "author": "豫里友人",
+            "title": "镜面法则",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9247103",
+            "genre": "幻想未来-传奇",
+            "status": "连载",
+            "wordCount": "44453字",
+            "credits": "100,465",
+            "latestUpdates": "2024-11-03 11:38:24"
+        },
+        {
+            "author": "椭圆力",
+            "title": "我在名为镜的星球漫游一生（百合）",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9256633",
+            "genre": "幻想未来-剧情",
+            "status": "连载",
+            "wordCount": "39475字",
+            "credits": "100,316",
+            "latestUpdates": "2024-12-03 13:14:06"
+        },
+        {
+            "author": "婪小聍",
+            "title": "当恶毒女配傍上冥祖后",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9345971",
+            "genre": "幻想未来-爱情",
+            "status": "连载",
+            "wordCount": "16104字",
+            "credits": "94,894",
+            "latestUpdates": "2024-12-17 22:24:36"
+        },
+        {
+            "author": "就叫嘤仙子好了",
+            "title": "我就是自己的道侣？",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9294278",
+            "genre": "幻想未来-仙侠",
+            "status": "连载",
+            "wordCount": "15140字",
+            "credits": "79,986",
+            "latestUpdates": "2024-11-14 16:05:46"
+        },
+        {
+            "author": "周郁禾",
+            "title": "风吹来了郁金香",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9266995",
+            "genre": "幻想未来-爱情",
+            "status": "连载",
+            "wordCount": "31708字",
+            "credits": "76,789",
+            "latestUpdates": "2024-11-06 21:43:51"
+        },
+        {
+            "author": "天享阳欢",
+            "title": "全息蝴蝶",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9253621",
+            "genre": "幻想未来-科幻",
+            "status": "连载",
+            "wordCount": "10311字",
+            "credits": "65,692",
+            "latestUpdates": "2024-10-23 21:46:06"
+        },
+        {
+            "author": "木易籽",
+            "title": "变成卧底怎么办",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9321128",
+            "genre": "-幻想未来-剧情",
+            "status": "连载",
+            "wordCount": "11049字",
+            "credits": "55,436",
+            "latestUpdates": "2025-01-05 15:52:49"
+        },
+        {
+            "author": "笠泽畔",
+            "title": "大山奇遇记",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9293897",
+            "genre": "幻想未来-剧情",
+            "status": "连载",
+            "wordCount": "14989字",
+            "credits": "50,543",
+            "latestUpdates": "2024-11-13 23:59:59"
+        },
+        {
+            "author": "填梦",
+            "title": "人生处处有花香",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9248160",
+            "genre": "幻想未来-奇幻",
+            "status": "连载",
+            "wordCount": "10145字",
+            "credits": "48,091",
+            "latestUpdates": "2024-10-21 21:08:37"
+        },
+        {
+            "author": "平淡的i",
+            "title": "城迹",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9275874",
+            "genre": "近代现代-剧情",
+            "status": "连载",
+            "wordCount": "10827字",
+            "credits": "31,588",
+            "latestUpdates": "2024-12-22 02:50:30"
+        }
+    ],
+    "2025-01-28, 08:38:59 GMT+8"
 ]
