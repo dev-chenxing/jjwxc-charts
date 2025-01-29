@@ -1,4 +1,665 @@
 [
-    [],
-    "2025-01-28, 08:38:31 GMT+8"
+    [
+        {
+            "author": "何为风月",
+            "title": "我杀猪养你啊",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8477594",
+            "genre": "架空历史-爱情",
+            "status": "连载",
+            "wordCount": "489600字",
+            "credits": "408,797,888",
+            "latestUpdates": "2025-01-29 03:21:32"
+        },
+        {
+            "author": "洛小湃",
+            "title": "穿为校园虐文女主后",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9258613",
+            "genre": "近代现代-爱情",
+            "status": "完结",
+            "wordCount": "356373字",
+            "credits": "205,384,096",
+            "latestUpdates": "2025-01-27 15:36:25"
+        },
+        {
+            "author": "公子幸川",
+            "title": "穿书成长公主的驸马赘A",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=7945930",
+            "genre": "架空历史-爱情",
+            "status": "连载",
+            "wordCount": "475088字",
+            "credits": "195,608,704",
+            "latestUpdates": "2025-01-28 15:19:23"
+        },
+        {
+            "author": "于小杉",
+            "title": "电竞大神重回新手村",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9256200",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "312399字",
+            "credits": "191,333,152",
+            "latestUpdates": "2025-01-28 23:21:57"
+        },
+        {
+            "author": "淘醉",
+            "title": "误将偏执反派当女主标记后",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9204357",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "388451字",
+            "credits": "189,062,368",
+            "latestUpdates": "2025-01-28 22:30:00"
+        },
+        {
+            "author": "乱曲",
+            "title": "反派虎虎不想磕cp，只想谈恋爱",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8528698",
+            "genre": "架空历史-爱情",
+            "status": "完结",
+            "wordCount": "313633字",
+            "credits": "183,355,872",
+            "latestUpdates": "2025-01-26 12:00:06"
+        },
+        {
+            "author": "柒殇祭",
+            "title": "她与灰姑娘",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9344542",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "105868字",
+            "credits": "149,046,144",
+            "latestUpdates": "2025-01-20 15:48:50"
+        },
+        {
+            "author": "六出轻吕",
+            "title": "我女朋友是清冷病美人",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8028488",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "293479字",
+            "credits": "130,051,696",
+            "latestUpdates": "2025-01-29 00:01:09"
+        },
+        {
+            "author": "小阿钱",
+            "title": "豪门早死白月光回来后",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8659326",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "190475字",
+            "credits": "102,842,800",
+            "latestUpdates": "2025-01-28 10:46:50"
+        },
+        {
+            "author": "懒眠",
+            "title": "当打工人变成傲娇大小姐的青梅跟班",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9254774",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "256996字",
+            "credits": "97,126,784",
+            "latestUpdates": "2025-01-29 00:12:18"
+        },
+        {
+            "author": "摇叁",
+            "title": "被迫装A和影后omega协议结婚后",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9306494",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "364106字",
+            "credits": "82,666,800",
+            "latestUpdates": "2025-01-28 18:00:01"
+        },
+        {
+            "author": "江溶棠梨",
+            "title": "替身A在求生综艺被前任她姑告白",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8618420",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "160640字",
+            "credits": "66,411,872",
+            "latestUpdates": "2025-01-28 21:00:00"
+        },
+        {
+            "author": "田园白菜",
+            "title": "黑莲花公主的女驸马",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9066298",
+            "genre": "架空历史-爱情",
+            "status": "连载",
+            "wordCount": "361552字",
+            "credits": "59,625,372",
+            "latestUpdates": "2025-01-28 12:00:00"
+        },
+        {
+            "author": "公子欢",
+            "title": "误将病娇女帝当外室养了",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9191987",
+            "genre": "架空历史-爱情",
+            "status": "连载",
+            "wordCount": "284088字",
+            "credits": "58,448,608",
+            "latestUpdates": "2025-01-27 23:20:50"
+        },
+        {
+            "author": "ForElise",
+            "title": "渣A标记疯美女主后",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9274360",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "301961字",
+            "credits": "55,407,352",
+            "latestUpdates": "2025-01-29 00:15:15"
+        },
+        {
+            "author": "漫浪星",
+            "title": "渣攻的歌后老婆失忆了",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9248990",
+            "genre": "近代现代-爱情",
+            "status": "完结",
+            "wordCount": "269781字",
+            "credits": "48,549,772",
+            "latestUpdates": "2025-01-23 07:59:12"
+        },
+        {
+            "author": "纾困纾醒",
+            "title": "也妹说她是怪谈啊",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9041821",
+            "genre": "近代现代-惊悚",
+            "status": "连载",
+            "wordCount": "237010字",
+            "credits": "39,586,192",
+            "latestUpdates": "2025-01-28 00:53:53"
+        },
+        {
+            "author": "青萝玉色",
+            "title": "被长公主标记后怀了她的崽[穿书]",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9065935",
+            "genre": "架空历史-爱情",
+            "status": "完结",
+            "wordCount": "111072字",
+            "credits": "39,345,208",
+            "latestUpdates": "2025-01-12 20:45:44"
+        },
+        {
+            "author": "夏有信",
+            "title": "残疾反派O她凭亿近人",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8463944",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "130885字",
+            "credits": "38,762,964",
+            "latestUpdates": "2025-01-28 23:48:40"
+        },
+        {
+            "author": "贰月始一",
+            "title": "当好反派的贴心软A",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8011914",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "150051字",
+            "credits": "37,671,016",
+            "latestUpdates": "2025-01-28 20:00:15"
+        },
+        {
+            "author": "大咸猫",
+            "title": "穿为大反派的炮灰徒弟",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9193693",
+            "genre": "架空历史-爱情",
+            "status": "连载",
+            "wordCount": "194853字",
+            "credits": "35,352,896",
+            "latestUpdates": "2025-01-28 09:00:00"
+        },
+        {
+            "author": "琉璃仙草",
+            "title": "孤不想当皇帝！",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9334973",
+            "genre": "架空历史-爱情",
+            "status": "连载",
+            "wordCount": "299161字",
+            "credits": "30,863,940",
+            "latestUpdates": "2025-01-28 13:45:33"
+        },
+        {
+            "author": "渡米花椰菜",
+            "title": "钓系魔尊怀崽跑",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9311752",
+            "genre": "架空历史-仙侠",
+            "status": "连载",
+            "wordCount": "221850字",
+            "credits": "29,509,102",
+            "latestUpdates": "2025-01-28 01:10:12"
+        },
+        {
+            "author": "秋曙",
+            "title": "郡马的排名",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8000831",
+            "genre": "架空历史-爱情",
+            "status": "连载",
+            "wordCount": "143663字",
+            "credits": "25,692,664",
+            "latestUpdates": "2025-01-27 18:00:02"
+        },
+        {
+            "author": "鹅十六",
+            "title": "渣A？不，软A天天和影后争攻受",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9104071",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "186402字",
+            "credits": "24,410,212",
+            "latestUpdates": "2025-01-27 23:55:38"
+        },
+        {
+            "author": "村里的一枝花儿",
+            "title": "离婚带俩娃在山旮旯开农庄",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8902063",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "247395字",
+            "credits": "21,214,500",
+            "latestUpdates": "2025-01-28 16:32:09"
+        },
+        {
+            "author": "脑袋砸核桃",
+            "title": "穿书白莲花女主，但攻略高冷反派",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9243126",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "164696字",
+            "credits": "14,884,857",
+            "latestUpdates": "2025-01-26 00:15:46"
+        },
+        {
+            "author": "九訸",
+            "title": "杀死女主角",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9320986",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "85611字",
+            "credits": "9,870,079",
+            "latestUpdates": "2025-01-27 19:43:47"
+        },
+        {
+            "author": "病唉人",
+            "title": "穿书成女驸马",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9351015",
+            "genre": "架空历史-爱情",
+            "status": "连载",
+            "wordCount": "74866字",
+            "credits": "9,480,140",
+            "latestUpdates": "2025-01-11 01:51:56"
+        },
+        {
+            "author": "金新",
+            "title": "替身A觉醒了",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9174818",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "93071字",
+            "credits": "9,070,235",
+            "latestUpdates": "2025-01-29 08:37:41"
+        },
+        {
+            "author": "池萤",
+            "title": "师姐总爱摸我尾巴怎么办！",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9220348",
+            "genre": "架空历史-仙侠",
+            "status": "连载",
+            "wordCount": "115416字",
+            "credits": "7,633,753",
+            "latestUpdates": "2024-12-30 23:09:09"
+        },
+        {
+            "author": "漏电猫咪",
+            "title": "咖啡，焰火，和我的雨季",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9291877",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "93303字",
+            "credits": "7,269,715",
+            "latestUpdates": "2024-12-25 22:45:03"
+        },
+        {
+            "author": "苏不了",
+            "title": "根据书名穿书是不靠谱",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9327705",
+            "genre": "近代现代-爱情",
+            "status": "完结",
+            "wordCount": "169759字",
+            "credits": "5,934,762",
+            "latestUpdates": "2025-01-24 10:00:00"
+        },
+        {
+            "author": "宋秦赢",
+            "title": "小符师她今天归山了吗？",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9264305",
+            "genre": "架空历史-仙侠",
+            "status": "完结",
+            "wordCount": "119420字",
+            "credits": "5,235,316",
+            "latestUpdates": "2024-12-22 18:00:05"
+        },
+        {
+            "author": "树濑懒懒",
+            "title": "阴暗反派从书里穿出来后",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9254354",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "184739字",
+            "credits": "5,205,342",
+            "latestUpdates": "2025-01-19 05:07:05"
+        },
+        {
+            "author": "驴太太",
+            "title": "镜子替我吻你",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8970542",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "79542字",
+            "credits": "4,992,045",
+            "latestUpdates": "2025-01-28 21:32:15"
+        },
+        {
+            "author": "江小水",
+            "title": "搞钱！从成为美人师尊的经纪人开始",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9329665",
+            "genre": "架空历史-仙侠",
+            "status": "连载",
+            "wordCount": "112758字",
+            "credits": "4,947,759",
+            "latestUpdates": "2025-01-26 23:51:00"
+        },
+        {
+            "author": "芯允",
+            "title": "小梨恋柚",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9287942",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "105286字",
+            "credits": "3,079,818",
+            "latestUpdates": "2025-01-28 18:00:00"
+        },
+        {
+            "author": "担风绣月",
+            "title": "别再催眠我啦，反派魔女！ [反穿]",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9256106",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "38915字",
+            "credits": "2,870,795",
+            "latestUpdates": "2024-12-22 00:00:15"
+        },
+        {
+            "author": "岁岁明美",
+            "title": "古代女子奋斗日常",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9272354",
+            "genre": "架空历史-爱情",
+            "status": "连载",
+            "wordCount": "79017字",
+            "credits": "2,271,203",
+            "latestUpdates": "2025-01-28 12:00:00"
+        },
+        {
+            "author": "尔耳贰贰",
+            "title": "反派总想着贴贴",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9346958",
+            "genre": "古色古香-仙侠",
+            "status": "连载",
+            "wordCount": "67586字",
+            "credits": "2,171,915",
+            "latestUpdates": "2025-01-28 23:48:58"
+        },
+        {
+            "author": "八方锦",
+            "title": "莉莉诺，今天吃什么？",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8832947",
+            "genre": "架空历史-奇幻",
+            "status": "连载",
+            "wordCount": "53102字",
+            "credits": "1,655,257",
+            "latestUpdates": "2025-01-28 23:48:19"
+        },
+        {
+            "author": "合宝包",
+            "title": "凤羽阁与临江仙",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9270185",
+            "genre": "架空历史-爱情",
+            "status": "连载",
+            "wordCount": "71325字",
+            "credits": "823,979",
+            "latestUpdates": "2024-12-01 04:01:28"
+        },
+        {
+            "author": "尢枝",
+            "title": "高冷影后逼我标记她",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9345662",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "13162字",
+            "credits": "811,743",
+            "latestUpdates": "2025-01-26 01:31:08"
+        },
+        {
+            "author": "麦麦花花",
+            "title": "炮灰女配不想再当恋爱脑",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9281125",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "23557字",
+            "credits": "773,454",
+            "latestUpdates": "2024-12-24 14:57:09"
+        },
+        {
+            "author": "天马半汉",
+            "title": "墨笔流金",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9346256",
+            "genre": "古色古香-剧情",
+            "status": "完结",
+            "wordCount": "150767字",
+            "credits": "766,551",
+            "latestUpdates": "2025-01-28 12:00:00"
+        },
+        {
+            "author": "落落小花",
+            "title": "穿书后，我和红衣姐姐he了",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9312073",
+            "genre": "近代现代-惊悚",
+            "status": "连载",
+            "wordCount": "43988字",
+            "credits": "471,982",
+            "latestUpdates": "2024-12-04 11:10:55"
+        },
+        {
+            "author": "Lulumi",
+            "title": "穿书和女主HE了",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9301197",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "58871字",
+            "credits": "444,345",
+            "latestUpdates": "2024-12-02 18:00:00"
+        },
+        {
+            "author": "临不榆",
+            "title": "我不能失去",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9248153",
+            "genre": "架空历史-奇幻",
+            "status": "连载",
+            "wordCount": "93239字",
+            "credits": "342,507",
+            "latestUpdates": "2025-01-12 09:41:29"
+        },
+        {
+            "author": "乌鸦说",
+            "title": "新同学你是一只小萌狗",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9267941",
+            "genre": "近代现代-剧情",
+            "status": "连载",
+            "wordCount": "12229字",
+            "credits": "240,972",
+            "latestUpdates": "2024-11-12 09:11:05"
+        },
+        {
+            "author": "伭十四倾",
+            "title": "下重观",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9274130",
+            "genre": "架空历史-仙侠",
+            "status": "连载",
+            "wordCount": "44704字",
+            "credits": "150,772",
+            "latestUpdates": "2024-11-24 19:41:27"
+        },
+        {
+            "author": "向ING",
+            "title": "从流民到地主致富指南",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9274466",
+            "genre": "架空历史-爱情",
+            "status": "连载",
+            "wordCount": "13588字",
+            "credits": "146,501",
+            "latestUpdates": "2024-11-09 23:59:27"
+        },
+        {
+            "author": "霜月华",
+            "title": "穿越后虐文女主对我别有用心",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9275572",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "17322字",
+            "credits": "144,166",
+            "latestUpdates": "2025-01-09 14:46:34"
+        },
+        {
+            "author": "我是嘀嘀老师哦",
+            "title": "穿成炮灰O靠卖凉皮迎娶女主",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9262028",
+            "genre": "近代现代-剧情",
+            "status": "连载",
+            "wordCount": "10257字",
+            "credits": "143,379",
+            "latestUpdates": "2024-11-07 20:45:34"
+        },
+        {
+            "author": "维迩言是听",
+            "title": "重生后和前女友he了",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9305879",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "20384字",
+            "credits": "127,833",
+            "latestUpdates": "2024-11-28 10:30:00"
+        },
+        {
+            "author": "睿智怪",
+            "title": "当清冷邪神遇到绿茶",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9268738",
+            "genre": "架空历史-爱情",
+            "status": "连载",
+            "wordCount": "22429字",
+            "credits": "126,224",
+            "latestUpdates": "2024-11-12 04:59:15"
+        },
+        {
+            "author": "花木林间",
+            "title": "掌心向阳",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9323180",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "24041字",
+            "credits": "98,184",
+            "latestUpdates": "2024-12-27 23:16:09"
+        },
+        {
+            "author": "小飞姬",
+            "title": "初次见面",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9284894",
+            "genre": "近代现代-爱情",
+            "status": "连载",
+            "wordCount": "20472字",
+            "credits": "96,205",
+            "latestUpdates": "2025-01-19 17:06:36"
+        },
+        {
+            "author": "木朽也",
+            "title": "石隐",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8526533",
+            "genre": "架空历史-爱情",
+            "status": "连载",
+            "wordCount": "17829字",
+            "credits": "93,342",
+            "latestUpdates": "2025-01-18 02:09:32"
+        },
+        {
+            "author": "缘湘生",
+            "title": "幽灵侦探",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=8928312",
+            "genre": "架空历史-悬疑",
+            "status": "连载",
+            "wordCount": "13281字",
+            "credits": "81,078",
+            "latestUpdates": "2024-10-31 12:00:00"
+        },
+        {
+            "author": "初七立冬",
+            "title": "游戏剧本：短命炮灰又争又抢",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9280296",
+            "genre": "架空历史-剧情",
+            "status": "连载",
+            "wordCount": "13368字",
+            "credits": "77,606",
+            "latestUpdates": "2024-12-04 19:22:31"
+        },
+        {
+            "author": "生菜sr",
+            "title": "盲盒：末世后她遇到了最强幸存者",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9303155",
+            "genre": "近代现代-剧情",
+            "status": "连载",
+            "wordCount": "12350字",
+            "credits": "77,187",
+            "latestUpdates": "2024-11-22 12:14:05"
+        },
+        {
+            "author": "青湘子",
+            "title": "织",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9320238",
+            "genre": "架空历史-奇幻",
+            "status": "连载",
+            "wordCount": "11594字",
+            "credits": "70,709",
+            "latestUpdates": "2024-12-21 11:19:02"
+        },
+        {
+            "author": "栖金木木",
+            "title": "皇上，请不要阴阳怪气",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9293022",
+            "genre": "架空历史-剧情",
+            "status": "连载",
+            "wordCount": "12280字",
+            "credits": "66,140",
+            "latestUpdates": "2024-12-21 22:50:31"
+        },
+        {
+            "author": "若于无风处",
+            "title": "满宫柳",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9289129",
+            "genre": "架空历史-剧情",
+            "status": "连载",
+            "wordCount": "10599字",
+            "credits": "51,212",
+            "latestUpdates": "2024-11-14 20:20:00"
+        },
+        {
+            "author": "不是破折号",
+            "title": "我在时间的尽头等你",
+            "url": "https://www.jjwxc.net/onebook.php?novelid=9324767",
+            "genre": "近代现代-剧情",
+            "status": "连载",
+            "wordCount": "28784字",
+            "credits": "50,582",
+            "latestUpdates": "2024-12-19 21:00:00"
+        }
+    ],
+    "2025-01-29, 08:38:48 GMT+8"
 ]
